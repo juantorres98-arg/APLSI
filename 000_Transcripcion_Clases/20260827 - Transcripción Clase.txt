@@ -1,0 +1,770 @@
+Luis Alejandro Campos:
+Luis Alejandro Campos empezó la transcripción
+ 
+[0:17] Luis Alejandro Campos:
+Bueno, un poco la hoja de ruta que tenemos hoy. Como les dije, vamos a hablar de cuestiones que ustedes van a poder utilizar como para generar, no solo el perfil de la consultora, que ustedes van a tener que crear en el transcurso del trabajo práctico, sino que entendemos que también les puede servir para generar un poco su imagen profesional, su perfil profesional y entender.
+ 
+Luis Alejandro Campos:
+un poco más de cómo comunicar ese perfil y hacer un poco de marketing propio, un poco de autobombo y entender por dónde vienen esos temas. Arrancamos con los consejos para presentaciones, es cómo transmitimos nosotros el conocimiento y
+ 
+Luis Alejandro Campos:
+La verdad que a la gente técnica en general, a la gente de sistemas, es algo que le cuesta bastante. Esta cosa de la interfaz humana, de transmitir conocimientos. En lo particular, en la vida profesional me he cruzado miles de veces con profesionales súper capaces, pero que por ahí se pierden oportunidades de crecimiento, por no poder comunicar bien qué es lo que saben.
+ 
+Luis Alejandro Campos:
+O cómo resolver las cosas, vamos un poco al principio hablar de cómo generar buenas presentaciones.
+ 
+Luis Alejandro Campos:
+Arrancamos con una cita del bono de Jerry Seinfeld, un cómico que tuvo en los 90, principios de los 2000 su pico con la serie homónima y si se fijan, más allá del chiste, es verdad que mucha gente le tiene pánico a exponer en público.
+ 
+Luis Alejandro Campos:
+Si a mí me preguntan, viene por el lado de esa ansiedad que te da porque del otro lado no sabés qué está pensando que tiene la cabeza el que tenés enfrente y cómo puede llegar a reaccionar a lo que decís o para dónde puede disparar. Como todo, me parece la vida para bajar.
+ 
+Luis Alejandro Campos:
+Incertidumbre para bajar un poco esa ansiedad, no conviene tener un método y eso es lo que vamos a hablar hoy.
+ 
+Luis Alejandro Campos:
+Vamos a charlar de cómo pensar, cómo estructurar nuestras presentaciones para que no nos pongan de los pelos al momento de presentarlas y para que podamos transmitir todo el conocimiento que tenemos de manera lo más efectiva posible.
+ 
+Luis Alejandro Campos:
+Vamos a ir recorriendo este camino con algunos detalles de cómo encarar cada una de estas cuatro etapas al momento de armar la presentación.
+ 
+Luis Alejandro Campos:
+Primero vamos a hablar un poco del objetivo que tenemos en la presentación. Lo primero que no tenemos que plantear es qué objetivo tenemos. Diferente va a ser un objetivo de inspirar, de enseñar, que por ahí nosotros tenemos del lado docente o cuando estamos en un rol donde estamos mentoreando a alguien o estamos queriendo
+ 
+Luis Alejandro Campos:
+mostrarle algo para que aprenda otra persona a por ahí el rol que tienen que tener ustedes consultores, que va más de la mano del vender el informar. Hay que tener en cuenta que diferentes objetivos de presentación tienen que ver con diferentes formas de comunicar y de presentar esa información.
+ 
+Luis Alejandro Campos:
+Una vez que nosotros tenemos más o menos definido el objetivo, tenemos que pensar en el público.
+ 
+Luis Alejandro Campos:
+Y acá tenemos 3 puntos, primero para quién es la presentación.
+ 
+Luis Alejandro Campos:
+Estamos presentándoselo a nuestro equipo de trabajo, estamos presentándoselo a los ejecutivos de nuestra empresa, se lo estamos presentando a un superior, estamos presentándoselo a compañeros.
+ 
+Luis Alejandro Campos:
+claramente No yo no voy a besar por ahí una una presentación con memes del estilo de la que estamos viendo si estoy presentando para la dirección de una organización súper tradicional donde van todos de traje y tampoco del otro lado del espectro no no haría una presentación súper formal para una charla interna de mi equipo o cuando le estoy presentando tal vez una idea de negocio una consultoría a un
+ 
+Luis Alejandro Campos:
+Tarta o una fintech.
+ 
+Luis Alejandro Campos:
+En ese sentido, es el para quién es la presentación y qué tipo de destinatario es. Y es importante también pensar en qué nivel de conocimiento tenés el tema. En ese sentido, yo no voy a ir a un nivel ejecutivo con algo súper técnico, bajando súper a detalle, porque no le sirve esa información. Cuando vamos a nivel táctico, a nivel estratégico, necesitamos condensar la información
+ 
+Luis Alejandro Campos:
+para que quede lo más importante, que le sirva a ese nivel como para asistir a la toma de decisiones. Y en cambio, si vamos a presentar un concepto técnico porque están evaluando una herramienta a gente de sistemas del otro lado, voy a bajar mucho más a nivel y voy a ser mucho más detallista en cuanto a los conceptos técnicos.
+ 
+Luis Alejandro Campos:
+Acá me parece, en este tercer paso es tal vez una de las partes más importantes antes de sentarse a armar el PowerPoint. El plan lo que tiene que ver es con la narrativa y con la oratoria. Vamos a insistir un montón con esto y es algo que a veces les cuesta mucho.
+ 
+Luis Alejandro Campos:
+Es esta cosa de esta visión sistémica de ver el trabajo como un todo y tener un hilo conductor de la presentación. Porque si no, a veces pasan que parecen slides sueltos medio random. Es el clásico de todos hicimos por nuestra cuenta y los juntamos al final.
+ 
+Luis Alejandro Campos:
+Acá hay un montón de formas, hay un montón de metodologías. Yo lo que les voy a presentar es una que nosotros recomendamos como para presentar test más técnicos o presentar propuestas de solución, que es un poco lo que van a estar haciendo ustedes durante el cuatrimestre.
+ 
+Luis Alejandro Campos:
+Primero, la introducción, la presentación, en su caso la presentación de la consultora, la presentación del cliente y hablar un poco del contexto, cómo se configura ese mundo actual, ese estado de las cosas, ese estado del arte, ya sea de la organización, ya sea de las cosas que están analizando.
+ 
+Luis Alejandro Campos:
+El 80% tiene a ser el contenido. Vamos a plantear el problema, la oportunidad de mejora.
+ 
+Luis Alejandro Campos:
+y vamos a presentar nuestra propuesta de solución y cómo quedaría ese mundo configurado con la incorporación de esa solución, esa sugerencia, esa mejora. Pasamos de ese mundo actual al nuevo mundo.
+ 
+Luis Alejandro Campos:
+Y acá lo importante es diferenciar claramente cuál es el problema, cuál es la oportunidad de mejora, cuál es el dominio, digamos, donde nosotros nos estamos manejando, cuál es la propuesta de solución, cuál es la sugerencia, la oportunidad de mejora que estamos presentando y cuáles son las consecuencias de todo eso.
+ 
+Luis Alejandro Campos:
+En ese mundo actual no que presentamos en la introducción.
+ 
+Luis Alejandro Campos:
+Acá es importante también ser honestos, hablar de ventajas y de ventajas. Yo sinceramente creo que no hay soluciones perfectas y siempre nosotros tenemos que sopesar esta cosa del costo-beneficio. Y si nuestra propuesta de solución tiene alguna brecha,
+ 
+Luis Alejandro Campos:
+Intentar plantear curso de acción. Bueno, mi solución no cubre todo lo que vos necesitas, pero se puede hacer esto o se puede llegar a estudiar esto a futuro.
+ 
+Luis Alejandro Campos:
+Finalmente, el último 10% un cierre.
+ 
+Luis Alejandro Campos:
+Acá conviene hacer un resumen y conclusiones, reforzar un poco todo lo que hablamos de vuelta, pensando en esto de sintetizar para que del otro lado tengan información para lo que es la toma de decisiones.
+ 
+Luis Alejandro Campos:
+Y normalmente un espacio para preguntas y respuestas donde vamos a obtener el feedback de la otra parte.
+ 
+Luis Alejandro Campos:
+Clave de todo esto y es algo como para grabarse la cabeza.
+ 
+Luis Alejandro Campos:
+Muchas veces cometemos tal vez el error no de aprender las cosas de memoria, no y trabarnos al momento de decir algún concepto o algo.
+ 
+Luis Alejandro Campos:
+Nosotros tenemos obviamente que planificar, tenemos que ordenar como vamos a contar las cosas Pero el público de antemano no tiene el guión, no sabe qué es lo que vamos a decir Si uno se olvida algo que la verdad por ahí no es entrar al tema o lo dice de otra manera Hay que seguir adelante y se pilotea
+ 
+Luis Alejandro Campos:
+Vamos a hablar un poco de las cuestiones que tienen que ver con la comunicación y el lenguaje.
+ 
+Luis Alejandro Campos:
+Nosotros tenemos la comunicación verbal, que es lo que termina diciendo la persona, no es lo que es fácilmente entendible. Después tenemos la comunicación paraverbal, la comunicación paraverbal.
+ 
+Luis Alejandro Campos:
+es como modulamos, como emitimos sonidos sin palabras, como sentimos, o sea, a través del tono, cuando usamos el volumen, no cuando aumentamos el volumen, la cadencia que usamos nosotros para hablar. Ahí lo que transmitimos es dinamismo, podemos transmitir énfasis, podemos transmitir emociones a través de
+ 
+Luis Alejandro Campos:
+Lo discursivo.
+ 
+Luis Alejandro Campos:
+En general, intentar relajarse, intentar usar las pausas y aprovechar los tonos de voz para hacer énfasis en los conceptos que ustedes quieren hacer énfasis. Acá un detalle que traigo de cuatrimestres anteriores, la virtualidad nos da la facilidad de
+ 
+Luis Alejandro Campos:
+Nosotros agarrar un post-it, ponerlo acá al costadito del monitor, al costadito de la cámara y tener no nuestras notas ahí dando vueltas o tenerlas acá abajo en el celular al momento de presentar.
+ 
+Luis Alejandro Campos:
+Sí, o sea, no está mal, pero si no lo tienen bien ensayado se nota mucho y donde se nota es la comunicación para verbal.
+ 
+Luis Alejandro Campos:
+porque en vez de ser fluidos en el habla, cuando uno lee, termina leyendo en un tono todo así y usando palabras a veces que son demasiado complicadas, como por ejemplo trigonometría y se nota porque se nota que es como no hablan ustedes de costumbre.
+ 
+Luis Alejandro Campos:
+Todo lo que es corporal un poco también lo perdemos en lo virtual. Depende un montón de la calidad de la cámara, el encuadre que hagan ustedes. Pero bueno, tengan en cuenta que para lo presencial los consejos los habrán escuchado seguramente varias veces en algunas otras materias.
+ 
+Luis Alejandro Campos:
+No tener las 2 manos en los bolsillos, no tambalearse, no jugar con las cosas en la mano, no cruzarse de brazos, no hablar con el compañero, no estar mirando el machete como el repaso de último minuto.
+ 
+Luis Alejandro Campos:
+Intentar hacer contacto visual, al menos con cada uno de los integrantes o los sectores, digamos, de la audiencia que tienen.
+ 
+Luis Alejandro Campos:
+Y esto no va solo para el que presenta, para los compañeros también. Si ustedes no muestran interés como equipo en el mensaje que está dando su compañero, muestran desinterés y es complicado generar el engagement de la otra parte si ustedes mismos no están interesados en el mensaje.
+ 
+Luis Alejandro Campos:
+Acá como consejo les digo, no queda otra que ensayar, ensayar y ensayar. La única forma que los pases les salgan bien, que parezca fluida la presentación, que se note ese trabajo.
+ 
+Luis Alejandro Campos:
+en la narrativa que ustedes armaron, no queda otra que ensayar. Les recomiendo, después están los links de la bibliografía adicional, el modelo IDA, que es un modelo que hubiera traído al marketing, que plantea que uno tiene que captar atención, generar interés, provocar un deseo y conseguir una acción.
+ 
+Luis Alejandro Campos:
+De la otra parte, principalmente de vuelta, orientado a marketing, orientado a lo que es venta, pero tiene algunas cositas que son interesantes y se pueden aplicar.
+ 
+Luis Alejandro Campos:
+Algo aclaro de todo esto, estos porcentajes son medios polémicos. Viene de un estudio que no tenía necesariamente como objetivo hablar de todo el discurso en general, sino que fue hecho con algunas frases sueltas, con mensaje contradictorio. Del estilo le decían
+ 
+Luis Alejandro Campos:
+A una persona falleció un pariente tuyo y se lo decían riéndose. No es una ley, no es un número, pero como bien dice ahí, no quédense con esto cuando.
+ 
+Luis Alejandro Campos:
+Lo que uno dice no coincide con cómo lo dice, lo que termina ganando es el cómo lo dice la actitud.
+ 
+Luis Alejandro Campos:
+Bueno, hasta acá vamos bien.
+ 
+[12:59] Santiago Gonzalez Riveros:
+Sí.
+ 
+[13:02] Orador 1:
+Bueno.
+ 
+[13:02] Esteban Alejandro De Nardo:
+Yeah.
+ 
+[13:02] Fermin Pene Azcarate:
+Sí, todo bien.
+ 
+[13:03] Christian Gabriel Jackson:
+Sí, todo bien.
+ 
+[13:04] Esteban Alejandro De Nardo:
+Good.
+ 
+[13:05] Orador 1:
+Buenísimo.
+ 
+Luis Alejandro Campos:
+Bueno, vamos a la cuarta parte y fíjense que nosotros hablamos un montón y un montón de cosas y recién vamos a abrir el PowerPoint y vamos a hablar del soporte visual.
+ 
+Luis Alejandro Campos:
+¿Para qué nos sirve el soporte visual? Primero para ilustrar la presentación.
+ 
+Luis Alejandro Campos:
+Ustedes van a hablar de un montón de conceptos que pueden resultar complejos. Van a hablar de procesos, van a hablar de cómo se estructura la organización. Después van a hablar de arquitectura empresarial, es un tema que vamos a ver más adelante. Y son cuestiones que realmente son difíciles de transmitir.
+ 
+Luis Alejandro Campos:
+únicamente verbalmente, con lo cual ustedes van a necesitar este soporte visual para ilustrar algunos puntos de la presentación. Después, entretener la audiencia.
+ 
+Luis Alejandro Campos:
+pocas cosas más monótonas que un grupo de personas hablando sin ningún tipo de soporte visual durante 20 minutos de un tema entre que son conceptos complejos y si no tenemos un soporte terminamos aburriendo a la audiencia o se termina teniendo esa fatiga de
+ 
+Luis Alejandro Campos:
+Escuchar solo sin poder contrastar con lo que vemos para que quede mejor el mensaje.
+ 
+Luis Alejandro Campos:
+y finalmente ayudar un poquito al presentador. No es la idea que sea un machete, no es la idea que en la presentación vuelque en todo el guión, pero la presentación tiene siempre los puntos clave y ustedes pueden recurrir a mirar que están presentando como para guiarse en esta narrativa.
+ 
+Luis Alejandro Campos:
+Vamos a hablar un poco de los pecados capitales del soporte visual.
+ 
+Luis Alejandro Campos:
+Leer el PowerPoint. Si ustedes me están únicamente leyendo lo que dice en pantalla, me hubiera mandado un mail. No pierdan tiempo ustedes, no pierdo tiempo yo, no pierdo tiempo el cliente, no pierdo tiempo a la otra parte. ¿Está bien?
+ 
+Luis Alejandro Campos:
+No es la idea que ustedes lean lo que está en el PowerPoint Cuando ustedes armen un PowerPoint pongan punteos y desarrollen ustedes verbalmente Lo importante es el mensaje, no el PowerPoint Ustedes van a tener la presentación que va a ser el soporte visual de la narrativa que van a plantear ustedes Y después como detalle van a tener la página web Ahí sí se van a poder explayar
+ 
+Luis Alejandro Campos:
+Pero la idea es que lo importante es el mensaje, no la presentación en sí.
+ 
+Luis Alejandro Campos:
+letritas chiquititas, como se llaman tipografías raras, difíciles de ver, ténganlo en cuenta. Muchos utilizan por ahí dispositivos móviles, tenemos pantallas de diferentes resoluciones, diferentes tamaños, lo han visto con el proyector de la facu que por ahí está medio flojito y hay colores que no se ven o hay
+ 
+Luis Alejandro Campos:
+Lo importante es que los conceptos estén en un buen contraste y en un buen tamaño fuente, lo principal aunque sea, como para que en caso que haya algún problema en la presentación se noten igual.
+ 
+Luis Alejandro Campos:
+3500 slides, o sea, presentaciones, normalmente la gente después de 30 minutos, 30 minutos de un mismo tema, empieza como a perder un poco la atención. Tengan en cuenta eso también, o sea, la idea no es que vayan pasando tampoco 80 slides a la velocidad de la luz, sino que
+ 
+Luis Alejandro Campos:
+Tengan slide de resumen de contenido y que ustedes se queden un slide, hagan una explicación y desarrollen sobre un slide.
+ 
+Luis Alejandro Campos:
+slide super complejos no O sea cuando un slide es muy pero muy complejo empieza a competir en la tensión entre
+ 
+Luis Alejandro Campos:
+lo que estoy hablando y lo que estoy mostrando. Aprovechen todo lo que le dan los software de presentación actuales, transiciones, fundidos, zooms, o sea, cuando tengan que mostrar algo súper complejo, vayan iluminando, que vayan apareciendo las cosas para que no haya tanta sobrecarga visual desde el inicio.
+ 
+Luis Alejandro Campos:
+Y finalmente, una cuestión de prolijidad y buen gusto, no le den rienda suelta a su diseñador gráfico amateur, que le encanta usar, guardar sombras y gradientes por todos lados. Es muy importante la consistencia de todos los artefactos que ustedes van a presentar, incluyendo la presentación final.
+ 
+Luis Alejandro Campos:
+En cuanto ejemplo de esto, vamos a ver.
+ 
+Luis Alejandro Campos:
+2 grandes de la tecnología.
+ 
+Luis Alejandro Campos:
+El primero es Bill Gates presentando el ecosistema Live allá por dos mil y pico. Fíjense lo que es eso, casi ni se ve el bueno de Bill ahí entre tantas cosas. Yo no sé si ver la Xbox que está ahí, la nube que está arriba.
+ 
+Luis Alejandro Campos:
+O si yo creo que hay una palma ahí, no sé, hay 15 millones de cosas y la verdad no se entiende mucho el mensaje y realmente compite un montón con lo que puede llegar a estar diciendo el narrador porque yo lo primero que empiezo cuando me ponen ese slide empiezo a escanear todo lo que hay dando vueltas y a ver qué identifico, qué entiendo, qué no entiendo.
+ 
+Luis Alejandro Campos:
+Con lo cual es complicado dentro del mundo de la tecnología. ¿Alguien me puede decir quién era uno de los mejores presentadores?
+ 
+[18:22] Esteban Alejandro De Nardo:
+Steve shops.
+ 
+[18:23] Bruno Joaquín Añes Rancaño:
+Me la juego con Steve Jobs.
+ 
+[18:26] Orador 1:
+Exactamente, fíjense esto Steve Jobs, iPhone Apple reinventa el teléfono y estaba él con una pantalla azul de fondo y el teléfono en la mano Fin El impacto que tiene ese mensaje
+ 
+Luis Alejandro Campos:
+Es mucho más fuerte que el otro, no sé qué opinan ustedes, ¿no?
+ 
+Luis Alejandro Campos:
+Pero realmente el mensaje llega mucho mejor a pesar de tener menos elementos en la presentación.
+ 
+Luis Alejandro Campos:
+Y un poco es eso lo que lo que les queremos transmitir, ¿no? Muchas veces menos es más.
+ 
+Luis Alejandro Campos:
+Bueno, cerrando un poco esta primer parte, hicimos este recorrido de los cuatro pasos de este método, de esta metodología de presentación.
+ 
+Luis Alejandro Campos:
+Primero definimos el objetivo para qué estamos presentando, buscamos conocer al público que responde el para quienes estamos presentando.
+ 
+Luis Alejandro Campos:
+Armamos un plan que es como lo voy a contar y recién ahí.
+ 
+Luis Alejandro Campos:
+¿Cómo lo voy a mostrar el soporte visual?
+ 
+Luis Alejandro Campos:
+Bonus track, como decía un ex jefe mío, los consejos para las preguntas y respuestas de cómo atajar los bananazos. Quiero que sepan que si reconocen ese videojuego de fondo, ya es hora que se hagan un chequeo médico.
+ 
+Luis Alejandro Campos:
+A ver.
+ 
+Luis Alejandro Campos:
+Primero, lo que me parece que por ahí da más valor al momento de armar una presentación, jugar un poco al abogado del diablo, ¿no? ¿Qué preguntas me pueden hacer, saber dónde el equipo está flojo y tener algún plan B si te pegan ahí?
+ 
+Luis Alejandro Campos:
+Ustedes tienen la ventaja de que no solo lo pueden hacer entre ustedes como equipo, sino que estamos en la era de la IA Ustedes pueden subir una presentación, subir el guión y preguntarle a la inteligencia artificial cuáles son los conceptos que están flojos, qué preguntas me pueden hacer
+ 
+Luis Alejandro Campos:
+Después, en general, tener aliados en la concurrencia de nuestro equipo para que en algún momento nos tiren un centro o que puedan responder algo si nosotros nos trabamos. Eso ustedes lo van a tener porque van a estar presentando un equipo. Aprovechen eso, no se estudien, digamos, solo su partecita.
+ 
+Luis Alejandro Campos:
+tengan más o menos en cuenta toda la narrativa a todos para poder saltar en caso de que un compañero se le corte la conexión si estamos presentando virtual alguien se traba o se confunde en algún concepto ayudarlo
+ 
+Luis Alejandro Campos:
+y siempre dejar tal vez un bocadito para el espacio de preguntas y respuestas. Principalmente en lo virtual se complica a veces la participación y si nadie participa pueden tirar un "normalmente nos preguntan esto"
+ 
+Luis Alejandro Campos:
+a veces lo que nos plantean es tal cosa sobre este tema
+ 
+Luis Alejandro Campos:
+y pueden llenar, digamos, un poco ese espacio en caso de que el sponsor no tenga preguntas, en caso de que la audiencia no tenga preguntas. Al final me parece que lo más importante es que no está mal no saber todo. Un mirá, no tengo la respuesta.
+ 
+Luis Alejandro Campos:
+no lo tuvimos en cuenta para la presentación pero me lo llevo para revisar siempre termina siendo más útil mucho más productivo que venderle humo al cliente
+ 
+Luis Alejandro Campos:
+Como les dije.
+ 
+Luis Alejandro Campos:
+más info. Les recomiendo de todo esto, acá van a tener lo que les dije del modelo AIDA, del serio de marketing digital, para que revisen. Un video que es el elevator pitch. Vamos a hacer un ejercicio con esto, con lo cual les pido que por favor lo miren. El elevator pitch es cómo presentar una idea en 20 segundos, porque el concepto es
+ 
+Luis Alejandro Campos:
+te cruzas con un inversor o con un stakeholder de tu proyecto y le tenés que explicar tu idea y llevarlo a accionar en lo que tarda en subir el ascensor. Y después hay algunos métodos diferentes de presentación, las reglas de Gai Kawasaki, el Pechakucha, que son 20 slide en 20 minutos solo con imágenes, un método japonés.
+ 
+Luis Alejandro Campos:
+Y diferentes textos que tienen que ver con este tema.
+ 
+Luis Alejandro Campos:
+Bueno, para cerrar una frase de Mark Twain, que no estaría muy chicada que digamos, pero la verdad queda bien para el cierre de esto, que dice que hay dos tipos de doradores, los que están nerviosos y los que mienten. Por más que uno haya dado una charla mil veces, la tenga super ensayada, ese momento siempre antes de arrancar, siempre te suben un poco las pulsaciones.
+ 
+Luis Alejandro Campos:
+Y que uno sea caradura, no necesariamente significa que tenga nervios de acero.
+ 
+Luis Alejandro Campos:
+Bueno.
+ 
+Luis Alejandro Campos:
+¿Alguna consulta hasta acá alguna pregunta, alguien tiene algún comentario, está acostumbrado a presentar?
+ 
+Luis Alejandro Campos:
+Yeah.
+ 
+[23:46] Melina Gabriela Arevalo:
+Hola.
+ 
+[23:48] Orador 1:
+Sí, Melina, se te escucha.
+ 
+[23:49] Melina Gabriela Arevalo:
+Sí.
+ 
+Melina Gabriela Arevalo:
+Ok, estoy manejando tomando la clase del autor.
+ 
+Melina Gabriela Arevalo:
+A Marisa.
+ 
+Melina Gabriela Arevalo:
+Yo lo que quería consultar es cómo podemos entrenarnos.
+ 
+Melina Gabriela Arevalo:
+Las habilidades también hablamos.
+ 
+Melina Gabriela Arevalo:
+Particularmente el tema era.
+ 
+Melina Gabriela Arevalo:
+Digo, podemos saber el contenido, podemos haberlo practicado frente al espejo o lo que sea, pero bueno.
+ 
+Melina Gabriela Arevalo:
+Nervioso.
+ 
+Melina Gabriela Arevalo:
+Ajá.
+ 
+Melina Gabriela Arevalo:
+Podríamos para.
+ 
+Melina Gabriela Arevalo:
+Por preparado.
+ 
+Melina Gabriela Arevalo:
+It does.
+ 
+[24:29] Orador 1:
+Sí, a ver, me parece que una buena herramienta tiene que ver con la tecnología, ¿no? O sea, ustedes se pueden juntar en su sala de Teams y hacer la presentación entera y grabarse, ¿no? Y mirar dónde pifiaron, cómo es el ritmo, porque al principio te suena raro cuando te grabas.
+ 
+[24:34] Melina Gabriela Arevalo:
+Thank you.
+ 
+Melina Gabriela Arevalo:
+Open.
+ 
+Melina Gabriela Arevalo:
+No.
+ 
+Melina Gabriela Arevalo:
+¿Qué?
+ 
+Melina Gabriela Arevalo:
+No.
+ 
+Melina Gabriela Arevalo:
+Okay.
+ 
+Melina Gabriela Arevalo:
+No.
+ 
+[24:49] Orador 1:
+pero les va a ayudar un montón eso. Realmente para los nervios, teniendo en cuenta que es una instancia de evaluación, es lógico que tengan algún tipo de nervios, pero la repetición es eso lo que te da, ¿no? Si vos repetís tanto, te termina saliendo como una segunda, una segunda naturaleza tuya, digamos, ese conocimiento.
+ 
+[24:55] Melina Gabriela Arevalo:
+La articulación.
+ 
+Melina Gabriela Arevalo:
+No.
+ 
+Melina Gabriela Arevalo:
+¿Dónde está?
+ 
+Melina Gabriela Arevalo:
+No.
+ 
+[25:09] Orador 1:
+Por eso les digo, es cuestión de ensayar un montón y ensayar en conjunto, que eso es lo importante porque van a presentar como grupo.
+ 
+[25:09] Melina Gabriela Arevalo:
+Send.
+ 
+Melina Gabriela Arevalo:
+Yeah.
+ 
+Melina Gabriela Arevalo:
+What?
+ 
+Melina Gabriela Arevalo:
+No.
+ 
+Melina Gabriela Arevalo:
+Yeah.
+ 
+Melina Gabriela Arevalo:
+Gracias.
+ 
+[25:23] Orador 1:
+Algo que nos pasó cuatrimestres anteriores es que teníamos un grupo que era muy bueno presentando.
+ 
+Luis Alejandro Campos:
+pero como no ensayaban, no mucho en conjunto, había alumnos que tenían un tono súper formal y otros alumnos del mismo grupo que tenían un toro mucho más informal, mucho más relajado. Y la presentación no estaba mal necesariamente, pero quedaba como súper raro, ¿no? porque
+ 
+Luis Alejandro Campos:
+venías como algo, un tono reformal y después venía uno a venderte el buzón completo, ¿no? Y eso lo que les va a dar ese timing es ensayar en grupo. O sea, de nada sirve sentarse, ensayar solo, aprenderlo solo, porque los va a ayudar a ustedes para estar
+ 
+Luis Alejandro Campos:
+Más confiados con el conocimiento que ustedes tienen que transmitir, pero lo importante es también tener una consistencia y tener una narrativa con todo su grupo.
+ 
+Luis Alejandro Campos:
+No.
+ 
+Luis Alejandro Campos:
+Bueno, ¿alguna otra consulta?
+ 
+Luis Alejandro Campos:
+Seguimos con el siguiente tema.
+ 
+Luis Alejandro Campos:
+Vamos a hablar un poquitito de lo que es identidad digital.
+ 
+Luis Alejandro Campos:
+Para arrancar vamos a diferenciar algunos conceptos que normalmente cuando los vemos dando vueltas por ahí, medio que se usan como sinónimos, medio que se confunden, pero tienen significados específicos, ya sea nosotros como individuales, ya sea como profesionales o como equipos o como
+ 
+Luis Alejandro Campos:
+Miembros de una organización, tenemos algunos rasgos todos que hacen que el producto de nuestro trabajo sea único y distinto con respecto al resto de las personas que hacen lo mismo que nosotros, ¿no?
+ 
+Luis Alejandro Campos:
+Con lo cual, todo esto que tiene que ver con imagen, marca e identidad, se busca resaltar ese diferencial que nosotros tenemos y lograr una coherencia en tres planos.
+ 
+Luis Alejandro Campos:
+¿Qué somos y qué hacemos, lo que decimos que somos y hacemos y lo que el resto ve de lo que somos y hacemos?
+ 
+Luis Alejandro Campos:
+Esas diferencias no y un poco cómo se perciben tienen que ver con los conceptos de identidad e imagen.
+ 
+Luis Alejandro Campos:
+La identidad tiene que ver, como bien dice ahí, lo que nosotros queremos transmitir sobre nosotros mismos o sobre la organización.
+ 
+Luis Alejandro Campos:
+personalidad, filosofía, piénsenlo como que la identidad es un factor interno. Como bien dice ahí, cómo somos, cómo actuamos. La imagen es como el público nos percibe.
+ 
+Luis Alejandro Campos:
+Tiene que ver con un aspecto externo, es mucho más difícil de controlar, porque la identidad es interna, es el cómo nos ven, qué transmitimos nosotros como organización, qué transmitimos nosotros como profesional.
+ 
+Luis Alejandro Campos:
+Y la marca no tiene que ver con un conjunto de decisiones que nosotros tomamos de manera deliberada para que la imagen se alinee con la identidad.
+ 
+Luis Alejandro Campos:
+¿Y acá es lo importante, no? La marca no es un logo. Nosotros por ahí tenemos súper asociado esta cosa de la marca del logo Coca Cola. La marca es gestión de la coherencia.
+ 
+Luis Alejandro Campos:
+Si nosotros tenemos una imagen y una identidad que están alineadas, tenemos una marca sólida. Si no, tenemos un problema de credibilidad. Porque la gente, nosotros decimos que somos súper éticos, responsables socialmente y la gente nos ve como que somos los que más contaminamos del planeta y que explotamos a nuestro. Bueno.
+ 
+Luis Alejandro Campos:
+Ahí tenés un problema marca y justamente lo que genera es un problema de credibilidad.
+ 
+Luis Alejandro Campos:
+Y yo acá les dejo, no como una preguntita para para que lo piensen, ¿no? Si hoy alguien a cualquiera de ustedes los googleo hoy, ¿no?
+ 
+Luis Alejandro Campos:
+en particular por ahí a los que no tienen el nombre y apellido tan tan común no pero a mí me pasa que si buscan Luis Campos en Google van a pasar 3 millones de personas si buscan Luis Alejandro Campos sistema por ahí aparezco dando vueltas por ahí pero lo que encuentra alguien que los googlea a ustedes se parece a lo que ustedes creen que son o a lo que son
+ 
+Luis Alejandro Campos:
+Nada, piensa en todo eso.
+ 
+Luis Alejandro Campos:
+Hoy, claramente, cuando estamos hablando de imagen e identidad, tiene que ver mucho con lo digital. Nuestra imagen se percibe y nuestra identidad se construye mucho a través de plataformas digitales.
+ 
+Luis Alejandro Campos:
+con lo cual la construcción de la identidad del profesional tiene un componente muy grande en lo digital y un poco lo que van a construir dentro de la cursada tiene que ver con eso, con esa construcción de la imagen, esa construcción de la identidad
+ 
+Luis Alejandro Campos:
+y finalmente tener una marca de consultora dentro de la cursada. Un poco empezaron ya a trabajar en lo que tiene que ver la entidad cuando estuvimos trabajando en el Miro, en el board.
+ 
+Luis Alejandro Campos:
+Vamos a hablar un poco de las características de la identidad digital.
+ 
+Luis Alejandro Campos:
+Es social.
+ 
+Luis Alejandro Campos:
+No, porque hoy por hoy, más allá de.
+ 
+Luis Alejandro Campos:
+Que nosotros definamos una identidad y que intentemos proyectar una imagen. Una gran parte de nuestra identidad digital se construye en función de las interacciones que nosotros tenemos con otros.
+ 
+Luis Alejandro Campos:
+También es subjetiva.
+ 
+Luis Alejandro Campos:
+Porque depende mucho de lo que vean de nosotros. Supongamos que nosotros hacemos cierta acción con cierta intencionalidad, ¿no? O queremos quedar bien, porque entendemos nosotros que nos hace ver profesionales. Muchos integrantes de las redes a las cuales nosotros pertenecemos pueden leer.
+ 
+Luis Alejandro Campos:
+o pueden actuar ante un mismo evento de manera distinta. Para muestra entrar a cualquier post de X y van a encontrar un montón de opiniones hasta encontradas muchas veces. Por eso decimos que nuestra identidad digital es subjetiva.
+ 
+Luis Alejandro Campos:
+es valiosa, creo que esto no es ningún secreto a esta altura del partido. Una identidad digital bien construida tiene un potencial impacto en captar proyectos, en captar negocios, en generarnos nuevas oportunidades profesionales.
+ 
+Luis Alejandro Campos:
+Y muchas veces es indirecta.
+ 
+Luis Alejandro Campos:
+Primero porque muchas veces nosotros podemos hacer servicios que no tengamos contacto directo con el cliente y realmente el cliente puede no conocer nuestra identidad profesional y también porque a veces esa identidad
+ 
+Luis Alejandro Campos:
+se puede leer por reviews, por ejemplo, de otros clientes, recomendaciones en las redes, la clásica. Ustedes cuando van seguramente a algún lugar, a algún lugar a comer o van a algún local, siempre miran las reviews de Google y ustedes no tuvieron contacto con la organización.
+ 
+Luis Alejandro Campos:
+Pero ya están teniendo una idea de la identidad digital.
+ 
+Luis Alejandro Campos:
+De esa empresa.
+ 
+Luis Alejandro Campos:
+Es fragmentada y tiene que ver con su carácter social.
+ 
+Luis Alejandro Campos:
+construye a través de múltiples medios múltiples plataformas por ejemplo una web institucional redes sociales
+ 
+Luis Alejandro Campos:
+Si ustedes crean, por ejemplo, para su consultora van a tener que entregar una web institucional. Muchos alumnos crean una cuenta de Instagram o una cuenta de LinkedIn y realmente lo que es la construcción de la identidad digital de un negocio, un profesional actualmente está fragmentado en múltiples plataformas.
+ 
+Luis Alejandro Campos:
+Por estas razones también es dinámica, está en constante evolución nuestra identidad digital y hasta la inacción, me atrevo a decir, termina en detrimento de nuestra identidad, porque no les pasa que cuando entran, por ejemplo a un
+ 
+Luis Alejandro Campos:
+una página de un local o un perfil de redes sociales de una casa de comidas y ven que el último post desde hace 3 años les da como una cosita, con lo cual fíjense el impacto que tiene no subirse a este dinamismo en la identidad digital de las organizaciones.
+ 
+Luis Alejandro Campos:
+Y lo más importante y que cambia un montón de la identidad digital a la identidad de un negocio, de un profesional, por ahí más tradicional, es que es casi indestructible.
+ 
+Luis Alejandro Campos:
+Es casi imposible eliminar algo completamente de Internet.
+ 
+Luis Alejandro Campos:
+Nuestra web institucional la podemos gestionar fácilmente, borramos comentarios, sacamos comunicados, pero en redes sociales empieza a complicarse un montón. Supongamos que recibimos una queja por redes sociales, podemos hacer una respuesta, intervenirla.
+ 
+Luis Alejandro Campos:
+Hasta el usuario puede quedar contento con esta intervención, pero por ahí alguien sacó captura de pantalla y en otro lado nos están funando. Un poco un ejemplo para contrastar. Los restaurantes tienen normalmente libros de comentarios y quejas, creo que acá en Argentina hasta es ley de que lo tengan.
+ 
+Luis Alejandro Campos:
+Y durante mucho tiempo fue un input súper importante para trabajar la identidad, porque en ese libro, en especial los que estaban insatisfechos, dejaban escrito
+ 
+Luis Alejandro Campos:
+Qué imagen tenía el cliente del negocio, cómo persiguían la marca. Pero eso era algo que se loguraba de manera completamente interna. No estaba el público, no estaba publicado. Hoy por hoy, como hablamos, basta poner nombre de restaurant en un navegador para que aparezcan montones de reviews de Google, comentarios, artículos en Tripadvisor.
+ 
+Luis Alejandro Campos:
+Realmente es bastante más difícil gestionar esa retroalimentación del cliente, en particular cuando tiene un impacto negativo.
+ 
+Luis Alejandro Campos:
+Resumiendo esta parte.
+ 
+Luis Alejandro Campos:
+Queremos saber que cualquier cosa que nosotros comuniquemos a través de la identidad digital va a tener impacto en la identidad real de nuestra organización, va a tener impacto en cómo nosotros estamos comunicando quienes somos. Hay cosas que me pueden potenciar un montón y hay cosas que si no tengo cuidado me pueden.
+ 
+Luis Alejandro Campos:
+Causar un efecto realmente negativo.
+ 
+Luis Alejandro Campos:
+importante como dice el segundo punto la coherencia para mí es lo más importante hay que ser ordenados hay que pensar antes de escribir a las redes sociales principalmente cuando estamos usando nuestros perfiles profesionales guarda con lo que publicamos en LinkedIn y ese tipo de cosas
+ 
+Luis Alejandro Campos:
+Y más allá, no es la intención tampoco caer en la paranoia, no en andar revisando todo el tiempo, a ver qué se dice de mí en las redes o qué están posteando en sobre mi negocio.
+ 
+Luis Alejandro Campos:
+tenemos que estar preparados para aceptar que un poco la construcción de esa identidad digital está en manos de terceros y es algo que nosotros no vamos a poder manejar. Por eso es importante mantener la coherencia. Si nosotros somos coherentes, ordenados, como dice ahí, va a ser mucho más difícil que
+ 
+Luis Alejandro Campos:
+Ese contenido de terceros termine afectando mi identidad digital y como me ven.
+ 
+Luis Alejandro Campos:
+Bueno, acá llegamos al tema de identidad digital. ¿Alguien tiene una consulta?
+ 
+[37:37] Bruno Joaquín Añes Rancaño:
+Super claro, gracias.
+ 
+[37:39] Orador 1:
+Buenísimo, acá les dejo para que vean que esto es totalmente real.
+ 
+Luis Alejandro Campos:
+Día de los inocentes hace un par de años, el community manager de Habana.
+ 
+Luis Alejandro Campos:
+Tiró a la mañana que le iban a regalar una caja navideña a todos los monotributistas.
+ 
+Luis Alejandro Campos:
+¿Para qué, no? Abajo, todo el mundo, ¿no? Diciendo sí, yo quiero mi caja, yo quiero mi caja, yo quiero mi caja. Bueno, tipo mediodía, el community "Ah, que la inocencia les valga", qué sé yo. Se armó una, la gente re enojada, tuvo un montón de publicidad negativa la empresa.
+ 
+Luis Alejandro Campos:
+y para que se den una idea de esto de el impacto que puede tener la identidad digital en la identidad real y en el mundo real Habana Tuvo una sanción de la secretaría de comercio interior no es una multa tuvo por ese posteo y terminaron
+ 
+Luis Alejandro Campos:
+dándole a todos desde el momento que se había hecho el post original hasta que dijeron que no era broma, todos los que habían comentado le tuvieron que regalar la caja con lo cual fíjense como algo que parece inocente, una interacción en redes, una broma del día de los inocentes cuando estamos hablando de nuestra identidad profesional o de la identidad de una organización
+ 
+Luis Alejandro Campos:
+¿Hasta qué punto puede llegar en perjudicarnos?
+ 
+Luis Alejandro Campos:
+Bueno, si no hay dudas, vamos con el último tema de la tríada y es el por el más cortito, el que es más puntual. Vamos a hablar un poco de las herramientas y los recursos que van a tener ustedes al momento de armar principalmente lo que tiene que ver con su identidad digital, su presentación, su marca.
+ 
+Luis Alejandro Campos:
+Mhm.
+ 
+Luis Alejandro Campos:
+Primero, paletas de color. Algo super importante es la coherencia entre los diferentes artefactos en cuanto a las paletas de color. Fíjense ustedes, las grandes marcas y hasta la facultad mismo tienen.
+ 
+Luis Alejandro Campos:
+cuatro, cinco, seis colores, dos colores primarios y el resto secundarios que mantienen en todas sus comunicaciones, su sitio web, sus presentaciones, en el caso de la UBA tenemos el naranja, el azul oscuro, si se fijan ustedes, hay una imagen cuidada que es común a todos los elementos.
+ 
+Luis Alejandro Campos:
+Y es un muy buen, a mi entender, punto como para arrancar ustedes a construir la identidad de la consultora. A mí en particular me gusta coolors. Lo vamos a ver ahora, vamos a tener una pequeña demos después y les voy a mostrar un poquitito. Lo que tiene bueno es que te deja elegir paletas ya creadas, crear tus propias paletas.
+ 
+Luis Alejandro Campos:
+y después ver más o menos cómo quedan con algunos contenidos de ejemplo.
+ 
+Luis Alejandro Campos:
+Imágenes e íconos, por favor les pido por Dalm y Gianina no usen imágenes con watermark Nada grita más poco profesional que las imágenes tengan la marca de agua del sitio que la sacaron Hay un montón de bancos de imágenes, hay un montón de bancos de iconos como para que puedan usar
+ 
+Luis Alejandro Campos:
+Acá hay algunos nada más, pero hay un montón de imágenes sin royalty. Recuerden, hablamos de la ética, no del profesional. Tenemos que respetar el derecho de autor, tenemos que dar crédito cuando hay que dar crédito.
+ 
+Luis Alejandro Campos:
+Algo que no les comenté que cuando les voy a subir al PDF y si no acá mismo en la presentación, todos los iconos son clickeables, es una especie de índice de páginas y herramientas.
+ 
+Luis Alejandro Campos:
+A mí me gusta mucho usar Flat Icon, Flat Icon lo que tiene es que los va a dejar buscar iconos y elementos de interfaz que tengan como una gama en común, un estilo en común, si se fijan ahí tienen outline en ***** que después lo pueden repintar de otro color, llenos con *****
+ 
+Luis Alejandro Campos:
+un gradiente, color lineal, planos, o sea, van a conseguir librerías de ícono clasificadas por íconos similares para que tenga consistencia toda la identidad visual.
+ 
+Luis Alejandro Campos:
+Algo clave antes de meterme con la edición de imágenes, ustedes van a tener dos tipos de imágenes dando vuelta en internet. Las imágenes vectoriales, que están definidas por puntos y vectores matemáticos, que son las que cuando agrandamos no vamos a perder calidad. Y después vamos a tener imágenes rasterizadas que
+ 
+Luis Alejandro Campos:
+son una sucesión de pixeles. Es la clásica que cuando ustedes abren la imagen, se pixela la imagen. Intenten buscar imágenes de alta resolución, después las achican, las recortan, pero para evitar ese problema de que quede muy borroso, muy pixelado cuando ustedes agrandan las imágenes.
+ 
+Luis Alejandro Campos:
+En cuanto a editores de imágenes, si alguien tiene la suite de Adobe MNOCA, hay productos open source, Inkscape para vectores, de Gimp para todo lo que tiene que ver con ruster. En particular, a mí me gusta mucho Krita, es un software gratuito que te permite hacer edición tanto de vectores
+ 
+Luis Alejandro Campos:
+Como de raster y tiene una interfaz mucho más amigable que de GIMP, que por ahí es medio áspera.
+ 
+Luis Alejandro Campos:
+Para todo lo que tiene que ver diagramas, la licencia de la facultad no tiene el vicio completo, pero si lo tienen es un muy buen software. A mí me gusta mucho usar el segundo en naranjita que es lo que se llama antes Draw.io, ahora es Drawings.net Es una herramienta que pueden generar diagramas muy sencillos. Ustedes van a tener que diagramar procesos, van a tener que diagramar
+ 
+Luis Alejandro Campos:
+componentes de tecnología con lo cual lo van a usar. Después les dejo por si no les gusta usar herramientas online, dos que pueden instalar y correr en su máquina, que es YD y Idia, son los otros dos iconitos. Y el último es uno que medio estuvo de moda o está de moda en el mundo de la tecnología que se llama Excalidro.
+ 
+Luis Alejandro Campos:
+que lo que hace son diagramas en estilo medio bocetado, medio cómic. Ahora no tanto, pero hace cosa de un año más o menos estaba re de moda todos los diagramas que ustedes venían dando vueltas en blogs de tecnología, la mayoría estaban hechos con eso.
+ 
+Luis Alejandro Campos:
+Presentaciones.
+ 
+Luis Alejandro Campos:
+LibreOffice Impress, PowerPoint, tienen el PowerPoint web de la facultad, si tienen el PowerPoint local, también lo pueden usar Google Slides o Canva Algo importante de todo esto
+ 
+Luis Alejandro Campos:
+en particular los que usan canva canva te permite hacer muchas animaciones hacerlo muy bonito la presentación pero tengan en cuenta que como ustedes van a compartir la pantalla muchas veces esas animaciones no se ven también por por la que tienen de conexión y algo importante de todo esto ustedes pueden usar la herramienta que quieran
+ 
+Luis Alejandro Campos:
+Pero en cada punto de revisión ustedes tienen que subir una exportación ya sea en PDF o PowerPoint al OneDrive. Nosotros vamos a corregir lo que está en el OneDrive, lo cual es importante que lo suban.
+ 
+Luis Alejandro Campos:
+Después, algunos recursos para las presentaciones, Infogram para lo que tiene que ver con infografía y algunas de templates para los PowerPoint para que ustedes no tengan que diseñar el contenido o la template de una.
+ 
+Luis Alejandro Campos:
+Por ejemplo, tienen slide carnival que le permite buscar por estilo por color una vez que ustedes definan su paleta de colores.
+ 
+Luis Alejandro Campos:
+Y Presentation Go, que por ahí no está tan bueno para template de presentaciones, pero tiene como pueden ver ahí un par de ideas como para hacer infografías y para mostrar contenido de manera más visual.
+ 
+Luis Alejandro Campos:
+Para los sitios web también lo hemos charlado un poco. Normalmente, acá tenemos Tilda CC, Wix, Wordpress, Weebly y GitHub Pages. Normalmente, la gran mayoría de los alumnos se decanta por Wix o por Wordpress. Son dos herramientas bastante sencillas para usuarios no técnicos.
+ 
+Luis Alejandro Campos:
+permiten bastante con los planes gratuitos, pero nos ha pasado que un cuatrimestre teníamos un desarrollador de frontend en uno de los equipos y armó un sitio en GitHub Pages y lo armó completo ahí y la verdad estaba muy bueno, va a depender todo de cuánta expertista
+ 
+Luis Alejandro Campos:
+tengan, pero mientras que el sitio sea accesible, no va a haber problema, ustedes pueden usar la herramienta que quieran. Si tienen un hosting dando vuelta por ahí y quieren subir una página hecha en PHP, lo pueden hacer. Eso es lo importante, que entiendan que el sitio mientras que esté accesible al momento de hacer la corrección, no vamos a tener problema.
+ 
+Luis Alejandro Campos:
+Finalmente, tipografías, Dafont, Fonts Google y Google Fonts. Las tipografías, guárdenselas para armar su logo para alguna cosa especial. No abusen, como vimos en la parte de la presentación. No le pongan fuentes completamente diferentes a todo. Intenten usar fuentes que sean compatibles con los navegadores.
+ 
+Luis Alejandro Campos:
+acuérdense de la legibilidad, acuérdense de que por ahí ustedes tienen que presentar, si presentamos la facultad presencial, por ahí la notebook de la facultad no tiene una fuente que ustedes usaron, manténganse lo más estándar posible de vuelta. La fuente por ahí está buena para generar otros recursos gráficos que no necesariamente es texto, por ahí gráficos y similares.
+ 
+Luis Alejandro Campos:
+Bueno.
+ 
+Luis Alejandro Campos:
+Acá llegamos con la parte de herramientas y recursos. ¿Alguna duda?
+ 
+[47:21] Santiago Gonzalez Riveros:
+No todo bien.
+ 
+[47:24] Orador 1:
+Buenísimo.
+ 
+[47:25] SANCHEZ LEGAL NICOLAS ESTEBAN:
+No, brother.
+ 
+[47:30] Orador 1:
+Bueno.
+ 
+Luis Alejandro Campos:
+¿Acá la pregunta que me van a hacer ustedes y todo esto no se puede hacer con ella?
+ 
+Luis Alejandro Campos:
+Y yo les voy a decir que muchos de todo esto se pueden ayudar con inteligencia artificial.
+ 
+Luis Alejandro Campos:
+Vamos a hacer una pequeña demo. Lo que intento también es que no termine haciendo eso, que no me baicodea en un sitio que termina andando de maneras totalmente extrañas y que es totalmente un dolor de cabeza para el usuario navegar. Tengan en cuenta eso. El sitio no solo tiene que estar bonito,
+ 
+Luis Alejandro Campos:
+Sino que tiene que ser navegable y útil para el sponsor.
+ 
+Luis Alejandro Campos:
+Bueno.
+ 
+Luis Alejandro Campos:
+Hasta acá llegamos con lo teórico, voy a frenar la grabación.
+ 
+Luis Alejandro Campos:
+Luis Alejandro Campos detuvo la transcripción

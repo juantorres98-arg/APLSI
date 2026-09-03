@@ -1,0 +1,920 @@
+Luis Alejandro Campos:
+Luis Alejandro Campos empezó la transcripción
+ 
+[0:05] Luis Alejandro Campos:
+Bueno, como les había comentado un poco, la idea es que los jueves tengamos una clase de teórica por ahí un poco más chiquitita, con algunos conceptos complementarios a lo que vamos viendo. Y hoy vamos a hablar, así dentro de esta introducción que venimos llevando desde la primera clase, un poco de
+ 
+Luis Alejandro Campos:
+El rol de ustedes que van a tener como licenciados en sistemas y en particular el rol como consultor, no que es un rol que es bastante.
+ 
+Luis Alejandro Campos:
+Usual no que los licenciados de nuestra de nuestra carrera con este perfil de líderes, no en cuanto a lo que es transformación digital que se plantea tengan.
+ 
+Luis Alejandro Campos:
+Primero arrancamos con la definición, que es la consultoría y acá la clave de todo esto es que primero es una actividad profesional y después buscamos con la consultoría transferir conocimientos.
+ 
+Luis Alejandro Campos:
+¿Por qué esto de transferir conocimientos? Normalmente nuestro cliente, no para poder llegar a ese punto de conocimiento que nosotros tenemos como consultores, como profesionales, tiene que meterle mucho tiempo, tiene que meterle muchos recursos, con lo cual nosotros con este servicio de consultoría lo que ayudamos es al cliente a rimar, digamos.
+ 
+Luis Alejandro Campos:
+El bochin de su organización mediante la transferencia de nuestro conocimiento.
+ 
+Luis Alejandro Campos:
+Es algo que ustedes lo pueden hacer como profesionales independientes, como consultores independientes y también es usual que se haga, como bien dice ahí, en la firma de consultoría.
+ 
+Luis Alejandro Campos:
+Vamos a hablar un poco de el modelo de trabajo en una consultora. Acá siempre hago la aclaración. Esto es el ideal, el deber ser. Todos sabemos que muchas consultoras distan de ser el modelo ideal de trabajo, pero a esto se debería apuntar, ¿no?
+ 
+Luis Alejandro Campos:
+todo lo que tiene que ver con capacitación, todo lo que tiene que ver con plan de carrera, el crecimiento interno. Esta cosa del shadowing, que nos pegamos a compañeros de nivel más senior como para poder aprender cómo se hacen las cosas, para poder absorber conocimiento.
+ 
+Luis Alejandro Campos:
+rotación en diferentes clientes, diferentes temáticas. Normalmente cuando se labura en consultoría en organizaciones ustedes pasan por diferentes roles y diferentes ramas de industria, con lo cual van adquiriendo un montón de conocimiento.
+ 
+Luis Alejandro Campos:
+Algo importante, más allá de la actualización continua, como bien dice ahí, de las temáticas innovadoras, que algo para mí es clave es la red de contactos profesionales. Esto del networking realmente, y más en el rubro de sistemas, me parece que es clave.
+ 
+Luis Alejandro Campos:
+O sea, muchas veces nosotros conseguimos trabajo, conseguimos nuevas oportunidades mediante gente que conoce a gente, porque la verdad parece que somos un montón, pero el sistema no somos tantos y más o menos nos conocemos todos o tenemos algún conocido en común, ¿no?
+ 
+Luis Alejandro Campos:
+Alto nivel de productividad, alto nivel de dedicación y el trabajo para proyectos, no esta cosa de la consultoría tiene un inicio, no? y tiene un fin.
+ 
+Luis Alejandro Campos:
+Normalmente, justamente por todo esto, si el cliente quiere desarrollar todo este conocimiento, este modelo en particular, requiere mucho tiempo y muchos recursos, con lo cual normalmente la consultoría suele ser, como bien dice, un servicio externo de la organización y tiene una relación
+ 
+Luis Alejandro Campos:
+Con esta contraparte que es el cliente.
+ 
+Luis Alejandro Campos:
+Acá rápidamente cuáles son las obligaciones del consultor va muy de la mano no solo de lo que tiene que ver con lo legal propiamente dicho, sino también con cuestiones que tienen que ver con la ética, con el profesionalismo, no con cuestiones.
+ 
+Luis Alejandro Campos:
+como la objetividad de juicio, que nosotros tenemos que ser lo más objetivos posibles y eso se lo vamos a pedir durante el trabajo. Todas las decisiones, todas las recomendaciones que hagan ustedes a su cliente o que vayan derivando en el trabajo de campo tienen que ser objetivas, tienen que ser lo menos sesgadas posibles.
+ 
+Luis Alejandro Campos:
+Y tienen que estar bien justificadas.
+ 
+Luis Alejandro Campos:
+Como bien les dije.
+ 
+Luis Alejandro Campos:
+El tema de afectación a la dignidad, a la ética profesional, la confidencialidad del análisis de los resultados, más allá de que en el mundo de la consultoría los que ya trabajan sabrán que se firman muchas veces documentación cuando uno trabaja con un cliente que tiene que ver con acuerdos de no divulgación, los famosos NDA.
+ 
+Luis Alejandro Campos:
+los Non Disclosure Agreement. Pero más allá de si firman un NDA o no, uno se debe a la confidencialidad del análisis. Normalmente uno, como consultor, trabaja con datos que tienen cierto nivel de sensibilidad del cliente.
+ 
+Luis Alejandro Campos:
+Todo lo que tiene que ver con retribuciones ventajas externas, no aprovechar ese acceso a la información que tenemos privilegiada dentro de una organización para obtener ventajas. Todo lo que tiene que ver con cuidar la reputación del cliente. Todo el tema de la comunicación, y eso también es clave en un trabajo de consultoría.
+ 
+Luis Alejandro Campos:
+Tener un ida y vuelta constante con el cliente para ir formalizando los avances. La consultoría no es un trabajo que me dan una tarea al inicio, hago todo solo, me olvido y reporto al final. Tiene que ver con mejora continua y un poco eso es lo que necesitamos y lo que nosotros buscamos que ustedes tengan la experiencia en este trabajo de campo. Y bueno.
+ 
+Luis Alejandro Campos:
+Todo lo que tiene que ver con normas legales, con normas éticas, dependiendo de la rama de la industria, hay colegios profesionales, hay códigos de ética dependiendo de la profesión.
+ 
+Luis Alejandro Campos:
+Pero como dijimos, esto es una relación de 2 partes, no solo tenemos el consultor, sino que tenemos también al cliente.
+ 
+Luis Alejandro Campos:
+Esta primer parte creo que es clave y seguro muchos los que trabajan por proyecto es algo con lo que luchan en el día a día. La claridad y precisión en el alcance. Muchas veces pasa que el cliente no sabe claramente qué es lo que quiere, qué es lo que necesita.
+ 
+Luis Alejandro Campos:
+Y a veces el consultor lo ayuda a definir bien ese alcance, pero tiene que salir del cliente, que es el alcance claro, que sea precioso y que se respete, dar toda la información que adquiere el consultor.
+ 
+Luis Alejandro Campos:
+no coaccionar ni entorpecer el curso de estudio. Y esto les va a pasar a ustedes cuando vayan a las organizaciones. Como charlamos en la primer clase, el trabajo que van a hacer ustedes tiene que ver con un análisis organizacional y ver las oportunidades de agregar valor con tecnología. Muchas veces, el cliente por ahí viene ya con la solución.
+ 
+Luis Alejandro Campos:
+No, yo quiero un ERP, yo quiero un CRM o yo quiero tal proveedor.
+ 
+Luis Alejandro Campos:
+eso, ustedes tienen que tener en cuenta que si vamos a hacer un trabajo que sea objetivo, que sea no sesgado, ustedes tienen que hacer todo en análisis y si bien pueden incorporar esa información en un proceso de consultoría, el cliente no debería coaccionar para sesgar
+ 
+Luis Alejandro Campos:
+el resultado de la consultoría a lo que él quiere. Mantener la comunicación, ¿no? Si así nosotros no tenemos comunicación con el consultor, como les dije, estamos hablando de un proceso continuo, no va a tener un buen resultado de la consultoría y no modificar las pautas del trabajo del profesional que tiene que ver con todo lo que se
+ 
+Luis Alejandro Campos:
+Definió en el alcance en cuanto a pautas de comunicación, cómo se va a trabajar, cómo se va a entregar. Eso tiene que estar claro desde el principio y dentro de lo posible, salvo el acuerdo entre partes, no se tiene que modificar.
+ 
+Luis Alejandro Campos:
+Acá tienen un poco resumidas las etapas del trabajo del consultor. Y esto es en general para cualquier tipo de consultoría, no necesariamente una consultoría tecnológica. Vamos de un diagnóstico del cliente donde nosotros relevamos toda la información que necesitamos para hacer el análisis en cuestión.
+ 
+Luis Alejandro Campos:
+Tenemos escenarios que son diferentes formas de poder resolver los inconvenientes, de poder resolver las problemáticas que detectamos o de poder aprovechar.
+ 
+Luis Alejandro Campos:
+Las ventajas no que nosotros descubrimos que la organización puede lograr.
+ 
+Luis Alejandro Campos:
+Después, ¿qué entra dentro del alcance de los proyectos? ¿Qué no entra dentro del alcance de los proyectos? Documentar también todo lo que tiene que ver con qué metodologías utilizamos. Es clave en el trabajo del consultor utilizar frameworks, utilizar metodología, porque entre otras cosas, nos van a dar.
+ 
+Luis Alejandro Campos:
+claridad al momento de comunicar todo ese proceso de consultoría, nos va a dar un criterio común y ya probado para resolver ciertas problemáticas comunes y además nos va a dejar documentar esa metodología, ese framework, nos va a permitir hacer una documentación que después agarre otro profesional y como está hecha
+ 
+Luis Alejandro Campos:
+Estandarizada en un framework con una metodología existente va a poder continuar ese trabajo.
+ 
+Luis Alejandro Campos:
+Documentar los tiempos que se insumieron en todas estas etapas, todos los entregables que se van haciendo a medida que.
+ 
+Luis Alejandro Campos:
+Se va realizando la consultoría y finalmente la propuesta de un plan o un curso de acción.
+ 
+Luis Alejandro Campos:
+Básicamente, lo que van a hacer ustedes durante el transcurso del cuatrimestre con su cliente es esto, que es la base de un trabajo de consultoría. Como charlamos la clase pasada, el fin de su consultoría va a ser la propuesta del plan. Ustedes no van a implementar, no van a realizar tareas operativas.
+ 
+Luis Alejandro Campos:
+Lo que van a decir es una recomendación a la organización de cómo incorporar tecnología de manera que agregue valor, de manera que apalanque los objetivos estratégicos de la organización.
+ 
+Luis Alejandro Campos:
+Hasta acá vamos bien, alguna consulta.
+ 
+Luis Alejandro Campos:
+¿Alguien trabaja en consultoría y la parte del alcance?
+ 
+Luis Alejandro Campos:
+¿La ha sufrido en algún momento?
+ 
+[10:35] Fermin Pene Azcarate:
+Yo trabajo en consultoría, pero en me metí como en un proyecto, digamos que yo estaba arrancado, así que.
+ 
+Fermin Pene Azcarate:
+Todavía no vi tanto alcance.
+ 
+[10:46] Orador 1:
+¿Y cómo lo ves en cuanto a las cosas que estuvimos viendo? ¿Tu trabajo, digamos, tu día a día, se acerca un poco más a este lo que debería ser o encontrás demasiados desvíos?
+ 
+[10:58] Fermin Pene Azcarate:
+Y es como lo decís, lo del cliente es complicado con el cliente. Siempre hay ahí bastantes problemas, por lo general en el día a día. Ahora estamos trabajando con un MVP, digamos, pero sí, siempre, siempre surge algo, algo nuevo.
+ 
+[10:58] Esteban Alejandro De Nardo:
+H.
+ 
+[11:19] Orador 1:
+¿Está esta dicotomía, no? Porque el cliente al fin y al cabo es el que paga la consultoría y mantener es no decir, che, el proceso es este y las cosas se tienen que hacer así. Es complicado, ¿no?
+ 
+[11:31] Fermin Pene Azcarate:
+Sí, sí.
+ 
+[11:35] Esteban Alejandro De Nardo:
+Yo, por ejemplo, también trabajo en una consultoría y muchas veces, o sea, la empresa está dividida en 2 áreas que sería preventa, los que definen quizás el alcance y todo esto, y después los que somos postventa que ejecutamos, digamos, y muchas veces pasa, por ejemplo, ¿no?
+ 
+Esteban Alejandro De Nardo:
+El cliente tiene contratado con nosotros 5 ventanas, no que puede disponer y hacer uso de ellas en cuando quiera, pero sin pasarse de esas 5 ventanas, ¿no? Y por ahí ha sucedido que una vez que se supera y empieza a pasar eso, se propone el área de preventa a modificar lo que es el alcance y es otro precio, quizás es otro otro acuerdo.
+ 
+Esteban Alejandro De Nardo:
+Pero es un es eso, hay una retroalimentación entre nosotros, que somos postventa con los de preventa.
+ 
+Esteban Alejandro De Nardo:
+¿Y el cliente?
+ 
+[12:22] Orador 1:
+Sí, en sistemas es el clásico, ¿no? El vendedor que promete el oro, el moro y todo, ¿no? Te promete a Cristiano Ronaldo, a Messi y Mbappé, todos en el mismo equipo. Y después está el equipo de consultoría, ¿no? Que cuando se encuentra con eso se encuentra que las contrain de tiempo, como bien decías vos, de presupuesto, de dinero, de tareas, realmente no cierran tanto, ¿no?
+ 
+[12:29] Esteban Alejandro De Nardo:
+Sí.
+ 
+[12:45] Orador 1:
+Por eso es importante, de vuelta, todo esto que tiene que ver con la comunicación, tiene que hacer un trabajo colaborativo y creativo, porque si no, ahí empiezan los problemas, cuando difiere lo que contrató el cliente con lo que realmente hay que ejecutar, ¿no? Bueno, gracias chicos.
+ 
+Luis Alejandro Campos:
+Bueno, hasta acá hablamos de cómo es el proceso de consultoría, hablamos un poquitito de por qué usamos metodologías, por qué usamos frameworks. Y ahora vamos a ver rápidamente algunas herramientas que usa el consultor. El framework es un conjunto, la metodología es un conjunto de acciones, un conjunto de cómo hacer las cosas.
+ 
+Luis Alejandro Campos:
+con algunas tal vez herramientas no incluidas y las herramientas son tal vez algunas cositas sueltas que le pueden servir como para varias metodologías o para varias situaciones.
+ 
+Luis Alejandro Campos:
+Estas de vuelta son algunas, no de las que van a estar usando a lo largo del cuatrimestre. Hay muchísimas más.
+ 
+Luis Alejandro Campos:
+No sé si llega a ver bien ahí, pero ¿alguien me puede decir estas 2? El primero no es un organigrama, pero ¿alguien sabe que son estas herramientas?
+ 
+Luis Alejandro Campos:
+La primera, la sí.
+ 
+[14:03] Santiago Gonzalez Riveros:
+¿Qué hora es un WS, no?
+ 
+[14:05] Orador 1:
+Exacto, ¿te acordás de para qué se usaba?
+ 
+[14:11] Santiago Gonzalez Riveros:
+Sí, como para.
+ 
+Santiago Gonzalez Riveros:
+¿Para vivir el proyecto como en fases o etapas en tareas como para ir modularizando el alcance, no?
+ 
+[14:22] Orador 1:
+Claro, vos con la WS que viene en inglés Work Breakdown Structure, que es básicamente la estructura de descomposición del trabajo Lo que yo identifico es macro tareas y sub tareas y puedo ver rápidamente la dependencia de las tareas. Yo para CA necesito antes hacer BSID
+ 
+Luis Alejandro Campos:
+Mhm.
+ 
+Luis Alejandro Campos:
+Del otro lado, el otro gráfico que tenemos ahí también es un gráfico de dependencia, pero está más asociado, no tanto a la dependencia directa, sino a lo temporal, sino a cómo tiene que fluir el proyecto.
+ 
+Luis Alejandro Campos:
+Es, en cierto modo, se ve muy asociado en las herramientas, ¿no? También lo pueden generar las herramientas, los 2, las herramientas de gestión de proyecto tipo Microsoft Proyecto similar.
+ 
+Luis Alejandro Campos:
+El segundo, si no lo conocen, es un diagrama de camino crítico.
+ 
+Luis Alejandro Campos:
+Donde yo puedo identificar cuáles son las tareas que son el camino crítico para el cumplimiento del proyecto.
+ 
+Luis Alejandro Campos:
+Y también de vuelta, ver gráficamente las dependencias.
+ 
+Luis Alejandro Campos:
+Bueno, este es fácil.
+ 
+Luis Alejandro Campos:
+¿Alguien sabe qué es este gráfico?
+ 
+Luis Alejandro Campos:
+También seguimos con la gestión de tareas y acá netamente en función del tiempo.
+ 
+Luis Alejandro Campos:
+¿Alguien sabe cómo se llama este diagrama?
+ 
+[15:55] Melina Gabriela Arevalo:
+Es el de Gan, el que va marcando como el cronograma.
+ 
+[15:58] Orador 1:
+Exactamente, es un diagrama de Gantt. Estos tres diagramas que vimos recién, un poco el Gantt siempre termina siendo la base. Las herramientas de gestión de proyectos modernas en base a un Gantt nos permiten agregar recursos, agregar dependencias, agregar hasta presupuestos, con lo cual
+ 
+[16:00] Melina Gabriela Arevalo:
+No.
+ 
+[16:18] Orador 1:
+Me permiten no tener un control total de las variables principales del proyecto, pero todo normalmente arranca cuando nosotros armamos elegant con la persecución de las tareas.
+ 
+Luis Alejandro Campos:
+Hechas en un eje de tiempo.
+ 
+Luis Alejandro Campos:
+Bueno, seguimos.
+ 
+Luis Alejandro Campos:
+Acá, bueno, tenemos la minuta de reunión, que es una vieja conocida estimo para todos, que la tenemos porque es importante. Muchas veces pasa que hay una reunión, nadie hace una minuta, nadie hace un resumen, después pasa el tiempo y les habrá pasado
+ 
+Luis Alejandro Campos:
+a todos, que empieza el vos dijiste que, yo dije que. Con lo cual la minuta de la reunión, a pesar de ser un artefacto simple, a pesar de ser una herramienta sencilla del consultor, sirve un montón como documentación de discusiones, documentación de decisiones, que después la podemos plasmar en otros artefactos, pero sirve como papel de trabajo
+ 
+Luis Alejandro Campos:
+Para decir, bueno, en esta etapa del proyecto se decidió esto.
+ 
+Luis Alejandro Campos:
+¿Del otro lado, alguien sabe qué es eso, qué es esa matriz?
+ 
+Luis Alejandro Campos:
+La que se llama es la matriz de interesados, mejor conocida como matriz de stakeholders. Lo que nos permite hacer esta matriz
+ 
+Luis Alejandro Campos:
+es organizar todos los stakeholders, que son no solo las partes interesadas que están dentro de la organización, sino también pueden ser partes interesadas que están por fuera, que son parte del contexto. Por ejemplo, organizaciones gremiales, gobierno, auditores externos. En cuanto a los ejes de
+ 
+Luis Alejandro Campos:
+¿Cuánto poder tienen sobre el proyecto y cuánto interés tienen sobre el proyecto? Y en base a esa relación poder-interés, definir estrategias las cuales yo tengo que tener en cuanto a esos stakeholders.
+ 
+Luis Alejandro Campos:
+Normalmente si tienen poco interés y mucho poder, lo consideramos como latentes y hay que mantenerlos satisfechos.
+ 
+Luis Alejandro Campos:
+Si tienen poco poder y poco interés sobre el proyecto, son indiferentes, hay que monitorearlos nada más.
+ 
+Luis Alejandro Campos:
+Después, si tienen mucho poder y mucho interés en el proyecto, son nuestros promotores, nuestros sponsors del proyecto. Hay que mantenerlos cerca, hay que tenerlos comunicados, hay que mimarlos, ¿no?
+ 
+Luis Alejandro Campos:
+Y si tienen poco poder y mucho interés en el proyecto, hay que mantenerlos informados también porque son posibles defensores de ese proyecto.
+ 
+Luis Alejandro Campos:
+Bueno, para cerrar.
+ 
+Luis Alejandro Campos:
+Acá 2 gráficos que también van a estar utilizando durante el cuatrimestre.
+ 
+Luis Alejandro Campos:
+El primero tiene que ver con un gráfico de costos, no donde nosotros hacemos una proyección de costos a lo largo del tiempo.
+ 
+Luis Alejandro Campos:
+A ustedes les va a pasar que con cualquier proyecto, cuando vayan a cualquier cliente, normalmente le van a pedir que una vez que describan toda la solución y todo, le van a pedir que respondan 2 preguntas.
+ 
+Luis Alejandro Campos:
+La primera es cuánto me va a salir y la otra es cómo lo voy a pagar.
+ 
+Luis Alejandro Campos:
+Y este tipo de gráficos de costos ayuda un montón para responder rápidamente y de manera gráfica esas dos preguntas.
+ 
+Luis Alejandro Campos:
+Después, el otro que ven es un gráfico de araña o como lo bautizó un alumno hace un par de cuatrimestres, el gráfico del pez, porque se usa mucho en los videojuegos para mostrar diferentes características. El gráfico de araña lo que me permite es mostrar rápida y gráficamente una comparación o una evolución
+ 
+Luis Alejandro Campos:
+En muchas dimensiones al mismo tiempo.
+ 
+Luis Alejandro Campos:
+Con lo cual, si se fijan, acá por ejemplo, está marcando diferentes relaciones entre lo que es el presupuesto y el gasto.
+ 
+Luis Alejandro Campos:
+En azul lo que estaba presupuestado y en rojo lo que gastaron. Y ahí se puede ver que marketing tenía menos presupuesto y gastó más.
+ 
+Luis Alejandro Campos:
+Y que desarrollo no gastó casi nada y tenía un montón presupuestado. Fíjense cómo rápidamente podemos hacer una primera interpretación gráfica de estas diferentes dimensiones.
+ 
+Luis Alejandro Campos:
+Bueno, hasta acá vamos bien.
+ 
+[20:59] Esteban Alejandro De Nardo:
+Sí.
+ 
+[20:59] Orador 1:
+¿Alguna consulta, alguna duda? Buenísimo.
+ 
+[21:00] Santiago Gonzalez Riveros:
+Each.
+ 
+[21:00] Fermin Pene Azcarate:
+Sí, perfecto.
+ 
+[21:02] Nicole Noelia Ortiz Choque:
+Sí.
+ 
+[21:05] Orador 1:
+si meten dedito para arriba tranqui yo los veo y me quedo tranquilo que lo entendieron buenísimo
+ 
+Luis Alejandro Campos:
+Bueno.
+ 
+Luis Alejandro Campos:
+Ahora vamos a hablar de algunas diferencias entre el rol de consultor propiamente dicho y algunos otros roles con los cuales tienen puntos de contacto y a veces se confunden. El primer análisis lo vamos a hacer en cuanto a la responsabilidad en el crecimiento del cliente y la responsabilidad por los resultados.
+ 
+Luis Alejandro Campos:
+No es lo mismo generar.
+ 
+Luis Alejandro Campos:
+valor agregado al cliente, capacidades instaladas que ser responsable por el resultado final, ya sea la ganancia, ya sea
+ 
+Luis Alejandro Campos:
+Algún tipo de implementación y vamos a analizar un poco algunos roles en estos ejes.
+ 
+Luis Alejandro Campos:
+El que no tiene para nada responsabilidad en los resultados, pero tiene mucha responsabilidad en el crecimiento del cliente, tiene que ver con el visionario, este guía donde va a inspirar al cliente compartiendo un poco su experiencia, compartiendo
+ 
+Luis Alejandro Campos:
+Un poco, como bien dice ahí, ese mañana mejor, no esta cosa muy mucho más onda charla TED, no digamos.
+ 
+Luis Alejandro Campos:
+Y.
+ 
+Luis Alejandro Campos:
+Vamos a tener cuestiones como el facilitador, que no va a hacer nada, pero lo va a guiar el cliente, el observador reflexivo.
+ 
+Luis Alejandro Campos:
+que lo va a mirar, va a observar la organización, va a observar al cliente y le va a describir y hacer una reflexión sobre lo que ve.
+ 
+Luis Alejandro Campos:
+Cuando llevamos en el medio que tenemos.
+ 
+Luis Alejandro Campos:
+Yeah.
+ 
+Luis Alejandro Campos:
+Un poco más de responsabilidad por los resultados del cliente, nos encontramos dos de los roles que tal vez se confunden un poco. Primero, el coach, el entrenador.
+ 
+Luis Alejandro Campos:
+que tiene que ver más con el desarrollo del cliente, el desarrollo personal, con generar capacidad. Es decir, como vimos, el consultor, que si bien es responsable por el resultado del cliente, no tiene esa faceta de crecimiento personal, de
+ 
+Luis Alejandro Campos:
+De coacheo, no que tiene el entrenador.
+ 
+Luis Alejandro Campos:
+Y en el medio tenemos el profesor, que lo que hace es básicamente lo que estamos haciendo acá. Principios, métodos, metodologías repetibles como para resolver ciertos tipos de problemática. Cuando vamos en lo que es crecimiento del cliente y resultados, tenemos el socio.
+ 
+Luis Alejandro Campos:
+El socio es un igual, es un par del cliente. Es responsable por el crecimiento de la organización, responsable por el crecimiento del cliente y también es responsable por los resultados, porque es parte intrínseca de esa estructura de la organización.
+ 
+Luis Alejandro Campos:
+Tenemos el mentor, que lo que hace el mentor es lo hace.
+ 
+Luis Alejandro Campos:
+Y un poco el cliente aprende mediante lo que hablamos cuando hablábamos de cómo se trabaja en consultoría con este shadowing, ¿no?
+ 
+Luis Alejandro Campos:
+El cliente mira como lo hace el mentor y aprende mediante eso.
+ 
+Luis Alejandro Campos:
+Y cuando no tenemos nada de responsabilidad del cliente, que no nos interesa generar capacidades instaladas en el cliente o generar crecimiento personal en el cliente, pero tenemos responsabilidad por los resultados, es el experto técnico El experto técnico viene, hace una tarea
+ 
+Luis Alejandro Campos:
+hace algo o te da una serie de pasos para hacer y esa es la única responsabilidad que tiene.
+ 
+Luis Alejandro Campos:
+Un poco resumiendo lo que estuvimos charlando recién en estas cuatro dimensiones, estos cuatro roles que, como les dije, tienen puntos de contacto, pero no son lo mismo.
+ 
+Luis Alejandro Campos:
+Lo importante es que todos tienen experiencia en cierto tema.
+ 
+Luis Alejandro Campos:
+La diferencia que el consultor.
+ 
+Luis Alejandro Campos:
+Yeah.
+ 
+Luis Alejandro Campos:
+Tiene esta cosa de la visión estratégica y recomienda sobre procesos o sobre proyectos normalmente. El trabajo de consultor tiene un principio, tiene un fin, tiene entregas, tiene documentación, tiene esa transferencia del conocimiento. La diferencia con el asesor, el asesor es alguien que sabe mucho
+ 
+Luis Alejandro Campos:
+pero da soporte a un proceso de la organización o un área de la organización y acá no tenemos tiempo preestablecido. Piénsenlo en los directorios que tienen un asesor legal y técnico, cuestiones que un escribano, donde yo tengo, levanto el teléfono, mando mensaje
+ 
+Luis Alejandro Campos:
+Y me puedo asesorar en una variedad de temas de su competencia, pero no va a estar encima de un proyecto de principio a fin.
+ 
+Luis Alejandro Campos:
+El coach lo que busca, como hablamos, es un poco el entendimiento, esto de desarrollar las competencias y las habilidades en las personas y tampoco no necesariamente puede tener un tiempo predeterminado. Hay mucha gente que un poco
+ 
+Luis Alejandro Campos:
+asemejándolo a procesos como la psicoterapia durante mucho tiempo están coacheados y o sea, el coach los ayuda a sobrellevar un montón de situaciones complejas como dice ahí en la vida real.
+ 
+Luis Alejandro Campos:
+Y finalmente, el especialista, como dijimos, tareas específicas, responsable de la calidad de trabajo y es un especialista en una temática. Pero nada más, viene, hace una serie de tareas específicas, se va. Un poco eso son las diferencias en roles que, a priori, muchas veces en el común se utilizan como sinónimos.
+ 
+Luis Alejandro Campos:
+Pero no lo son.
+ 
+Luis Alejandro Campos:
+Cerrando la parte de consultor y consultoría tenemos que entender los requerimientos del cliente clave documentar todo el proceso
+ 
+Luis Alejandro Campos:
+Clave planificar.
+ 
+Luis Alejandro Campos:
+Armar un cronograma, armar un gato, usar esas herramientas que estuvimos viendo.
+ 
+Luis Alejandro Campos:
+La cuarta es un poco lo que charlamos, no al momento de definir alcance y todo eso si yo.
+ 
+Luis Alejandro Campos:
+No tomo las decisiones durante el diseño del proyecto, durante las primeras etapas, después esas decisiones van a ser mucho más costosas porque implican volver atrás tal vez en cuestiones que yo ya arranqué.
+ 
+Luis Alejandro Campos:
+Con lo cual.
+ 
+Luis Alejandro Campos:
+Nosotros tenemos que pensar el proyecto de manera que las decisiones se tomen lo más cerca del inicio, el momento del diseño del proyecto, el diseño de la consultoría.
+ 
+Luis Alejandro Campos:
+Lo que hablamos de poder reproducir los resultados de la objetividad, datos concretos, datos contrastables. Esto también se lo vamos a pedir. Muchas veces en el proyecto de consultoría que van a hacer durante el cuatrimestre, ustedes van a tener que estimar algunas cosas, van a tener que asumir otras.
+ 
+Luis Alejandro Campos:
+Lo que se va a pedir es que se documente que si hacen.
+ 
+Luis Alejandro Campos:
+Una presunción de costos que la apoyen mediante un informe de alguna consultora reconocida o algún tipo de estadística de una fuente fidedigna.
+ 
+Luis Alejandro Campos:
+Y la consultoría implica estar enfocado en el cliente. Correr un poco al costado lo que uno quiere o lo que uno desea y estar enfocado en el cliente, que esa era la dificultad que charlábamos y un compañero trae el caso, ¿no? Esta cosa de tener el doble sombrero, de ser parte de la organización.
+ 
+Luis Alejandro Campos:
+Pero estar enfocado en el cliente a nivel consultoría.
+ 
+Luis Alejandro Campos:
+Bueno.
+ 
+Luis Alejandro Campos:
+Es mucho más fácil mantener un cliente que tratar de recuperarlo. Warren Buffett decía que una reputación.
+ 
+Luis Alejandro Campos:
+se tarda años en crearse pero se tarda segundos en destruirla con lo cual es súper importante tener en cuenta todas las cuestiones éticas, todas las cuestiones profesionales que estuvimos hablando porque realmente hacen a la reputación de ustedes como futuros profesionales, de ustedes como profesionales o como consultores.
+ 
+Luis Alejandro Campos:
+Bueno, hasta acá llegamos a la primer parte, hablamos un poco de consultoría, hablamos un poco de herramientas, las diferencias entre los roles. ¿Alguien tiene alguna duda, alguna consulta? ¿Alguien quiere hacer algún comentario?
+ 
+Luis Alejandro Campos:
+Bueno.
+ 
+Luis Alejandro Campos:
+Vamos con la segunda parte, que por ahí es un poco más de actualidad, un poco menos teórica y tal vez les va a resultar a ustedes un poco más interesantes. Y lo que vamos a ver es
+ 
+Luis Alejandro Campos:
+que más allá de esta cosa de la consultoría organizacional, de la consultoría en tecnología de la información, ¿cuáles son los posibles caminos profesionales que puede tener un profesional de sistemas? En la primera clase charlamos que un poco el conocimiento tribal, dice que esta carrera tiende
+ 
+Luis Alejandro Campos:
+a sacar analistas funcionales, pero en realidad en el mundo de TI, el licenciado en sistemas de UBA en económicas tiene, me parece un montón de ventajas que tiene que ver con lo que dice ahí, ese perfil híbrido de ser el fusible entre el negocio y la tecnología. Nosotros como profesionales de
+ 
+Luis Alejandro Campos:
+la facultad de económicas si bien tenemos conocimientos técnicos Ustedes han tenido materias de programación materias redes datos tenemos conocimiento técnico también hablamos no el lenguaje del negocio el lenguaje de la Administración el lenguaje contable
+ 
+Luis Alejandro Campos:
+Con lo cual eso nos brinda un montón de ventajas en cuanto a lo que es el desarrollo profesional en varios roles y vamos a recorrer un poquitito eso rápidamente.
+ 
+Luis Alejandro Campos:
+El primero que les traigo es algo que hay mucha demanda hoy que tiene que ver todo lo que tiene que ver con las profesiones relacionadas con datos.
+ 
+Luis Alejandro Campos:
+¿Por qué es importante el conocimiento que ustedes tienen como profesionales de sistemas de económicas? Lo que charlamos, esta cosa del nexo operativo. Ustedes pueden hablar
+ 
+Luis Alejandro Campos:
+con el que usa los datos, con el cliente interno y también pueden hablar con el de sistemas, que es el que termina implementando el data warehouse, el data lake, el lake.
+ 
+Luis Alejandro Campos:
+Pueden actuar como coordinador y facilitador, ustedes tienen las competencias, tienen los conocimientos.
+ 
+Luis Alejandro Campos:
+para ayudar al gobierno de todo lo que tiene que ver con datos. Y algo clave que es lo que dice ahí, hay un concepto que se llama garbage in, garbage out. Entra basura, sale basura. Y hoy por hoy, la era de la inteligencia artificial
+ 
+Luis Alejandro Campos:
+Es importantísimo entender eso, que si yo no tengo datos confiables, si tengo datos desorganizados, desactualizados, todo lo que me de cualquier modelo de inteligencia artificial
+ 
+Luis Alejandro Campos:
+Va a terminar siendo un mal resultado.
+ 
+Luis Alejandro Campos:
+Y vamos a estar gastando en una tecnología que no va a agregar todo el valor que potencialmente le puede agregar al negocio.
+ 
+Luis Alejandro Campos:
+Y claramente, si yo tengo un entendimiento del proceso, tengo un entendimiento organizacional, yo voy a poder generar mejores datos, datos de calidad y por ende voy a poder dar mejor información para la toma de decisiones dentro de la organización. Algo que vamos a repetir durante la cursada y que me parece que es importante es
+ 
+Luis Alejandro Campos:
+Esta cosa de.
+ 
+Luis Alejandro Campos:
+No la tecnología por la tecnología, sino la tecnología siempre pensando en apalancar al negocio, en potenciar las capacidades del negocio, en cumplir los objetivos estratégicos del negocio.
+ 
+Luis Alejandro Campos:
+Acá les dejo algunos desafíos que trae la idea.
+ 
+Luis Alejandro Campos:
+Algunas cosas ya lo han visto en algunas materias.
+ 
+Luis Alejandro Campos:
+Play hace un montón de cosas sola.
+ 
+Luis Alejandro Campos:
+pero tenemos justamente que manejar muy bien esa capa de gobernanza vamos a charlar después en unas clases más adelante tal vez un poco más de Inteligencia artificial un poco de cuáles son los desafíos que nos vamos a enfrentar como profesionales que ya nos estábamos enfrentando mucho como profesionales
+ 
+Luis Alejandro Campos:
+Y.
+ 
+Luis Alejandro Campos:
+Pero tiene que ver con esto, gobernanza crítica. Agregar el criterio profesional a toda esta automatización, todas estas cosas que parecen magia y se hacen solas.
+ 
+Luis Alejandro Campos:
+Y es clave en algunas cosas, todo lo que tiene que ver con storytelling, todo lo que tiene que ver con el pensamiento analítico crítico, que son cosas que, al menos por ahora, la inteligencia artificial no necesariamente domina, porque nosotros como humanos tenemos un contexto organizacional mucho más grande. Tenemos un pensamiento estratégico a nivel de organización.
+ 
+Luis Alejandro Campos:
+Tenemos un entendimiento de cuestiones como la cultura organizacional, que hoy son difíciles de plasmar en datos duros que pueda procesar un modelo de inteligencia artificial. Y después todo lo que tiene que ver con la integración de herramientas y poder elegir bien cuál es la herramienta que sirve mejor para cada caso.
+ 
+Luis Alejandro Campos:
+Otro rol que realmente se está buscando mucho en el mercado tiene que ver como con los profesionales de ciberseguridad.
+ 
+Luis Alejandro Campos:
+Y.
+ 
+Luis Alejandro Campos:
+Acá lo que tenemos con inteligencia artificial tiene que ver con
+ 
+Luis Alejandro Campos:
+un montón de riesgos nuevos. Todo lo que tiene que ver con inteligencia artificial aumenta la superficie de ataque para los cibercriminales, para actores maliciosos, para nuestra organización. Y ya de per se trae algunas cuestiones puntuales que tienen que ver con
+ 
+Luis Alejandro Campos:
+los sesgos que pueden tener los modelos, fugas de datos, cuestiones que son inherentes a cómo es la tecnología de Inteligencia artificial.
+ 
+Luis Alejandro Campos:
+Y algo que está pasando no tiene que ver con la cadena de suministro. Los modelos de inteligencia artificial actuales son muy grandes y son, en cierto modo, la gran mayoría una caja negra.
+ 
+Luis Alejandro Campos:
+Con lo cual, muchas veces pasa que hay vulnerabilidades en algunos modelos, actores maliciosos inyectan, ¿no?
+ 
+Luis Alejandro Campos:
+código malicioso en los modelos o en componentes de los cuales dependen los modelos para poder correr y eso es lo que tiene que ver con la cadena de suministro No solo yo me tengo que asegurar que el modelito que me bajo de digamos una página como HagingFace funciona bien, sino todo
+ 
+Luis Alejandro Campos:
+El scaffolding que yo necesito para correr ese modelo, tener el control de qué instalo yo en mi infraestructura.
+ 
+Luis Alejandro Campos:
+En cuanto a competencias clave, tenemos todo lo que tiene que ver con políticas, así como tenemos gobierno de datos, tenemos cuestiones de marcos de regulación, marcos de gobierno, todo lo que tiene que ver seguridad de la información, todo lo que tiene que ver con análisis de riesgos,
+ 
+Luis Alejandro Campos:
+Con plan de respuesta rápida, con planes de redundancia.
+ 
+Luis Alejandro Campos:
+¿Cómo asegurarnos que nuestra infraestructura sea resiliente?
+ 
+Luis Alejandro Campos:
+y traducir los requisitos de negocio, los requisitos de esos frameworks, de esas mejores prácticas a controles específicos. ¿Dónde pongo los límites de uso? ¿Dónde pongo la decisión humana? ¿Cómo registro, cómo audito qué es lo que entra y qué es lo que sale de estos modelos?
+ 
+Luis Alejandro Campos:
+Desafíos, ya muchos los conocen. Phishing hiper personalizado, a más de uno debe haber llegado correos que parecen totalmente personalizados para ustedes y en realidad son phishing. Los deepfakes donde uno agarra la voz, la imagen de otra persona y se hace pasar por otra persona.
+ 
+Luis Alejandro Campos:
+Como les dije, mayor superficie de ataque, nuevos vectores inherentes a la tecnología.
+ 
+Luis Alejandro Campos:
+y diferentes regulaciones. Si bien nuestro país hoy por hoy está del lado más alineado con la postura estadounidense de no regular tanto la IA, por ejemplo, la Unión Europea tiene una ley de IA que limita un montón de usos y tiene un montón de reglas de compliance.
+ 
+Luis Alejandro Campos:
+Todo lo que tiene que ver con habilidades tiene que ver con cómo proteger toda esta infraestructura, todos los marcos regulatorios, cómo son las nuevas formas de detectar. Porque yo puedo utilizar inteligencia artificial para hacer correlación de eventos y detectar ataques antes de que tengan un impacto. Lo que tiene que ver con trazabilidad y de vuelta todo alineado.
+ 
+Luis Alejandro Campos:
+No a una visión de negocio.
+ 
+Luis Alejandro Campos:
+Este ya por ahí es el más sencillo. Acá había un par de alumnos que están trabajando con desarrolladores y esto hoy por hoy es parte de la cotidianidad. Es tal vez el impacto más visible de lo que es la inteligencia artificial en TI.
+ 
+Luis Alejandro Campos:
+Y tiene que ver cómo impacta sobre el desarrollo de software y el mantenimiento y creación de infraestructura.
+ 
+Luis Alejandro Campos:
+lo que cambió es que yo antes tenía un ciclo de vida como lo habrán visto en materias de ingeniería de software no clásico donde yo tenía código le corría las pruebas lo desplegaba y después retroalimentaba
+ 
+Luis Alejandro Campos:
+Bueno, hoy por hoy eso cambió y yo de la idea de negocio, yo ya tengo un prompt claro que luego la inteligencia artificial. La inteligencia artificial me hace una propuesta de código, lo reviso, lo paso a las pruebas automáticas básicas, unas pruebas de, como se llama, pruebas unitarias.
+ 
+Luis Alejandro Campos:
+que la inteligencia artificial ya mismo la genera a medida que va generando el código.
+ 
+Luis Alejandro Campos:
+Tengo una entrega, hago el smoke test, lo deployo y ahí mido, reviso, veo como se desempeña el software y aprovecho para retroalimentar.
+ 
+Luis Alejandro Campos:
+Un poco lo que traemos siempre es esto, la IA no reemplaza el juicio humano. Van a ver mucho en redes sociales, a la gente que hace aplicaciones tipo vibe coding, que sale uno y dice “no, hice el nuevo Spotify”. Sí, pero tu nuevo Spotify que hiciste
+ 
+Luis Alejandro Campos:
+en dos horas con codex con Cloud code probablemente no escale probablemente tenga un montón de agujeros de seguridad no
+ 
+Luis Alejandro Campos:
+De vuelta, la idea no reemplaza el juicio humano, no reemplaza esa tarea de hacer arquitectura de los desarrollos, si bien nos ayuda un montón para salir rápido con MVPs, normalmente a la hora de generar cosas que son mantenibles y que
+ 
+Luis Alejandro Campos:
+Son grandes, normalmente hay que pegarle una mirada más, no hay que hacerle doble clic.
+ 
+Luis Alejandro Campos:
+Claramente es un potenciador para hacer informes, para evaluar y definir requerimiento, para generar código. Es muy raro, ya que la gente codifique desde cero y se ponga desde cero a arrancar. O sea, como mínimo le pedís salida que te haga un scaffolding del proyecto y empezás a ver por módulos.
+ 
+Luis Alejandro Campos:
+O sea, lo que tenés que tener es por ahí esa inteligencia de cómo dividir el trabajo y cómo organizarte. para.
+ 
+Luis Alejandro Campos:
+Definir vos esos loops que van a correr los agentes y supervisar no todo ese proceso.
+ 
+Luis Alejandro Campos:
+Y de nuevo, acá tenemos la ventaja del licenciado en sistemas, esta cosa de poder traducir este negocio a requerimientos y esos requerimientos a prompt y supervisar un poco y gobernar todo este proceso de desarrollo de infraestructura
+ 
+Luis Alejandro Campos:
+De manera que aprovechemos bien la inteligencia artificial sin exponernos a riesgos graves.
+ 
+Luis Alejandro Campos:
+Hasta acá vamos bien.
+ 
+[42:56] Esteban Alejandro De Nardo:
+Vamos bien.
+ 
+[42:56] SANCHEZ LEGAL NICOLAS ESTEBAN:
+Sí, perfecto.
+ 
+[42:58] Orador 1:
+Buenísimo.
+ 
+Luis Alejandro Campos:
+Desafíos, tenemos los coding assistants, como hablamos recién, no hacemos más código, vamos a diseño y orquestación. Todo lo que tiene que ver con y agéntica donde tenemos
+ 
+Luis Alejandro Campos:
+Agentes de IA que van haciendo diferentes acciones y son especializados, abre no el.
+ 
+Luis Alejandro Campos:
+Abre el panorama de nuevos patrones de arquitectura, por ejemplo, incorporando los MCP, armando aplicaciones que puedan hablar con agentes de IA.
+ 
+Luis Alejandro Campos:
+Todo lo que tiene que ver con Quait Testing se puede automatizar un montón y era una de las cosas que menos les gusta hacer a los desarrolladores en general, que menos nos gusta hacer todos es escribir test y correr test. Y eso la idea puede ayudar un montón. Y termina mejorando la calidad del código y la calidad del producto.
+ 
+Luis Alejandro Campos:
+Un poco las habilidades, lo que charlamos, ese rol de arquitectura, esta cosa de cómo integramos todas las piecitas del rompecabezas. El pair programming, o sea usar como asistente, estar programando a la vez con la IA encima para ir validando y revisando lo que genera la IA.
+ 
+Luis Alejandro Campos:
+Ciclos nuevos, o sea, diferentes tipos de metodologías ya incorporadas.
+ 
+Luis Alejandro Campos:
+con todo lo que tiene que ver ya, todo lo que tiene que ver con Cloud y una de las cosas que hablamos cuando hablamos del perfil de BSI, esta cosa es el pensamiento sistémico, no? La cosa de ver el proyecto como en todo, de primero sentarse a diseñar, porque la parte de codificar ya no es.
+ 
+Luis Alejandro Campos:
+La que va a tardar más como era antes, con lo cual le podemos poner un montón más de cabeza, ya que no tenemos que dedicarle tanto tiempo a codificar en diseñar una mejor solución.
+ 
+Luis Alejandro Campos:
+Acá el rol clásico que habíamos charlado, lo que tiene que ver con funcional implementador.
+ 
+Luis Alejandro Campos:
+Todo lo que tiene que ver con transformación digital, todo lo que tiene que ver con análisis de procesos, los roles por ahí más tradicionales de el analista funcional para traducir requerimientos de negocio a soluciones de inteligencia artificial.
+ 
+Luis Alejandro Campos:
+Como bien dice ahí, siempre planteamos lo mismo: foco en el valor que agregamos y foco en que.
+ 
+Luis Alejandro Campos:
+sean soluciones implementables, bajadas a tierra Entender que de vuelta es una tecnología, no es magia, no es que la panacea nos va a resolver todo Es una tecnología que hay que administrar, nos da una ventaja muy grande Pero nosotros tenemos que bajar a tierra, todo eso como profesionales
+ 
+Luis Alejandro Campos:
+Identificar procesos lentos, cuestiones repetitivas, cuestiones que se hacían manualmente. Hay un montón de cosas en una organización, más allá de la clásica que te vienen y te dicen, no, bueno, yo quiero ya que era un chatbot. Más allá del chatbot de atención al cliente, hay un montón de cosas.
+ 
+Luis Alejandro Campos:
+En los cuales la inteligencia artificial nos puede ayudar.
+ 
+Luis Alejandro Campos:
+Algo clave, no dentro del rol de licenciación de sistemas, tiene que ver con las métricas. Tenemos que medir el impacto, hay que generar KPIs, hay que ver cómo se desempeñan las soluciones. Esos casos de uso tienen que tener un impacto medible sobre lo que necesita la organización.
+ 
+Luis Alejandro Campos:
+Tenemos que ver cuánto valor agregamos al cliente y eso es clave en el rol que se pretende de un licenciado en sistemas.
+ 
+Luis Alejandro Campos:
+Cosas que se van a encontrar en la calle, hoy ya la gran mayoría de los CRP traen modulitos de inteligencia artificial para hacer ciertas cosas, algunos más avanzados. Si vamos a ver cuestiones como CRM de Salesforce o SAP mismo ya traen asistentes inteligentes que te resumen cosas, que generan reportes.
+ 
+Luis Alejandro Campos:
+Nosotros cuando hacemos un relevamiento de requerimientos, y eso les va a pasar a ustedes, cambia un montón la dinámica, porque antes ustedes tenían que ver, por ejemplo, qué era lo que ofrecía de manera estándar un sistema, supongamos un ERP, más lo que el cliente quería.
+ 
+Luis Alejandro Campos:
+Hoy ustedes le pueden preguntar a la inteligencia artificial, a cualquier modelo, le pueden preguntar dámelas.
+ 
+Luis Alejandro Campos:
+diez categorías de funcionalidades críticas que se requieren sí o sí en un ERP para 2026. Y ustedes ya tienen, o sea, ya no tienen esa cosa del miedo a la hoja en blanco y ya arrancan con ventaja porque ya tiene estandarizado todo lo que debería tener un sistema en Argentina en 2026 para
+ 
+Luis Alejandro Campos:
+Una industria para una pyme y ya pueden arrancar con eso, no como para definir el requerimiento y lo que ustedes que tienen que hacer es refinarlo.
+ 
+Luis Alejandro Campos:
+Los usuarios también juegan, como decía cierto director técnico, decía, los rivales también juegan, bueno, el usuario también juega. Colocó el usuario. Así como pasaba con los servicios cloud, que decía, mirá el nivel que me da Netflix, que me da Google, los servicios cloud, yo quiero lo mismo. También pasa, o sea, el usuario también tiene acceso a todas las herramientas de IA.
+ 
+Luis Alejandro Campos:
+Y está empoderado y va a tener un nivel de discusión o un nivel de requerimiento bastante más alto, con muchas más expectativas.
+ 
+Luis Alejandro Campos:
+Todo lo que tiene que ver con migraciones con upgrades. La verdad, la idea ayuda un montón. Te ayuda un montón cuando vos encontrás un problema en la infraestructura.
+ 
+Luis Alejandro Campos:
+Y un poco que tiene que ver de las habilidades, tienen que ver con eso, gestión del cambio, analizar procesos, cómo se integra con la matriz de procesos, ya sea administrativo o productivo, la inteligencia artificial.
+ 
+Luis Alejandro Campos:
+Y esta cosa de otra de las de las habilidades que se pretende de un licenciado en sistema es el tema de comunicación, este fusible con el negocio. No solo hablamos de tecnología, sino que también hablamos de negocio.
+ 
+Luis Alejandro Campos:
+Rapidito vamos con los últimos 2 roles, todo lo que tienen con Project Manager.
+ 
+Luis Alejandro Campos:
+Acá es importante el cambio del rol, no por ahí un project manager.
+ 
+Luis Alejandro Campos:
+antes se dedicaba más a hacer como se llama hacer minutas a generar gans hoy todo eso ya lo puede hacer la Inteligencia artificial agarran una grabación la pasan por un modelo o mismo la plataforma de conferencias ya genera
+ 
+Luis Alejandro Campos:
+un guión y te genera un resumen, con lo cual de eso vos podés derivar tranquilamente una minuta, un resumen de decisiones tomadas en la reunión, podés generar un gantt, ya le podés generar automáticamente una visión del proyecto.
+ 
+Luis Alejandro Campos:
+De manera rápida, marcándole las limitaciones, con lo cual en el PM O, no el project manager o la PM O, la oficina de gestión de proyectos pasa.
+ 
+Luis Alejandro Campos:
+a no hacer tanto micro management de los proyectos, sino a ver un poco más el todo. Como bien dice ahí, la PMO empieza a gestionar ecosistemas, no solo los cronogramas. Ante clásico era, el chiste clásico era el PM, que era el que venía y te preguntaba cuánto te faltaba.
+ 
+Luis Alejandro Campos:
+Bueno, eso cambia con todo lo que tiene que ver de inteligencia artificial.
+ 
+Luis Alejandro Campos:
+oportunidades que tenemos, liderar justamente estos procesos de cambio, toda la parte de gobierno, que los proyectos incluyan todas estas cosas que definen los profesionales de seguridad de la información, que definen a los especialistas en datos y de vuelta
+ 
+Luis Alejandro Campos:
+finalmente orientar a resultados, no la actividad, no contar las horas que estuvieron trabajando, contarle las costillas al miembro del proyecto, sino pensar en resultados y para eso la inteligencia artificial ayuda un montón porque nos descarga de toda la parte por ahí más administrativa y nos deja empezar a analizar los proyectos de otras facetas.
+ 
+Luis Alejandro Campos:
+Lo que hablamos estimaciones. Las estimaciones tradicionales se vuelven obsoletas con A. Acuérdense cuando nosotros estimamos, siempre estimamos en base a la experiencia. Y lo que está pasando hoy por hoy es que va cambiando tanto la tecnología que es difícil estimar.
+ 
+Luis Alejandro Campos:
+Riesgos, nueva gobernanza de equipos. Estos equipos híbridos, humanos y ya les va a pasar, les va a pasar a los que trabajan en empresas más grandes que ya en el Slack de la compañía ya está lleno de bots de inteligencia artificial que resuelven un montón de cosas, reservas de salas, con lo cual las dinámicas ya empiezan a cambiar.
+ 
+Luis Alejandro Campos:
+Todo lo que tiene que ver con Project Management con unidad, lo que es gestión de riesgos, que en eso se complementa también con la gente.
+ 
+Luis Alejandro Campos:
+Se complementa lo que es gestión de riesgo con seguridad de la información, pero cuando nosotros prendemos un proyecto como Project Manager también hay que hacer un análisis de riesgo. Lo que hablábamos, medir el impacto real, dejar de contar horas y empezar a pensar más en lo que tiene que ver con impacto y eso nos puede ayudar la inteligencia artificial.
+ 
+Luis Alejandro Campos:
+Y además nosotros tenemos que medir esa productividad. Porque, de nuevo, ¿cuánto generaste? Y un millón más en ventas para la compañía. ¿Cuánto gastaste de token? 3 millones. Bueno, hay que revisar eso y hay que tenerlo a medida.
+ 
+Luis Alejandro Campos:
+Y un poco ser este nexo que el que ayude a bajar a tierra las expectativas, los stakeholders de los proyectos en cuanto a lo que son las expectativas para la aplicación de inteligencia artificial. De vuelta, la gente por ahí, el común de la gente tiene una visión muy idealizada de qué es lo que puede hacer la IA y qué tan mágico es.
+ 
+Luis Alejandro Campos:
+¿Y nosotros como profesionales en sistemas, y cuando uno está en el rol de project manager, tiene que ayudar a gestionar esas expectativas, no?
+ 
+Luis Alejandro Campos:
+Finalmente.
+ 
+Luis Alejandro Campos:
+Un rol que por ahí es un poco más moderno que los otros, que tiene que ver como el product manager digital, el product owner, roles de discovery, roles de growth, lo van a ver con eso.
+ 
+Luis Alejandro Campos:
+Y ahí tiene que ver, no con.
+ 
+Luis Alejandro Campos:
+¿Cómo mejoramos la experiencia con el producto mediante la inteligencia artificial?
+ 
+Luis Alejandro Campos:
+Pensando como siempre en métricas, en cómo gestionamos los riesgos, algo clave es cómo reducimos la fricción, lo que se busca muchas veces con soluciones de inteligencia artificial
+ 
+Luis Alejandro Campos:
+Tiene que ver con mejorar la experiencia del usuario y muchas veces y les va a pasar a ustedes con n organizaciones con las cuales tienen que lidiar.
+ 
+Luis Alejandro Campos:
+Que a veces ponerte un chatbot en el medio aumenta la fricción y nos frustra mucho más. Vos decís en algún momento decís por favor quiero hablar con lo humano, por favor quiero hacer la pregunta y que después alguien me la conteste. Pero bueno, esas son las cuestiones que tiene que estar atento
+ 
+Luis Alejandro Campos:
+Esta nueva versión no del producto owner.
+ 
+Luis Alejandro Campos:
+Procesos no de discovery que tienen que ver con analizar la tecnología.
+ 
+Luis Alejandro Campos:
+Entender cómo puede agregar valor al negocio y definir un roadmap del producto alineado a eso es algo de lo que ustedes también un poco van a trabajar durante el cuatrimestre
+ 
+Luis Alejandro Campos:
+Y esta cosa de traducir la información que yo tengo de cómo es el comportamiento del usuario con mi producto para traducirlo eso en requisitos funcionales y no funcionales, ya sea de inteligencia artificial o ya sea más tradicionales. Y eso me asiste un montón la idea.
+ 
+Luis Alejandro Campos:
+Y el product owner lo que tiene que hacer es articular no todos estos roles que estuvimos viendo hasta ahora para bien del producto que está que está manejando, ¿no?
+ 
+Luis Alejandro Campos:
+Un poco los desafíos tienen que ver con cómo ve el cliente, así como nuestros stakeholders internos, nuestros usuarios internos tienen una expectativa muy alta. Los usuarios también, están muy acostumbrados ahora a que se personalice todo a pleno, que me haga recomendaciones basadas en mi perfil, que
+ 
+Luis Alejandro Campos:
+Prediga qué es lo que yo voy a querer.
+ 
+Luis Alejandro Campos:
+competidores que están a full trabajando con inteligencia artificial. Esto pasa un montón en el retail. Están todo el tiempo agregando features de inteligencia artificial para bajar la fricción y mejorar las tasas de conversión, mejorar.
+ 
+Luis Alejandro Campos:
+El alcance del producto.
+ 
+Luis Alejandro Campos:
+Toda la parte de Discovery lo charlamos un poco cuando hablamos de desarrollo. La idea lo que me permite es sacar, probar hipótesis rápido, sacar productos digitales realmente rápido. Puedo hacer un prototipado rápido y probar una hipótesis y ver si funciona o no.
+ 
+Luis Alejandro Campos:
+Y el desafío de la ética, ¿no? Toda la cuestión que tiene que ver con manejo de datos personales. Si yo personalizo totalmente la experiencia de mi usuario, ¿hasta dónde voy a recopilar datos? ¿Cómo voy a usar esos datos?
+ 
+Luis Alejandro Campos:
+Y un poco de las habilidades tienen que ver con estrategia de producto, con decisiones basadas en datos. O sea, ahora la inteligencia artificial lo que me permite es todos esos datos que yo recopilaba el logs de web servers que tenía dando vueltas por ahí en cuanto a la performance de producto, lo puedo analizar de manera rápido.
+ 
+Luis Alejandro Campos:
+y con IA puedo experimentar mucho más y como dice hacer A/B testing, por ejemplo, darle a un usuario una versión de mi producto digital, al otro otro y ver cuál anda mejor. Ya mis decisiones pasan a ser mucho más llevadas a cabo mediante el dato.
+ 
+Luis Alejandro Campos:
+Lo que tiene que ver con la interacción con modelos también lo hablamos en cuanto a nuevas arquitecturas. Esto también yo cuando hago un producto digital hoy por hoy tengo que pensar no solo en el usuario real, final, humano, sino también tengo que pensar en agentes, en modelos de inteligencia artificial.
+ 
+Luis Alejandro Campos:
+y las cuestiones de habilidades que nosotros deberíamos desarrollar como licenciado en sistema si tenemos la capacidad, pero que tiene que ver con acoplar ese producto digital a la visión de negocio, todas las cuestiones que tienen que ver con la ética, transparencia, privacidad.
+ 
+Luis Alejandro Campos:
+Cerrando la clase.
+ 
+Luis Alejandro Campos:
+Y.
+ 
+Luis Alejandro Campos:
+Un poco nosotros lo que tenemos es esta formación híbrida negocio, tecnología, administración lo ven ustedes en la carrera con el tipo de materias que tienen y es una ventaja por ser este fusible negocio y tecnología
+ 
+Luis Alejandro Campos:
+Y creo que.
+ 
+Luis Alejandro Campos:
+es cada vez más importante en este mundo de la inteligencia artificial, donde las particularidades, tal vez súper técnicas de la tecnología, empiezan a ser un commodity, empiezan a ser tal vez menos importante que entender contextos, que entender situaciones, que entender cómo es la organización.
+ 
+Luis Alejandro Campos:
+¿Y cómo puedo yo utilizar esa tecnología para agregar más valor?
+ 
+Luis Alejandro Campos:
+Hoy en día tal vez es menos importante la decisión si yo uso Amazon, Google o si uso C# o Java, que si entiendo yo el contexto de la organización y cómo se lo puedo trasladar a un modelo para lograr la mejor solución.
+ 
+Luis Alejandro Campos:
+pensamiento sistémico también lo charlamos, esta cosa de ver el todo y la visión estratégica que tiene que ver con agregar valor a la organización, apalancar los objetivos estratégicos de la organización, estamos hablando de objetivos a largo plazo, apalancar la visión de la organización con la tecnología.
+ 
+Luis Alejandro Campos:
+Y me parece que como bien dice la cita ahí, nuestra carrera lo que nos permite como profesionales es liderar estos procesos que tienen que ver con inteligencia artificial, con criterio, con ética, liderazgo humano y de vuelta este entendimiento
+ 
+Luis Alejandro Campos 1 hora:
+tecnología, negocio con lo cual el mensaje que queremos que se lleven es que la inteligencia artificial hoy por hoy no reemplaza al licenciado en sistemas sino que lo potencia, es una herramienta que si ustedes aprenden a usar bien los va a llevar a nuevos niveles de desempeño y de conocimiento
+ 
+Luis Alejandro Campos 1 hora:
+Como licenciados en sistemas.
+ 
+Luis Alejandro Campos 1 hora:
+Bueno.
+ 
+Luis Alejandro Campos 1 hora:
+Hasta acá llegó la parte teórica de hoy. ¿Alguien tiene alguna duda alguna consulta?
+ 
+[1:00:51] SANCHEZ LEGAL NICOLAS ESTEBAN:
+No, profe.
+ 
+[1:00:53] Orador 1:
+Buenísimo.
+ 
+Luis Alejandro Campos 1 hora:
+Vamos a florar la grabación.
+ 
+Luis Alejandro Campos:
+Luis Alejandro Campos detuvo la transcripción

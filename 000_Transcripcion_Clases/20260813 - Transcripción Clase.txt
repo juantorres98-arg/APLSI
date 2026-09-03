@@ -1,0 +1,695 @@
+Luis Alejandro Campos:
+Luis Alejandro Campos empezó la transcripción
+ 
+[0:05] Luis Alejandro Campos:
+bueno gente un poco lo que dice ahí en el slide Bienvenidos a actuación profesional hoy lo que vamos a ver es vamos a ver una introducción y pautas generales del curso vamos a hablar un poco de cómo se organiza el trabajo de campo de esta materia que es la parte digamos central de la cursada y después vamos a pasar a que ustedes se presenten y vamos a armar los grupos justamente para transitar este trabajo de consultoría este
+ 
+Luis Alejandro Campos:
+Ojo de campo.
+ 
+Luis Alejandro Campos:
+Vamos a tener dos espacios de preguntas con lo cual despido se anotan. Vamos a intentar ir lo más rápido posible para tener tiempo para hacer la dinámica de armado de grupos después y que se presenten ustedes.
+ 
+Luis Alejandro Campos:
+Bueno yo soy Luis Campos soy licenciado en esta casa como todas las personas que colaboran en la cátedra estuvimos todos del otro lado no siempre decimos lo mismo hemos transitado caminos similares en particular yo siempre digo lo mismo
+ 
+Luis Alejandro Campos:
+Hace 20 y pico años que elaburé el sistema, hace un poco más. En sistemas hice de todo. O sea, arranqué atendiendo un cibercafé que para los más chiquititos era un lugar donde había computadoras y nosotros íbamos a usar internet porque internet en casa era carísimo. Pasé por consultoría, soporte, organizaciones.
+ 
+Luis Alejandro Campos:
+Estuve mucho tiempo trabajando en el privado, en el sector de petróleo y gas, también en la parte de sistemas como encargado de tecnología. Y ahora estoy en el sector público. Estoy trabajando en la dirección de tecnología de ARCA como asesor.
+ 
+Luis Alejandro Campos:
+Bueno, un poco del curso tenemos 3 ayudantes activas. Van a ver a Ingrid, a Daniela, Belén, son las que principalmente las van a acompañar dentro del desarrollo del trabajo de campo que implica esta materia. Y también tenemos a Fer Alau, que nos van a dar una mano
+ 
+Luis Alejandro Campos:
+tal vez cubriendo algún bachecito, dándonos una mano con algunas otras cosas. Como habrán visto la inscripción, la cátedra tiene tres cursos. Barbara, Ivan y el curso donde están ustedes. La diferencia no es muy grande porque son las mismas clases, es el mismo material. Nosotros trabajamos todos como un gran equipo.
+ 
+Luis Alejandro Campos:
+Es un enfoque realmente coordinado de la cursada. Van a ver los mismos contenidos, vamos a tener los mismos criterios al momento de evaluar y en general la cursada es muy similar en los tres cursos. La diferencia por ahí viene por la formación o de formación profesional que tiene cada uno. Barbara e Ivan.
+ 
+Luis Alejandro Campos:
+Están orientados mucho a lo que es el desarrollo. Ivan fue docente de Metzi. Barbara actualmente es una referente de inteligencia artificial en Mercado Libre. Y yo, la verdad, me dedico siempre más a lo que tiene que ver con tecnología, a lo que tiene que ver con infraestructura.
+ 
+Luis Alejandro Campos:
+Pero bueno, más allá de eso, de esos pequeños condimentos que le podemos dar nosotros con la formación profesional, el equipo es diverso. Tenemos gente que trabaja en esta funcional, gente que trabaja en auditoría, gente que trabaja desarrollando. Con lo cual un poco la idea es que desde el equipo docente nosotros le podamos ustedes transmitir un poco de esa experiencia.
+ 
+Luis Alejandro Campos:
+Bueno, arrancamos con qué hace un licenciado en sistemas. ¿Por qué ponemos este slide? Porque muchas veces pasa.
+ 
+Luis Alejandro Campos:
+Que cuando llegan a la carrera, todos piensan que esta es una carrera para ser analistas funcionales y en realidad el objetivo de la carrera va más allá de eso.
+ 
+Luis Alejandro Campos:
+No tiene que ver con generar profesionales que hagan esta especie de fusible entre el negocio, pero entendido el negocio como la estrategia del negocio, como cumplir los objetivos estratégicos de la organización, el agregado de valor y la tecnología.
+ 
+Luis Alejandro Campos:
+Con lo cual estamos hablando, siempre vamos a insistir con esto, esta cosa de buscar apalancar los objetivos estratégicos de la organización para generar valor. Y eso va un poco más allá de lo que tiene que ver tal vez con el mero análisis funcional, el levantar requerimientos o el modelar necesidades de negocio.
+ 
+Luis Alejandro Campos:
+Es una visión por ahí un poco más estratégica.
+ 
+Luis Alejandro Campos:
+con lo cual lo que busca la carrera es generar profesionales que puedan tener esta charla entre "bueno, esta es mi estrategia, estos son mis objetivos a cinco o diez años, ¿cómo yo puedo integrar las tecnologías de la información
+ 
+Luis Alejandro Campos:
+con esa misión, esa visión de la organización. La carrera lo que busca es generar líderes en cuanto a lo que es sistemas y en cuanto a lo que es especialmente lo que es sistemas asociados a generar valor para el negocio, para las organizaciones.
+ 
+Luis Alejandro Campos:
+Un poco, no el objetivo de el trabajo de campo que va a transcurrir un cuatrimestre tiene que ver con eso.
+ 
+Luis Alejandro Campos:
+La idea que ustedes evalúen la situación de una organización y la acompañen, como bien dice ahí, en la transformación digital. Todo atravesado por lo que es innovación y claramente si hablamos de innovación en el mundo actual, estamos hablando de cuestiones como inteligencia artificial, que vamos a hablar bastante de eso.
+ 
+Luis Alejandro Campos:
+Y de vuelta, como siempre traigo y como lo vamos a repetir durante todo el cuatrimestre Apalancar los objetivos estratégicos de la organización Agregar valor a la organización Entendemos como profesionales, no solo como parte del equipo docente, que la tecnología no es por la tecnología en sí Cuando una organización cae en soluciones tecnócratas que no tienen objetivo de negocio
+ 
+Luis Alejandro Campos:
+termina fallando esos proyectos. Con lo cual lo que se busca es que ustedes tengan el mindset para entender que la tecnología es algo que habilita a la organización a cumplir sus objetivos.
+ 
+Luis Alejandro Campos:
+En ese sentido, algunas de las actividades que van a cursar durante este cuatrimestre es formar un equipo de consultoría. Van a tener que elegir ustedes una organización cliente, van a tener que entender completamente cómo funciona esa organización. Van a diseñar una propuesta de mejora. Cuando diseñan esa propuesta de mejora, después van a tener que definirla como proyecto, que es algo que ustedes ya vieron.
+ 
+Luis Alejandro Campos:
+En otras materias.
+ 
+Luis Alejandro Campos:
+Evaluar alternativas y selección solución tecnológica.
+ 
+Luis Alejandro Campos:
+Y una vuelta más que estamos haciendo este cuatrimestre tiene que ver con la oportunidad de inteligencia artificial generativa, plantear, detectar, como bien dice ahí, diseñar y validar, validar en el sentido de si agrega valor al negocio o no, una oportunidad de inteligencia artificial generativa.
+ 
+Luis Alejandro Campos:
+Y acá buscamos algo un poco más de ponerle un chatbot, que es la clásica o hablar de soluciones por ahí, que son más de maquillaje. Acá lo que buscamos es que ustedes, con el entendimiento que ha logrado la organización, evalúen qué oportunidades tiene la organización para lograr ventajas competitivas mediante edad generativa.
+ 
+Luis Alejandro Campos:
+Y como cierre como corolario de todo esto, le van a presentar todos estos resultados y todo el trabajo que fueron haciendo durante el cuatrimestre al sponsor de la organización que ustedes elijan.
+ 
+Luis Alejandro Campos:
+Un poco las competencias profesionales que ustedes van a entrenar. Tiene que ver con análisis organizacional, claramente vamos a hacer un relevamiento de procesos, de objetivos estratégicos, de cómo es la organización, pensamiento sistémico, esta cosa debe tener
+ 
+Luis Alejandro Campos:
+Siempre decimos acá no hay respuestas incorrectas, todo va a depender de cómo lo justifiquen ustedes y la justificación tiene que venir de del todo de ver a la organización como un todo.
+ 
+Luis Alejandro Campos:
+todo lo que tiene que ver con diagnóstico y diseño de señores de mejora, una evaluación profesional cuando hablamos de profesionales, que es una evaluación no sesgada, una evaluación justa, una evaluación justificada con criterio profesional, con responsabilidad. Comunicar todo esto, que es un skill que tal vez en el ramo
+ 
+Luis Alejandro Campos:
+de sistemas muchas veces el tema de la interfaz humana es algo que nos cuesta un montón no y argumentar cuáles son sus recomendaciones Cuáles son las decisiones que han ido tomando durante el trabajo y finalmente esta parte de Innovación aplicada entender Marcos de innovación y justamente de manera profesional que van más allá de
+ 
+Luis Alejandro Campos:
+esta cosa de ponerme un agente que me responda a los clientes o ponerme un agente que me ordene las cosas, tener un marco para decir no, yo necesito este tipo de tecnología porque he detectado estas cuestiones dentro de un marco de trabajo de innovación.
+ 
+Luis Alejandro Campos:
+Acá hay una parte que arriba, por lo que veo, no se está viendo en el slide, que tiene que ver con cuáles son las etapas no de este proyecto. Ustedes van a arrancar caracterizando a la organización, van a hacer un relevamiento.
+ 
+Luis Alejandro Campos:
+van a ser lo que es un proyecto de mejora tecnológica en la organización, van a trabajar esta oportunidad de inteligencia artificial y finalmente van a hacer un cierre y presentar esos resultados. Como bien dice ahí, estamos hablando de dos dimensiones que van a trabajar ustedes, la mejora estructural que tiene que ver más con
+ 
+Luis Alejandro Campos:
+el proyecto más tradicional de incorporación de tecnología a la organización y la vuelta de innovación, de vuelta. Pero no como un paso adicional o desagregado del proyecto. Sino como aprovechando el conocimiento transversal que ustedes van a lograr de la organización ver qué oportunidades de mejora tienen.
+ 
+Luis Alejandro Campos:
+Como índice ahí es un ejercicio de consultoría y buscamos lo que es validar aportar valor.
+ 
+Luis Alejandro Campos:
+Y esto vamos a insistir también mucho, la tecnología.
+ 
+Luis Alejandro Campos:
+Tiene que estar asociada a la mejora de los procesos, a la mejora de la arquitectura. No son cosas sueltas que yo meto a la organización.
+ 
+Luis Alejandro Campos:
+Bueno un poco más ya dejando por ahí lo más filosófico no de la materia vamos un poco más a lo Terrenal como habrán visto ya no tenemos más el campo de ayer Point está reemplazado por toda la parte de materiales dentro de la plataforma de miecon
+ 
+Luis Alejandro Campos:
+Ahí van a tener las novedades, donde vamos a mandar notificaciones, cuando subamos un nuevo cronograma, cuando haya alguna novedad que valga la pena avisarles. Les va a llegar por mail la notificación, pero también la tienen ahí. Van a tener los materiales, vamos a ir subiendo las presentaciones de las clases, diferentes artículos, links.
+ 
+Luis Alejandro Campos:
+Como bien dice ahí del curso, ya por ejemplo, hoy tienen publicado la bibliografía.
+ 
+Luis Alejandro Campos:
+que es el libro de la cátedra, que es una guía práctica, que tiene mucho contenido teórico que tiene que ver, está gratuito, está en PDF, está subido a la biblioteca de la facultad. Ahí ya tienen el link en MIECON. También tienen el link a esta reunión de Teams en caso que les falte en algún momento. En caso que
+ 
+Luis Alejandro Campos:
+se les pierda la reunión y también hay un módulo para hacer ejercicios, entregas parciales, etcétera.
+ 
+Luis Alejandro Campos:
+También ahí en materiales van a encontrar subido el cronograma.
+ 
+Luis Alejandro Campos:
+Cuando ustedes vean el cronograma está subido en PDF.
+ 
+Luis Alejandro Campos:
+Y van a ver lo que es fecha, lo que es el día, el tipo de clase virtual o presencial.
+ 
+Luis Alejandro Campos:
+Y vamos a ahí te van a tener el tema de clase.
+ 
+Luis Alejandro Campos:
+Dentro de ese tema de clase van a tener diferentes épicas y sprint, que ahora lo vamos a charlar un poquito más cuando hablemos más finito del trabajo y los diferentes elementos de trabajo y los diferentes eventos. Ténganlo en cuenta porque nosotros lo vamos a ir actualizando, pero ustedes ya tienen disponible todo lo que vamos a ver.
+ 
+Luis Alejandro Campos:
+Durante el cuatrimestre y cómo son las sucesiones de los entregables y los eventos.
+ 
+Luis Alejandro Campos:
+También en mi ecomban encontré un asistente virtual. La ventaja de este asistente virtual en contra de usar tal vez otras otras soluciones está basado en Gemini y tiene subida toda la bibliografía, todas las presentaciones, todo el material de la materia.
+ 
+Luis Alejandro Campos:
+Con lo cual, además de estar configurado para ser un asistente académico para ustedes, le pueden pedir quizes, le pueden hacer preguntas sobre los temas de la cátedra, le pueden subir un archivo de un entregable para que se los evalúe. Les recomiendo que les peguen una mirada, que lo tengan presente, porque la verdad es útil al momento de tal vez ustedes autoevaluar
+ 
+Luis Alejandro Campos:
+Las entregas o autoevaluar su conocimiento antes de las evaluaciónes.
+ 
+Luis Alejandro Campos:
+Y como sé que la pregunta es siempre cuando hablo de evaluación es ¿cuál es el criterio de evaluación? Acá tenemos tres cuestiones que por lo que veo en el sliding no se están viendo. A ver...
+ 
+Luis Alejandro Campos:
+Oh.
+ 
+Luis Alejandro Campos:
+Vamos a ver si lo actualizo.
+ 
+Luis Alejandro Campos:
+Que esto si es importante que lo vean.
+ 
+Luis Alejandro Campos:
+Ahora sí.
+ 
+Luis Alejandro Campos:
+Nosotros tomamos como criterio de evaluación 3 elementos.
+ 
+Luis Alejandro Campos:
+Primero, durante el cuatrimestre, ustedes van a tener presentaciones de avance del trabajo y van a tener un ensayo de la presentación y la presentación final frente al sponsor. Ahí que van a tener que presentar todos y se va a evaluar el rendimiento de las presentaciones orales, pero
+ 
+Luis Alejandro Campos:
+No necesariamente que ustedes van a tener una mejor nota si ustedes son super presentadores del Vamos o sea nosotros le ponemos mucho foco y evaluamos la evolución no las habilidades suyas de exposición y la claridad de lo que están exponiendo está bien eh valoramos mucho Esa evolución
+ 
+Luis Alejandro Campos:
+Ingrid.
+ 
+[14:27] Ingrid Karen Pecorelli:
+Hola, buenas noches. Te quería bien, todo bien. Te quería avisar que estamos mirando la bienvenidos a sí, no sé si es lo que tenemos que estar mirando.
+ 
+[14:29] Luis Alejandro Campos:
+¿Qué hace sin?
+ 
+Luis Alejandro Campos:
+Oh.
+ 
+Luis Alejandro Campos:
+Ahí no se ve.
+ 
+[14:39] Ingrid Karen Pecorelli:
+No es que no, ahí está ahí, por lo menos a mí se me deficio.
+ 
+[14:43] Luis Alejandro Campos:
+Tuve que cambiar para atrás y para adelante de vuelta la magia de Tims. Bueno.
+ 
+[14:46] Ingrid Karen Pecorelli:
+Esta ahora sí se.
+ 
+[14:52] Luis Alejandro Campos:
+Después, la entrega final del trabajo. Ustedes ahora vamos a charlar un poco más de eso. Se van a evaluar los aspectos grupales, calidad de la producción, del trabajo en sí, los tiempos de entrega, si entregan a tiempo las cuestiones que se le van pidiendo, cómo se manejó el grupo. En general, la participación.
+ 
+Luis Alejandro Campos:
+Y después van a tener un examen parcial individual.
+ 
+Luis Alejandro Campos:
+Está bien que un poco es la única instancia que van a tener ustedes de manera individual de que nosotros evaluemos los conocimientos teóricos. Un poco esos son, a grandes rasgos, los criterios que utilizamos para evaluar.
+ 
+Luis Alejandro Campos:
+Ahora si alguien tiene alguna consulta.
+ 
+Luis Alejandro Campos:
+¿Alguna pregunta, alguna duda hasta acá?
+ 
+[15:47] Facundo Maggio:
+No, no.
+ 
+[15:52] Luis Alejandro Campos:
+Bueno, buenísimo. Seguimos entonces.
+ 
+Luis Alejandro Campos:
+Vamos con la organización del trabajo, un poco lo que les estaba hablando de estos templates entregables y un poco de los roles que van a tomar ustedes, los roles que va a tomar el equipo docente y las pautas en general para el trabajo en sí.
+ 
+Luis Alejandro Campos:
+Como vieron el cronograma, no, el cronograma está dividido en épicas y las épicas están divididas en sprint.
+ 
+Luis Alejandro Campos:
+Como pueden ver, cada épica tiene asociados sus sprint de una semana. Vamos de jueves a jueves, de virtual a virtual.
+ 
+Luis Alejandro Campos:
+Y en el caso, acá en el ejemplo, por ejemplo, la primera épica de conocer y diagnosticar a la organización tiene un primer template que es el caso de negocio y relevamiento organizacional que son dos sprint y uno que se llama arquitectura empresarial actual que es el tercer sprint y así sucesivamente. Lo que van a ver en tema de clase tiene que ver con los contenidos que nosotros vamos a dar
+ 
+Luis Alejandro Campos:
+Del lado teórico.
+ 
+Luis Alejandro Campos:
+En general, la idea es que los jueves los aprovechen principalmente para trabajar en grupo en el TP. Las clases de los jueves, salvo raras excepciones, no suelen durar más de 1 hora y van a tener salas ustedes para poder reunirse dentro de Teams, salas individuales por grupo.
+ 
+Luis Alejandro Campos:
+Y poder trabajar.
+ 
+Luis Alejandro Campos:
+en las dinámicas y en los trabajos, en los templates que les vamos a proponer. Este cronograma implica los contenidos mínimos, no a cumplir. Es el ritmo que nosotros marcamos para que ustedes lleguen bien al final de la cursada.
+ 
+Luis Alejandro Campos:
+Vamos a charlar un poco más de eso, pero me gusta aclarar en principio nosotros no vamos a hacer micromanagement. Acá no van a tener que hacer una entrega y alguien se las va a corregir. La idea es que ustedes son casi licenciados en sistemas, entendemos que son casi profesionales y tienen que poder autogestionarse dentro del grupo cómo van llevando el ritmo
+ 
+Luis Alejandro Campos:
+Del trabajo práctico.
+ 
+Luis Alejandro Campos:
+Van a tener apoyo, les vamos a dar una mano si tienen un conflicto interno dentro del grupo, pero no vamos a estar encima diciéndole entreguen esto o poniéndole una nota acá entregable. ¿Está bien? Entendemos que eso también es parte un poco de la experiencia de la materia para llevarlo.
+ 
+Luis Alejandro Campos:
+Lo más cerca, algo real.
+ 
+Luis Alejandro Campos:
+Vamos a manejarnos con una especie de híbrido ágil.
+ 
+Luis Alejandro Campos:
+¿Por qué digo híbrido ágil? Porque nosotros ya tenemos sprints entregables, en cierto modo, pre armados. Pero vamos a usar varios eventos de lo que tiene que ver con agilidad. Primero la planning. La idea es que ustedes los jueves, cuando termina y arranca el otro sprint, dediquen
+ 
+Luis Alejandro Campos:
+Una parte de esa hora a posteriori de la parte teórica.
+ 
+Luis Alejandro Campos:
+A hacer su planificación.
+ 
+Luis Alejandro Campos:
+Acá nosotros lo que les recomendamos es que utilicen alguna herramienta como Microsoft Planner, como Trello, la que ustedes se sientan más cómodos para llevar el backlog y las cuestiones que tienen que ir repartiéndose en el equipo. Una recomendación, mientras más claro y más trabajen cómo van a hacer esto dentro del grupo,
+ 
+Luis Alejandro Campos:
+menos malentendidos van a tener y va a ser más sencillo repartir ese trabajo. No importa qué herramienta usen, lo importante es que le den acceso al equipo docente para ir viendo cómo van llevando y levantar una bandera de última si vemos que vienen muy retrasados.
+ 
+Luis Alejandro Campos:
+Después vamos a hacer la sincronización.
+ 
+Luis Alejandro Campos:
+Vamos a hacer una especie de mini daily los lunes, donde vamos a ver qué hicieron, qué van a hacer y si tienen algún impedimento. La idea es que ustedes, si tienen algún impedimento, tienen algún problema con el trabajo práctico, tienen algún problema en la dinámica interna del grupo, levanten la mano temprano.
+ 
+Luis Alejandro Campos:
+De vuelta, no vamos a estar encima. La idea es que ustedes se puedan autorregular. Si tienen inconveniente, es preferible que lo avisen en cuanto lo detecten. Este espacio va a estar específicamente para ese tipo de cosas.
+ 
+Luis Alejandro Campos:
+Después, como les dije, van a tener presentaciones de avance que tienen que ver con los reviews, donde lo que van a hacer es presentarle a todo el grupo cómo vienen ustedes con el trabajo práctico, van a hacer una presentación con PowerPoint y les vamos a dar feedback del equipo docente para
+ 
+Luis Alejandro Campos:
+Ver cómo vienen trabajando esa presentación.
+ 
+Luis Alejandro Campos:
+Y esta es una dinámica que muchos alumnos tal vez no la aplican mucho cuando trabajan con agilidad, que tiene que ver con la retrospectiva.
+ 
+Luis Alejandro Campos:
+A mí me gusta decir que si la review es para el afuera, para los stakeholders del proyecto, la retro es para adentro, es para el equipo. Y un poco es que ustedes, dentro de este esquema de autorregulación,
+ 
+Luis Alejandro Campos:
+puedan revisar para adentro, qué hicieron bien, qué conviene que sigan repitiendo, qué conductas conviene repetir, qué pueden mejorar, qué conductas no quieren volver a repetir. Y finalmente, tener algunos accionables para esas mejoras y esos cambios que ustedes mismos tienen que plantear.
+ 
+Luis Alejandro Campos:
+Si en algún equipo no hay nadie que trabaje con agilidad o no se sienten cómodos, las primeras dinámicas en general las pueden facilitar el equipo docente, el coach que los acompañe a ustedes durante el trabajo práctico.
+ 
+Luis Alejandro Campos:
+¿Hasta acá, alguna duda?
+ 
+Luis Alejandro Campos:
+¿Alguien que no haya cursado a Metzi?
+ 
+Luis Alejandro Campos:
+Bueno, bien, con lo cual lo de agilidad lo tienen bastante fresquito. Igualmente, después les subo material un poco charlando de un poco el proceso de Scrum y todo eso para, si quieren refrescar, lo van a tener.
+ 
+Luis Alejandro Campos:
+Bueno.
+ 
+Luis Alejandro Campos:
+Vamos a lo concreto.
+ 
+Luis Alejandro Campos:
+Para todo lo que tiene que ver con la parte práctica, ustedes van a tener documentos, que nosotros les llamamos templates, son plantillas, que van a hacer su papel de trabajo y su guía para cumplir los objetivos de cada una de estas etapas, de cada uno de estos sprints.
+ 
+Luis Alejandro Campos:
+En ocasiones, no esos mismos templates con un formato más lindo. con.
+ 
+Luis Alejandro Campos:
+un encabezado de su consultora cuando desarrollen la identidad van a ser soporte no de las decisiones recomendaciones que ustedes hagan como el equipo de consultoría y van a terminar siendo un entregable para para su cliente no para la organización
+ 
+Luis Alejandro Campos:
+que ustedes están haciendo el trabajo. En otras ocasiones, el template va a ser meramente una guía para ustedes producir otro entregable. Una planilla de Excel, un slide de PowerPoint. Y como les dije, en ese camino, la idea es que ustedes generen una identidad como consultora y la tienen que ir plasmando en esos entregables para que quede un trabajo consistente y profesional.
+ 
+Luis Alejandro Campos:
+Esos entregables son los que van a ayudarlos a construir los entregables finales, lo que ustedes tienen que tener como entregable al final del proyecto de consultoría que les había dicho que es una parte de lo que se va a evaluar al fin del cuatrimestre.
+ 
+Luis Alejandro Campos:
+la presentación final, que es básicamente el soporte que ustedes van a usar para mostrarle al sponsor de la organización su trabajo, un sitio web, que tiene que ver con el sitio web de la consultora, más el caso, y un resumen ejecutivo más tradicional.
+ 
+Luis Alejandro Campos:
+A medida que vayan iterando, no ustedes van a ir generando entregables, van a ir generando templates. y.
+ 
+Luis Alejandro Campos:
+Van a ir alimentando no esa presentación final y esa web. La idea es que ustedes vayan construyendo esos productos de finales finales del trabajo de manera iterativa e incremental.
+ 
+Luis Alejandro Campos:
+A ver, algo que es super importante no es que mantengan el hilo conductor, que mantengan esta narrativa, no que hablamos al inicio.
+ 
+Luis Alejandro Campos:
+durante todo el trabajo práctico. Es algo que nosotros vamos a molestar mucho por cómo es esta narrativa, cómo es este hilo conductor. Y también es importante que sepan, es que si ustedes algún momento en un sprint descubren que algo del material anterior está mal, van y lo corrigen, no
+ 
+Luis Alejandro Campos:
+Están en piedra, la idea justamente que esto sea iterativo e incremental.
+ 
+Luis Alejandro Campos:
+Estos templates lo van a tener en OneDrive, van a tener una carpeta OneDrive por equipo.
+ 
+Luis Alejandro Campos:
+y como pueden ver, son archivos de Word que son muy plantilla Van a tener alguna sugerencia, alguna explicación que van a tener que borrar en el caso que lo utilicen como entregable final y van a tener diferentes campos a completar y diferentes sugerencias
+ 
+Luis Alejandro Campos:
+Acá lo importante es que el template es inicialmente una guía.
+ 
+Luis Alejandro Campos:
+Si ustedes necesitan cambiar algo de ese template, siempre y cuando esté justificado de acuerdo a la realidad de la organización, a lo que está relevado y lo documenten, lo pueden hacer. Si quieren agregar más información, pueden agregar. Entiendan que estos son sus papeles de trabajo y lo que tiene que servir es como
+ 
+Luis Alejandro Campos:
+soporte a todas las recomendaciones y decisiones que ustedes tomen durante el cuatrimestre. Muchas veces los templates tal vez son mínimos indispensables, van a encontrar templates que diga como mínimo evalúa esto y ustedes pueden agregar más sin problema.
+ 
+Luis Alejandro Campos:
+Bueno, si no escucharon nada hasta acá de la parte de trabajo práctico, lo importante es esto.
+ 
+Luis Alejandro Campos:
+Para última entrega tienen que tener la presentación final.
+ 
+Luis Alejandro Campos:
+El sitio web y el resumen ejecutivo son las 3:00 cosas que se van a evaluar como entregable final, como artefactos finales.
+ 
+Luis Alejandro Campos:
+Y la página web es la presentación de su consultora, la identidad de ustedes como consultores, un resumen interactivo del trabajo que mantenga esta narrativa con los puntos principales que ustedes fueron desarrollando durante el trabajo y un set de adjuntos detallados a cada una de esas páginas, a cada una de esas secciones.
+ 
+Luis Alejandro Campos:
+Que son el respaldo de las decisiones y documentaciones.
+ 
+Luis Alejandro Campos:
+Hasta acá vamos bien.
+ 
+Luis Alejandro Campos:
+¿Alguien tiene alguna duda?
+ 
+[26:41] SANCHEZ LEGAL NICOLAS ESTEBAN:
+Perfecto.
+ 
+[26:44] Santiago Gonzalez Riveros:
+Consulta, profesor, el sitio web es en por lo que dice esa nota, es como en un formato de documento.
+ 
+[26:45] Luis Alejandro Campos:
+Santiago Díaz.
+ 
+Luis Alejandro Campos:
+No, no, no, es un sitio web. Después vamos a charlar, vamos a tener una clase específica. Si ven en el cronograma, la tenemos bastante cerca en cuanto a presentaciones y recursos. El sitio web lo pueden hacer donde ustedes quieran. Hemos tenido sitios con WordPress, hemos tenido sitios con Wix y me acuerdo de un cuatrimestre, un chico que es desarrollador.
+ 
+[26:55] Santiago Gonzalez Riveros:
+Okay.
+ 
+[27:13] Luis Alejandro Campos:
+Lo hizo en GitHub Pages.
+ 
+[27:16] Santiago Gonzalez Riveros:
+Okay.
+ 
+[27:16] Luis Alejandro Campos:
+Queda abierto a la tecnología que usted se sienta cómodo mientras que sea accesible, lo puede acceder al sponsor, lo puede acceder el equipo docente. No hay problema.
+ 
+Luis Alejandro Campos:
+Bueno.
+ 
+Luis Alejandro Campos:
+Seguimos entonces. Hablamos de lo que ustedes tienen que entregar y lo que es más el material. Vamos a hablar un poco de los roles a lo largo del cuatrimestre.
+ 
+Luis Alejandro Campos:
+Ustedes van a conformar un grupo que es un equipo de consultoría. Dentro de ese equipo de consultoría, la idea es que ustedes vayan asumiendo diferentes grupos, van a tener un producto owner que seguramente termina siendo naturalmente el que trajo la organización, alguien que pueda actuar de Scrum Master, alguien que pueda actuar de analista de productos.
+ 
+Luis Alejandro Campos:
+alguien que se encargue del UX, del UI, de hacer las presentaciones de la página web, el TechLead, alguien que se encargue de la parte más tecnológica de la solución, las cosas que tienen que ver con infraestructura, con seguridad, con tecnología, etcétera. Un poco la idea, lo que nosotros los incitamos es a ir rotando.
+ 
+Luis Alejandro Campos:
+en estos roles. Está bueno que tal vez el Scrum Master, alguno de los sprints, alguna de las épicas, no sea el que más sabe de Scrum o el que trabaja de Scrum Master, para que un compañero que por ahí nunca ha tenido la posibilidad de trabajar con marco de agilidad, pueda moverse y pueda tener esa experiencia dentro de la materia.
+ 
+Luis Alejandro Campos:
+Hm.
+ 
+Luis Alejandro Campos:
+Como les dije, ustedes van a tener apoyo de un miembro del equipo docente, la figura del coach, de la coach, que va a estar acompañándolos y que va a estar con ustedes en el transcurso del cuatrimestre.
+ 
+Luis Alejandro Campos:
+Y un poco los docentes titulares del curso actuamos como una especie de PMO, revisando un poco el avance en general y un nivel un poco más arriba de lo que viene manejando el coach.
+ 
+Luis Alejandro Campos:
+Van a tener ustedes un sponsor que va a ser su punto de contacto con el cliente y después van a tener la organización cliente, que es la organización a la cual pertenece el sponsor.
+ 
+Luis Alejandro Campos:
+Vamos a hablar un poco de pautas para el equipo de consultoría.
+ 
+Luis Alejandro Campos:
+Como les dije, no vamos a estar haciendo micromanagement. Levanten la mano, pidan ayuda y no solo en cuanto a temas puramente del trabajo, en temas teóricos, planteen rápidamente si tienen algún conflicto interno dentro del grupo, si necesitan ayuda para facilitar
+ 
+Luis Alejandro Campos:
+Algún tipo de dinámica, levanten la mano temprano.
+ 
+Luis Alejandro Campos:
+usan el OneDrive. La ventaja que ustedes tienen el OneDrive es que pueden tener una dinámica con su coach de dejarle comentarios, que el coach le deje comentarios a ustedes cuando le pidan revisión de un entregable y de tener el historial dentro de la plataforma de la facultad.
+ 
+Luis Alejandro Campos:
+Nosotros tenemos una casilla de correo que es APLSI Catedra donde está copiado todo el equipo de la cátedra Lo que les pido cuando ustedes hacen una consulta formal o tienen que mandar algún mail copien esta casilla porque tal vez a la persona, al equipo docente que le están escribiendo a ustedes no está disponible y alguien más le puede responder Ese es un grupo donde estamos todos con lo cual
+ 
+Luis Alejandro Campos:
+Siempre que manden una comunicación formal o una consulta, mándenla también con copia, PLCI Catedra.
+ 
+Luis Alejandro Campos:
+vayan preparando PPTs de avance, van a ver que van a tener muchas presentaciones de avance. La idea es que, por más que no logremos hacer una presentación de avance por temas de tiempo, tenemos varios feriados que caen el lunes este cuatrimestre, aunque sea, tengan hecha la PPT y la revisen con su coach.
+ 
+Luis Alejandro Campos:
+No cuelguen con la web, consejazo, porque pasa mucho que cuatro meses no es tanto, parece un montón ahora, pero no es tanto y es realmente tal vez algo difícil de encarar sobre el final.
+ 
+Luis Alejandro Campos:
+Y esto lo aclaro porque es una duda que siempre surge en cuatrimestres anteriores. Si bien, como les dije, no se van a corregir formalmente al final de cada sprint o épica, a menos que ustedes pidan revisión, muchos de los templates lo van a tener que generar como adjuntos a su página web. Como les dije, poniéndolos más bonitos, con un membrete de su consultor, etcétera, porque
+ 
+Luis Alejandro Campos:
+Esos templates terminan siendo el soporte o el detalle del análisis que ustedes hicieron y que van a tener que mostrar resumido en la web. La web, la idea es darle un pantallazo rápido de cómo fue el trabajo con un nivel de detalle mayor de la presentación, pero la idea es que el sponsor tenga toda la documentación para que si necesita ver detalle
+ 
+Luis Alejandro Campos:
+De alguna de las cuestiones que estuvieron rezando ustedes lo tengan.
+ 
+Luis Alejandro Campos:
+Vamos a hablar un poco del rol de los coaches. Los coaches le van a dar feedback cuando el equipo lo pida.
+ 
+Luis Alejandro Campos:
+recuerden pedir lo mismo como los problemas recuerden pedir feedback temprano cuando ustedes terminan entregable pidan feedback.
+ 
+Luis Alejandro Campos:
+Responder a todo lo que tiene que ver con consultas prácticas.
+ 
+Luis Alejandro Campos:
+Orientar al equipo encontrar la mejor solución.
+ 
+Luis Alejandro Campos:
+Pero esto es importante, o sea, no va a decir por ustedes, los va a orientar.
+ 
+Luis Alejandro Campos:
+La decisión es del equipo.
+ 
+Luis Alejandro Campos:
+Detectar y gestionar posibles bloqueos o conflictos lo hemos charlado recién.
+ 
+Luis Alejandro Campos:
+Revisar, no el avance del equipo, orientarse bien inconsistencia. Si ustedes lo que habíamos hablado, si el coach ve que le piden revisión de el template 5 y eso es inconsistente con el template 1, es algo que el coach les va a levantar y decir chicos, ojo que esto que están decidiendo, esto que están poniendo en el 5 es inconsistente con lo que pusieron al 1, revisenlo.
+ 
+Luis Alejandro Campos:
+Y como les dije, liderar un poco estas dinámicas ágiles hasta que el equipo lo incorpore.
+ 
+Luis Alejandro Campos:
+¿Qué no son los coaches? El coach no va a hacer correcciones detalladas. ¿Está bien? De vuelta, nosotros entendemos que ustedes son todos casi profesionales, con lo cual el tipo de correcciones que ustedes tienen que esperar de un coach es: no se entiende la redacción o un comentario de cómo justifican esto o...
+ 
+Luis Alejandro Campos:
+Como les dije, parece ser incoherente con lo que pusieron el temple 2.
+ 
+Luis Alejandro Campos:
+Si van, si bien el coach los puede asistir en mover esas primeras dinámicas, no es un miembro del equipo de consultoría.
+ 
+Luis Alejandro Campos:
+O sea, no se va a poner a escribir con ustedes, no les va a poner una redacción de un párrafo como debería ser.
+ 
+Luis Alejandro Campos:
+No es el Scrum Master, no es el Project Leader. De vuelta el coach es una figura de apoyo que van a tener ustedes. Puede llegar a darles una mano al principio en ordenar un tablero, en gestionar una retro, pero no va a ser su Scrum Master.
+ 
+Luis Alejandro Campos:
+Y esto es clave. El coach puede opinar, puede recomendar, pero las decisiones y la justificación de esas decisiones es responsabilidad de ustedes como equipo de consultoría.
+ 
+Luis Alejandro Campos:
+Un poco para cerrar esta parte, no de la parte dinámica entre el equipo docente y ustedes.
+ 
+Luis Alejandro Campos:
+Coordinen los momentos de encuentro con los coaches. Nosotros todos tenemos trabajo, todos tenemos otras obligaciones y no necesariamente van a estar disponibles 24/7. La idea es que los coaches estén disponibles en las clases del jueves, principalmente.
+ 
+Luis Alejandro Campos:
+Y aprovechen, no es ahora que les va a quedar después para coordinar que.
+ 
+Luis Alejandro Campos:
+Pasen las cosas con el coach en ese momento, para hacerle las preguntas, para pedirle review, para tener una charla que ustedes necesiten en ese momento, en esa segunda hora de la clase de los jueves virtual.
+ 
+Luis Alejandro Campos:
+Finalmente.
+ 
+Luis Alejandro Campos:
+Vamos a hablar un poco de la organización cliente porque, como les dije, ustedes tienen que traer una organización para.
+ 
+Luis Alejandro Campos:
+El trabajo.
+ 
+Luis Alejandro Campos:
+Primero, y lo más importante, es tener acceso a la información y a los decisores. Como les dije, la idea es que ustedes hagan un trabajo para plantear un valor agregado a los objetivos de la organización. Y si ustedes no tienen acceso a la información, no tienen acceso a plantearle a un decisor,
+ 
+Luis Alejandro Campos:
+El proyecto de consultoría que ustedes le van a mostrar pierde un poco de sentido y se dificulta bastante. En cuanto a tamaño, y esto es recomendación, ni una microempresa que no sea un local con tres personas, ni una super corporación.
+ 
+Luis Alejandro Campos:
+¿Por qué? Porque una empresa pequeña le va a costar hacer un análisis completo en cuanto a los procesos, va a estar muy limitada en cuanto al crecimiento y la oportunidad de innovación tecnológica y no una súper corporación, porque el problema que van a tener es que la corporación muchas veces
+ 
+Luis Alejandro Campos:
+no se tiene acceso a los niveles de decisión o no se tiene acceso a toda la información. Pasa, por ejemplo, que ustedes están analizando una filial, por ejemplo de una gran corporación y encuentran la solución tecnológica, pero la bajada de línea de la casa matriz es que se utilice tal producto de software.
+ 
+Luis Alejandro Campos:
+Y la verdad, el trabajo no aporta.
+ 
+Luis Alejandro Campos:
+La idea es también que detecten alguna algún problema, alguna oportunidad real, no que tenga la organización como para que ustedes puedan trabajar.
+ 
+Luis Alejandro Campos:
+Nos ha pasado cuatrimestres anteriores en que la organización tal vez tenía un solo punto de mejora y no quería cambiar casi nada y la verdad entonces es como que el trabajo termina siendo sesgado de una solución que viene preconcebida y no es la idea, la idea es que ustedes hagan un análisis de la organización
+ 
+Luis Alejandro Campos:
+y que de manera lo menos sesgada posible planteen cuáles serían las soluciones tecnológicas, cuáles serían las innovaciones digitales que le pueden aplicar a esa organización para generar más valor, con lo cual busquen alguna organización que tenga algunos puntos de dolor que ustedes vean que se puedan resolver mediante tecnología a priori.
+ 
+Luis Alejandro Campos:
+Clave esto, y más en la primera parte, tal vez de la cursada, que el sponsor esté disponible. Le van a tener que hacer un montón de preguntas en cuanto a la estructura de la organización, en cuanto a cómo trabaja, en cuanto a un montón de cosas, de procesos, de cómo usan la tecnología, dónde guardan sus datos. Con lo cual, principalmente en esta primer parte del cuatrimestre es muy importante que el sponsor esté disponible.
+ 
+Luis Alejandro Campos:
+Después probablemente entre en una etapa donde ustedes van a trabajar esa información recopilada en esos primeros sprint. Y tal vez el contacto es para validar algunas decisiones o algunas presunciones que ustedes hagan, pero es importante no tenerlo disponible.
+ 
+Luis Alejandro Campos:
+Apertura a propuestas de mejora de tecnologías de la información. Esto también es clave. Hay muchas organizaciones que dicen "No, yo con sistemas no quiero saber nada" La tecnología le roba el trabajo a la gente y son totalmente adversas a un proyecto de tecnología de la información. Tanteen eso también. Santiago.
+ 
+[38:59] Santiago Gonzalez Riveros:
+¿Qué tal, profesor? Una pregunta, si un integrante trabaja en la empresa y tiene un contacto directo con el definidor, digamos, de esa empresa, podría funcionar como puente también.
+ 
+[39:15] Luis Alejandro Campos:
+tranquilamente va a tener la dificultad en que va a tener que usar los dos sombreros, ¿no? Porque va a ser miembro de la organización, pero también va a ser el consultor que la analice, ¿no? Es por ahí difícil para el que trae la organización, si trabaja en esa organización,
+ 
+Luis Alejandro Campos:
+separar las aguas. Porque tal vez en el trabajo de consultoría puede ser que llegues a descubrir algunas verdades, tal vez incómodas en cuanto al operatorio de la organización. Pero sí, tranquilamente se puede, pasa mucho que el alumno es parte de la organización que están analizando.
+ 
+Luis Alejandro Campos:
+Nos pasa mucho con empresas familiares también traen.
+ 
+Luis Alejandro Campos:
+Bueno, como les dije, que estén abiertos a propuesta de TI.
+ 
+Luis Alejandro Campos:
+Y que las actividades del negocio sean comprensibles, observables. Y si me dejan agregar legales en los límites de la ética y la moral que se pueda presentar en un trabajo práctico académico. Fíjense el rubro.
+ 
+Luis Alejandro Campos:
+Bueno, hasta acá estamos con las pautas y las dos primeras partes de lo que teníamos que ver. ¿Alguien tiene alguna pregunta? ¿Alguien tiene alguna consulta?
+ 
+Luis Alejandro Campos:
+No sé si quieres agregar algo.
+ 
+[40:48] Ingrid Karen Pecorelli:
+No, creo que excede de completitud todo lo que hablamos hasta ahora, desde el Robled Coach y bueno con el equipo que vaya a acompañar en este cuatri, reforzar el mensaje de que aprovechen, que estamos por acá, que levanten la mano, como ahora están haciendo algunos para preguntar de otra cosa.
+ 
+Ingrid Karen Pecorelli:
+pero nada, estamos para ayudarlos y para desgravar cualquier cosa que se pueda presentar a lo largo de todo el cuatro meses para que llegue lo mejor posible al final. Salina, bienvenidos a la estación.
+ 
+[41:26] Luis Alejandro Campos:
+Bueno, Bruno.
+ 
+[41:29] Bruno Joaquín Añes Rancaño:
+Buenas noches, ¿cómo están? A mí no me quedó muy claro el tema este de tomar una empresa, digamos, como para aplicar la solución tecnológica. No veo otra forma que no sea que alguno de nosotros trabaje en la empresa para atraer la empresa.
+ 
+[41:31] Luis Alejandro Campos:
+Buenas noches.
+ 
+[41:45] Bruno Joaquín Añes Rancaño:
+Yo, por ejemplo, trabajo en una empresa de 9 personas que podría funcionar, pero no sé si es que se está pidiendo otra cosa o si vamos a pedir colaboración por otro lado con las empresas. Eso no me quedó muy claro.
+ 
+[41:58] Luis Alejandro Campos:
+A ver, el objetivo del trabajo es hacer una recomendación. Ustedes no van a llegar al momento de implementación, está bien, le van a dejar todo el proyecto listo como a decir si querés avanzar, seguí. Muchas veces nos pasa que no necesariamente el alumno está en la empresa, sino que trae la empresa de un familiar, la empresa de un amigo.
+ 
+Luis Alejandro Campos:
+que no son parte de la organización y es la pyme de alguien que conocen. O sea, nos pasa seguido también eso. O sea, de vuelta. La dificultad que tiene que vos estés adentro de la organización es eso, poder manejar esta doble identidad de parte de la organización y parte de la consultora, digamos.
+ 
+Luis Alejandro Campos:
+Pero tranquilamente se puede, sí.
+ 
+[42:38] Bruno Joaquín Añes Rancaño:
+Bien, gracias.
+ 
+[42:40] Luis Alejandro Campos:
+Agustin.
+ 
+[42:44] Agustin Orlando Palermo:
+No era, era eso de qué importante era la implementación, pero si es más una recomendación, ya ahí está resuelto.
+ 
+[42:50] Luis Alejandro Campos:
+Sí sí sí la idea es que ustedes evalúen y hagan una recomendación claramente un proyecto de implementación exceda lo que podemos hacer en un cuatrimestre o sea
+ 
+[43:04] Agustin Orlando Palermo:
+Yes.
+ 
+[43:06] Luis Alejandro Campos:
+Sí, Nicolás.
+ 
+[43:08] SANCHEZ LEGAL NICOLAS ESTEBAN:
+Sí, ¿qué tal? Quería consultar si nosotros no llegamos a conseguir por H o por B de una empresa. ¿Existe alguna especie de bolsa de ahí de la facultad de gente que proponga? ¿Qué hacemos en ese caso?
+ 
+SANCHEZ LEGAL NICOLAS ESTEBAN:
+Okay.
+ 
+SANCHEZ LEGAL NICOLAS ESTEBAN:
+Hmm.
+ 
+[43:46] Luis Alejandro Campos:
+Y terminaron consiguiendo una organización por ese lado.
+ 
+[43:50] SANCHEZ LEGAL NICOLAS ESTEBAN:
+Okey, nos pueden dar una mano para ver si llegamos a una.
+ 
+[43:51] Luis Alejandro Campos:
+Yeah.
+ 
+Luis Alejandro Campos:
+Le buscamos la vuelta. La idea igual siempre es que ustedes traigan la organización un poco porque es un trabajo que es complicado tal vez de hacerlo de manera súper iterativa. Se aprovecha mejor cuando es una organización que están arrancando de cero en la consultoría.
+ 
+[43:55] SANCHEZ LEGAL NICOLAS ESTEBAN:
+Vale.
+ 
+SANCHEZ LEGAL NICOLAS ESTEBAN:
+Time.
+ 
+[44:13] Luis Alejandro Campos:
+Por eso no tenemos una bolsa, digamos, de organizaciones con las cuales trabajamos.
+ 
+[44:14] SANCHEZ LEGAL NICOLAS ESTEBAN:
+Yeah.
+ 
+SANCHEZ LEGAL NICOLAS ESTEBAN:
+Okay, okay, correct. Bless.
+ 
+[44:21] Luis Alejandro Campos:
+¿Alguna otra duda?
+ 
+Luis Alejandro Campos:
+Si no, vamos frenando la grabación.
+ 
+Luis Alejandro Campos:
+Stop recording.
+ 
+Luis Alejandro Campos:
+Luis Alejandro Campos detuvo la transcripción
