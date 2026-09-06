@@ -1,0 +1,1025 @@
+Luis Alejandro Campos:
+Luis Alejandro Campos empezó la transcripción
+
+[0:05] Bruno Joaquín Añes Rancaño:
+Bien, bueno, buenas noches a todos. Gracias Santiago por compartir. Nosotros venimos a presentar nuestra empresa de consultoría que a razones de nombres atractivos elegimos el nombre de consultor IA por nuestra solución que va a tener una.
+
+Bruno Joaquín Añes Rancaño:
+Un componente de inteligencia artificial importante.
+
+Bruno Joaquín Añes Rancaño:
+Nosotros vamos a estar presentando el caso de la empresa elegida, que se llama Ominis. Es una empresa de medicina prepaga en lo que es el sector privado en Argentina.
+
+Bruno Joaquín Añes Rancaño:
+Una empresa que está muy relacionada con el Sanatorio Güemes como prestador troncal, no sé si lo conocen, pero que tiene un una base de colaboradores muy importante, aproximadamente 295 colaboradores internos y ciento 155000 afiliados.
+
+Bruno Joaquín Añes Rancaño:
+Así que venimos a presentar un poco nuestra consultoría, quiénes somos nosotros y luego quién es esta empresa que necesita soluciones, no solo por el lado de sistemas, sino también organizacionales, que es lo que nos brinda como habilidades nuestra casa de estudios. Paso ahora a presentar a nuestros compañeros. Yo soy Bruno Bruno Añes, el Scrum Master del equipo.
+
+Bruno Joaquín Añes Rancaño:
+Y nuestro principal integrante es Melina Arevalo, que es la product owner, que nos permitió el enlace con nuestra gerente de operaciones en la empresa Hominis, Liliana, y luego tenemos a Santiago, Patricio, Nicole, Tobías y Nicolás, que son los team member. Así que voy a pasar la palabra a Melina, que nos va a contar un poco de la empresa donde está trabajando y qué problemáticas.
+
+Bruno Joaquín Añes Rancaño:
+Está viendo.
+
+[1:46] Melina Gabriela Arevalo:
+Hola, buenas noches a todos. Bueno, como ya comentó Bruno, hominis es una empresa que comercializa planes de salud. Actualmente cuenta con más de 155000 afiliados, más de 300 prestadores de salud y 295 colaboradores.
+
+Melina Gabriela Arevalo:
+Si querés pasar la presentación.
+
+Melina Gabriela Arevalo:
+En cuanto a lo que es la misión y la visión de la empresa, como objetivo principal, la organización quiere posicionarse en el mercado de salud como una de las principales elegidas por los afiliados para brindar cobertura médico asistencial y con planes que sean accesibles.
+
+Melina Gabriela Arevalo:
+para para cualquier afiliado ese ese ese distintivo hizo que la empresa en los últimos años crezca de manera exponencial sobre todo cuando las los entes reguladores hicieron liberaron lo que es el cobro de cuota y demás y y se se se
+
+[2:50] Santiago Gonzalez Riveros:
+Y.
+
+[2:57] Melina Gabriela Arevalo:
+Em.
+
+Melina Gabriela Arevalo:
+Comenzó a subir lo que son las cuotas de manera indiscriminada. Nos dio la oportunidad a nosotros, con planes bajos y accesibles, poder captar afiliados de otros prepagos que se estaban dando de baja. Fue como la oportunidad de la empresa de poder posicionarse y captar mayor cantidad de afiliados.
+
+Melina Gabriela Arevalo:
+En.
+
+Melina Gabriela Arevalo:
+Bien, en cuanto a lo que es la estructura y el alcance, la cobertura principal de la empresa es AMBA desde la cobertura médica, como también la sede central de la organización AMBA como punto principal y hasta 70 km desde la afiliación sede central.
+
+Melina Gabriela Arevalo:
+Estamos en proyecto de expansión a lo que es el interior de del país. Como primer punto de trabajo es Mar del Plata. Justamente en estos momentos estamos en proyecto de expansión para el primero de octubre. Vamos a abrir la lo que es la sucursal en Mar del Plata y vamos a comenzar a comercializar los planes en la zona, por lo que la empresa está trabajando.
+
+Melina Gabriela Arevalo:
+En lo que es la cobertura de prestadores para armar la cartilla justamente para poder vender en zona. Y luego también se se brinda cobertura nacional e internacional a través de una empresa de asistencia al viajero en lo que respecta a urgencias y emergencias médicas, o sea, el la cobertura principal es.
+
+Melina Gabriela Arevalo:
+En ambas hasta 70 km, pero si viajan en lo que es en todo el mundo, tienen cobertura para lo que son las emergencias puntualmente.
+
+Melina Gabriela Arevalo:
+Luego de realizar el relevamiento.
+
+Melina Gabriela Arevalo:
+Pusimos como objetivos principales de la organización de lo que pudimos. Nosotras trabajamos con con la licenciada Sinof, que comentó Bruno, es gerente de operaciones y si bien no, no es la gerente general, no está en la alta dirección de la empresa, colabora principalmente con lo que se relaciona a los proyectos de tecnología para la empresa.
+
+Melina Gabriela Arevalo:
+Bueno, ella nos planteó gracias al relevamiento que hicimos, cuáles son los puntos principales con los que quiere trabajar. Como punto número uno es reducir la dependencia de terceros tecnológicos. La empresa hoy no cuenta con un sector propio de sistemas, terciariza lo que es el servicio con muchos proveedores.
+
+[5:02] Santiago Gonzalez Riveros:
+Y.
+
+[5:25] Melina Gabriela Arevalo:
+Y eso genera bueno alta dependencia justamente y no poder controlar el avance de los proyectos, luego profesionalizar la información gerencial al no contar con un sistema propio que.
+
+Melina Gabriela Arevalo:
+Que contenga toda la información, se dependemos de muchos reportes en Excel y mucho cruce manual para poder contar con información para la toma de decisiones, así que ellos consideran que más tableros de objetivos y de seguimiento sería fundamental para la alta gerencia.
+
+[5:47] Santiago Gonzalez Riveros:
+You?
+
+[6:02] Melina Gabriela Arevalo:
+Tercer punto, mejorar la coordinación entre áreas en lo que respecta a proyectos, la trazabilidad no llega a todos los sectores.
+
+Melina Gabriela Arevalo:
+Como también la comunicación, entonces no podemos hacer un seguimiento correcto de del estado de situación con cada uno de los proyectos y también que se puedan involucrar todos todas las distintas áreas de la organización. Punto número cuatro, mejorar la previsibilidad del gasto.
+
+Melina Gabriela Arevalo:
+Hoy lo que nos pasa es que a través del sistema de validación podemos ir monitoreando lo que es el consumo en cantidades de los afiliados dentro de los prestadores, pero no de manera valorizada, sino en cantidades, cantidades de consultas, cantidades de integración en lo que va el transcurso del mes, pero no podemos saber cuánto gasto tenemos en la calle.
+
+Melina Gabriela Arevalo:
+Entonces la idea o la solución que solicita la gerencia es poder cruzar justamente esas validaciones de consumo con los valores de convenios que tenemos cerrados con los prestadores, que también está en el sistema para poder saber en pesos cuánto ya se está o cuánto vamos a recibir de facturación a principios del mes siguiente.
+
+Melina Gabriela Arevalo:
+Y como último punto, documentar y estandarizar procesos. Hay muchos procesos que lo conoce la gente, pero que no están armados a través de manuales de procedimientos ni cargados en ningún sistema. Entonces, el ingreso de un nuevo colaborador a la organización implica que haya alguien que le enseñe.
+
+Melina Gabriela Arevalo:
+Específicamente todo y que no se olvide ningún detalle porque no hay nada por escrito que diga bueno, esto esto se hace de tal forma, así como esos son como los puntos principales que nos planteó la gerencia para poder trabajar.
+
+Melina Gabriela Arevalo:
+AM.
+
+[7:49] SANCHEZ LEGAL NICOLAS ESTEBAN:
+Bueno, yo voy a hablar un poco sobre las problemáticas que vimos. Escuchamos a Liliana y pudimos extraer tres áreas core, tres problemáticas principales con sus oportunidades de desarrollo, siendo una de las principales que no hay un gobierno de Haití.
+
+[7:59] Santiago Gonzalez Riveros:
+Okay.
+
+[8:08] SANCHEZ LEGAL NICOLAS ESTEBAN:
+Ni ningún ninguna especie de liderazgo técnico con ninguno de los 8 más de 8 proveedores que tenemos, lo cual tiene una oportunidad para formalizar una capacidad interna de gobierno tecnológico. La segunda problemática es estos datos dispersos que hay, la consolidación manual en Excel.
+
+SANCHEZ LEGAL NICOLAS ESTEBAN:
+sin ningún informe integrado que muestre esto. Imagínense que para me piden hoy una un informe sobre la venta. Ahora, para hacer eso, yo tengo que bajar cuatro X distintos de cuatro módulos distintos, cruzarlo contra la dinámica. Si me falta algo, acudir a la memoria de otra persona. No hay una algo que
+
+SANCHEZ LEGAL NICOLAS ESTEBAN:
+que consolide toda la información de forma fácil, lo cual lleva una oportunidad de tener un modelo de datos unificado con tableros en tiempo real para que yo en el momento pueda mostrar esta información. Esto también vimos otra problemática que es que hay falta de adopción a
+
+SANCHEZ LEGAL NICOLAS ESTEBAN:
+a la tecnología y a cómo ver los datos. Por ejemplo, la gerencia no se lleva bien con un tablero, prefiere que pase un informe en un Word con palabras. También tendría que ver una oportunidad de poder capacitar a la gente cómo es un tablero de Power BI, cómo se ve, cómo interactuar. Es otro trabajo más que habría que hacer.
+
+[9:06] Santiago Gonzalez Riveros:
+Yeah.
+
+[9:25] SANCHEZ LEGAL NICOLAS ESTEBAN:
+Y 1/3 problemática, que es hay muchos desarrollos demorados con third parties, sin ningún acuerdo de servicios definidos con ningún proveedor ni ninguna persona o área que se encargue de hacer un seguimiento, de ir como viene cada cada proyecto, lo cual nos lleva una oportunidad de unificar todo esto.
+
+SANCHEZ LEGAL NICOLAS ESTEBAN:
+En un área de gestión, sí que gestione los desarrollos y agilice, sepa cómo son los tiempos de cada uno de los proyectos.
+
+SANCHEZ LEGAL NICOLAS ESTEBAN:
+Vas a aclarar.
+
+[10:03] Santiago Gonzalez Riveros:
+Bien.
+
+[10:04] Melina Gabriela Arevalo:
+Ajá.
+
+[10:06] Santiago Gonzalez Riveros:
+Sí, me dices, sí.
+
+Santiago Gonzalez Riveros:
+¿Que le conta la madre eso?
+
+Santiago Gonzalez Riveros:
+Escucho.
+
+[10:18] Melina Gabriela Arevalo:
+B.
+
+[10:18] Bruno Joaquín Añes Rancaño:
+Sí se te escucha bien.
+
+[10:19] Santiago Gonzalez Riveros:
+Perfecto, bueno.
+
+[10:20] Melina Gabriela Arevalo:
+Bueno, el nivel, sí, Santi.
+
+[10:24] Santiago Gonzalez Riveros:
+Sí, acá lo que estuvimos conversando con la madurez organización organizacional es el tema de que tienen flujos definidos para todo lo que es la la operatoria diaria, porque los sistemas venían preparados para eso.
+
+Santiago Gonzalez Riveros:
+Pero lo que fue pasando es que la organización empezó a crecer, a un ir más rápido de lo que pueden entregar sus proveedores. Entonces, al tener una ausencia de un área de sistemas, digamos, esa persona que va siguiendo los pendientes, los va priorizando.
+
+Santiago Gonzalez Riveros:
+Eso lo lo cateuramos en este en este nivel.
+
+Santiago Gonzalez Riveros:
+Como intermedio, no.
+
+Santiago Gonzalez Riveros:
+Ahora, ya yendo al por ahí al nivel de detalle de las historias que fuimos relevando, por un lado la comunicación oficial, le estuvimos contando que existen varias aplicaciones bastante intuitivas de comunicación.
+
+Santiago Gonzalez Riveros:
+Donde uno puede compartir con sus colaboradores las novedades donde te pueden llegar los distintos requerimientos de las áreas. En ese caso, ellos lo que hacen, trabajan todo por mail y tienen hilos de conversación que para ver lo que se habló en la última reunión, tienen que rastrear un mail de hace 6 meses. como que.
+
+Santiago Gonzalez Riveros:
+La verdad, seguirle todos los pendientes bastante complicado con la gerenta de operaciones que estamos trabajando. Ellos se dedican varias veces a alimentar información en el sistema, digamos todo lo que es maestros de convenios, de códigos.
+
+Santiago Gonzalez Riveros:
+como que le pegan a todo el resto de áreas. Entonces a lo mejor hacen un cambio y el otro área no se entera. Mandaron un mail, pero no le llegó a la persona indicada. Entonces le comentamos la posibilidad de una comunicación oficial y se se vio bastante entusiasmado. y.
+
+Santiago Gonzalez Riveros:
+Y predispuesto al cliente como para invertir en una herramienta así.
+
+Santiago Gonzalez Riveros:
+Así que esto lo pusimos como número uno.
+
+Santiago Gonzalez Riveros:
+Después, como número 2. Bueno, como comentaban los compañeros, en este momento cruzan información de manera manual, no de distintos, de distintos módulos. Le comentamos que si la información está en el sistema, todo eso se puede transformar. Hay posibilidades de.
+
+Santiago Gonzalez Riveros:
+incluso un desarrollo propio donde puedan agarrar toda esa información y armar distintos reportes de lo mismo que la mínima sería lo que ya está haciendo hoy manual eso sería como la mínima y la máxima sería irnos ya a un modelo capaz de de tableros si la gerencia general se
+
+Santiago Gonzalez Riveros:
+Se acostumbra a utilizarlas.
+
+Santiago Gonzalez Riveros:
+Entonces eso nos lo puso como 1 segundo punto de dolor muy importante.
+
+Santiago Gonzalez Riveros:
+Después, respecto a lo que es la gestión de proyectos IT. Bueno, hablamos de que ellos no tienen un área de sistemas, digamos, formal. Entonces, los pedidos lo van haciendo a los proveedores para pedir funcionalidades o solicitar ajustes y sin tener esa persona que los siga.
+
+Santiago Gonzalez Riveros:
+como que se juntan con el proveedor y el proveedor lo mismo de siempre, ¿no? les va a preguntar, bueno, decime cuáles son los cinco temas más importantes y ahí llaman a un administrativo para que empiece a revisar las cadenas de mails anteriores. A esto le comentamos que hay herramientas de gestión de proyectos.
+
+Santiago Gonzalez Riveros:
+Les mencionamos algunas en el aire, capaz con lo que nosotros estamos familiarizados sin un estudio de mercado, como puede ser Jira. Lo había escuchado hablar, donde ahí podrían gestionar todos estos proyectos por separado y documentar todos estos
+
+Santiago Gonzalez Riveros:
+desarrollos. Además, estas aplicaciones también tienen la posibilidad de de adjuntar documentación donde podrían ir documentando estos procesos nuevos que se van formalizando, porque a veces les pasa también que implementan una nueva funcionalidad y
+
+Santiago Gonzalez Riveros:
+No llegan a tiempo con documentar cómo se usa. Entonces, a lo mejor el otro día la tienen que implementar y no tienen información como para compartirlo. Y es como bastante individual la capacitación de cada uno. Estos 3 puntos son los más importantes.
+
+Santiago Gonzalez Riveros:
+Para el cliente y después, respecto al punto cuatro, es esto de los consumos de tiempo real. Ellos tienen cuando una cuando un paciente se atiende en alguna clínica, ahí siempre hay una variación, pero a ellos no les llega valorizada lo que es la consulta.
+
+Santiago Gonzalez Riveros:
+Entonces, si por ejemplo, quieren estimar los costos que van a tener, que el próximo mes no lo pueden hacer y están forzados a esperar a la facturación de los prestadores. Y cuando recién les llega, ahí tienen como que ir comparando con los valores que ellos tienen por convenio, como que si ya tuvieran analizado lo que va a venir el próximo mes.
+
+Santiago Gonzalez Riveros:
+La conciliación cuando les viene a la factura sería mucho más rápida. Eso podría llevar a facturar antes. Eso también es un problema que tienen de que capaz tienen que facturar las cosas a meses vencidos.
+
+Santiago Gonzalez Riveros:
+Bueno, bajo esta estándar de priorización que elegimos, estos estarían en lo que es el el muja, lo que es los tableros ejecutivos, la comunicación oficial y una plataforma de gestión de proyectos IT y en segunda.
+
+Santiago Gonzalez Riveros:
+Y prioridad, lo que sería los consumos en tiempo real.
+
+Santiago Gonzalez Riveros:
+Bien.
+
+Santiago Gonzalez Riveros:
+Nosotros tuvimos una reunión.
+
+Santiago Gonzalez Riveros:
+Grupal con el cliente. La verdad que nos pudimos juntar todos y participar y reunir toda esta información. Esto estaríamos parados en lo que es este primer punto de la agenda de trabajo, que era validar toda esta toda esta información que primero nos compartía.
+
+Santiago Gonzalez Riveros:
+Melina, que trabaja ahí con el cliente.
+
+Santiago Gonzalez Riveros:
+Nosotros ya estamos armando el documento para.
+
+Santiago Gonzalez Riveros:
+Para presentarle al cliente porque nos llevamos toda esta información que lo fuimos trabajando y que le estamos presentando a ustedes.
+
+Santiago Gonzalez Riveros:
+Y bueno, avanzar con la arquitectura empresarial actual, no relevar ya en detalle cómo podemos hacer un impacto con estas historias de usuario que estuvimos haciendo.
+
+Santiago Gonzalez Riveros:
+Y ya diseñar lo que es la visión de este desarrollo.
+
+[17:42] Melina Gabriela Arevalo:
+Un tema, Un tema importante que no que no mencionamos en la presentación es que inicialmente lo que notamos fue la ausencia de un equipo de desarrollo, sí, un equipo de sistemas dentro de la organización y inicialmente nuestra visión había sido bastante amplia. Bueno, proponemos armar un equipo propio de del sector.
+
+Melina Gabriela Arevalo:
+Y los que nos comentaban desde la gerencia es que los proveedores o casi todos, no todos, pero la mayoría son puestos por la por la dirección y que tenemos que trabajar con ellos sin posibilidad de cambio. Simplemente tenemos que adaptarnos a las soluciones que ellos presentan.
+
+Melina Gabriela Arevalo:
+Por lo que desde nuestra, desde nuestro trabajo de consultoría, ellos están abiertos a escuchar propuestas, pero soluciones que complementen lo que ya está en la empresa y no a lo que haga una reingeniería total, porque no cuentan con la capacidad de poder afrontarlo, porque los mismos proveedores son parte de la dirección, digamos.
+
+[18:50] SANCHEZ LEGAL NICOLAS ESTEBAN:
+sí por cuestiones políticas Entonces es difícil decirle mira que este es más barato te van a decir no el más barato es este listo
+
+[18:59] Melina Gabriela Arevalo:
+Claro, hay que trabajar con los que tenemos y buscar soluciones que integren todos los procedimientos que están sin definición o que están por la mitad, poder hacer seguimiento, evaluar prioridades. Por eso el canal de comunicación también.
+
+[19:01] SANCHEZ LEGAL NICOLAS ESTEBAN:
+K.
+
+[19:17] Santiago Gonzalez Riveros:
+Bueno, esta es la prestación general de lo que fuimos relevando, alguna consulta.
+
+[19:25] Luis Alejandro Campos:
+Bueno, excelente equipo. Buena primera presentación. Les comento que se tomaron 19 minutos para hacer la presentación de los 15 que estaban determinados. Por otro lado veo que varios miembros del equipo no presentaron. Entiendo que había suficiente información como para que participen todos. Tengan en cuenta que las próximas presentaciones es requisito sine qua non que presenten todos.
+
+[19:48] SANCHEZ LEGAL NICOLAS ESTEBAN:
+No fue fue nuestra culpa organizarlo porque entendimos mal. Pensemos que iba a sobresaturar si cada uno leía una sola, una sola slide y dijimos, bueno, acortémoslo acá y la próxima en presentar nosotros es más organización nuestra. Perdón.
+
+[20:02] Luis Alejandro Campos:
+¿Y andas por ahí como para darle filo acá a los chicos?
+
+[20:05] Ingrid Karen Pecorelli:
+Sí, ¿cómo andan? Buenas noches. Me presento, hoy nos presentamos, nos saludamos oficialmente porque no lo habíamos hecho hasta ahora. Así que nada, Ingrid acá, coach en este cuatri del grupo. Nada, después les voy a pasar el feedback.
+
+[20:07] Santiago Gonzalez Riveros:
+I mentioned.
+
+[20:08] Melina Gabriela Arevalo:
+¿Cómo es?
+
+[20:09] Bruno Joaquín Añes Rancaño:
+Buenas noches.
+
+[20:11] Tobías Damonte Azpiazu:
+I understand you.
+
+[20:23] Ingrid Karen Pecorelli:
+completo por el chat de Teams, así no me demoro mucho tiempo porque estamos un poco pasaditos, pero quería destacarles primero que me gustó mucho el nombre de la consultora. Parece algo muy obvio, pero no lo vimos hasta ahora y la verdad es que queda muy bien, así que manténganlo.
+
+Ingrid Karen Pecorelli:
+El diseño de la presentación en general, la paleta de colores, la prolijidad estuvo muy bien. Sí, a lo mejor en algunas hubiese sacado un poquito de texto porque puede resultar un poco complejo para visualizar, pero la verdad que en general estuvo muy bien, así que también les recomiendo que sigan por esa línea.
+
+Ingrid Karen Pecorelli:
+En cuanto a la presentación en sí, bueno, lo mismo que dijo que dijo Luis, no presentaron todos. Lo bueno es que lo pueden tener en cuenta para la próxima. La idea es que sí, lo hagan todos y que estén todos incluso con la cámara prendida. Eso la verdad que.
+
+Ingrid Karen Pecorelli:
+Que suma mucho y es la base para la presentación. Me gustó mucho el ritmo de la presentación de quienes si estuvieron hablando y que no hubo lectura, cosa que en una primera vuelta, a veces con los nervios a veces se se atina y la verdad de que fluyó muy bien, así que también les recomiendo seguir por esa línea.
+
+Ingrid Karen Pecorelli:
+Pero sí practicar un poco el quién dice qué, practicar los pases como para que fluya un poco mejor. Ahí fue una de las cosas que Luis remarcó mucho en una de las clases que tuvimos como para que esto de la práctica se nota mucho a la hora de la exposición, más allá de los novios que puede fallar alguna que otra cosa.
+
+Ingrid Karen Pecorelli:
+Creo que es importante que lo practiquen un poquito más y que tengan en cuenta un poco todo este feedback que les vamos dando. Algunos puntos importantes como para mejorar de cara a la próxima es entender en el speech que ustedes son la consultora y.
+
+Ingrid Karen Pecorelli:
+evitar el vamos a expandirnos a la provincia de Buenos Aires o cuando hablaron de los objetivos estratégicos también es como que hablaban del lado del cliente, pero nada, nos tenemos que correr un poco de ese rol, por más de que si hay alguno que trabaja ahí, tratar de darle la mirada objetiva desde afuera.
+
+Ingrid Karen Pecorelli:
+En general estuvo muy bien, pero se chispoteó en algunas ocasiones, así que nada, está bueno reforzarlo. Y algo que de base me parece que tenemos que revisar en la presentación en general es que parece muy, no sé si la palabra es sesgada, pero como que la mirada está muy puesta.
+
+Ingrid Karen Pecorelli:
+en la parte operativa, mucho en la gestión de la operación. Ya desde los objetivos estratégicos, que por un lado no son SMART, recuerden que hay que cumplir con todas las condiciones de cada sigla de la SMART para estar bien completos. Revisar primero en profundidad si son todos realmente estratégicos.
+
+Ingrid Karen Pecorelli:
+A mí me parece que alguno que otro no, pero bueno, como decimos siempre, si se puede justificar por qué se consideran estratégicos también es válido, pero de ahí en adelante es como que tuvo una pequeña sensación de operativo más que de
+
+Ingrid Karen Pecorelli:
+estratégico lo que fueron contando. Eso es algo que le daría una vuelta de rosca porque estamos como en un nivel un poco más general antes de pasar al operativo.
+
+Ingrid Karen Pecorelli:
+En general, eso es lo que yo detecté como los puntos más importantes, pero bueno, después les paso el video completo y muchas gracias por la presentación. Los felicito.
+
+[24:13] Bruno Joaquín Añes Rancaño:
+Muchas gracias a vos, gracias.
+
+[24:13] Melina Gabriela Arevalo:
+Gracias.
+
+[24:14] SANCHEZ LEGAL NICOLAS ESTEBAN:
+That is yes.
+
+[24:14] Tobías Damonte Azpiazu:
+Yes, yes.
+
+[24:49] Agustin Manuel Orlando Palermo:
+No puedo compartir, Luis.
+
+[24:54] Esteban Alejandro De Nardo:
+Creo que no se te escucha, no sé si yo no lo escucho.
+
+[24:56] Agustin Manuel Orlando Palermo:
+No se te escuchaba, profe.
+
+[25:01] Benjamin Marchetta:
+Escúchame debajo, sí.
+
+[25:03] Agustin Manuel Orlando Palermo:
+A mí.
+
+[25:04] Benjamin Marchetta:
+Sí.
+
+[25:14] Daniela Harari:
+No se te escucha Luis o soy yo.
+
+[25:14] Agustin Manuel Orlando Palermo:
+Uh.
+
+Agustin Manuel Orlando Palermo:
+Si yo a Luis tampoco lo escucho.
+
+[25:18] Luis Alejandro Campos:
+A ver ahí. Ahí está.
+
+[25:18] Christian Gabriel Jackson:
+No, ahora sí.
+
+[25:19] Luis Alejandro Campos:
+Ahí está, ahora sí, no Agustin, lo que decía, parecería que es por la que se escucha por la laptop y no por el headset.
+
+[25:19] Sarah Jennifer Senderosky:
+Ahora sí, hoy sí.
+
+[25:27] Agustin Manuel Orlando Palermo:
+No, pero no tiene es escritorio, así que no tiene, ahí está mejor.
+
+[25:28] Benjamin Marchetta:
+Escucho mejor.
+
+[25:30] Luis Alejandro Campos:
+ahí se escucha un poquito mejor dale compartir compartir arranquen cuando cuando quieran ya estamos grabando
+
+[25:30] Christian Gabriel Jackson:
+I owe you now.
+
+[25:32] Agustin Manuel Orlando Palermo:
+Barbara, ahí.
+
+[25:32] Christian Gabriel Jackson:
+Sí.
+
+[25:35] Agustin Manuel Orlando Palermo:
+Dale, ahí comparto, ahí avísame si se ve bien y cuando quieras, ahora puedes arrancar.
+
+[25:40] Sarah Jennifer Senderosky:
+genial Muchísimas gracias Bueno buenas noches a todos Nosotros somos en grana cada proceso cuenta somos una consultora en sistemas de información y la conformamos Bueno aquí les habla Sarah soy audit assurance Julian es nuestro business analyst Christian es nuestro technical leader Benja nuestro scrum Master para mí nuestro product owner
+
+Sarah Jennifer Senderosky:
+Y Agus es nuestro producto análisis. En esta presentación vamos a exponer un poco sobre el relevamiento organizacional que le hicimos a nuestra empresa elegida, que en este caso es Tancredi Vigacy Bloques, y el objetivo que tuvimos en esta primera fase de relevamiento fue entender un poco las principales causas de cómo funciona la empresa, su contexto.
+
+Sarah Jennifer Senderosky:
+¿Dónde está ubicada? ¿Qué problemas tiene? Los lineamientos generales de su funcionamiento, etcétera, como también así los productos que esta empresa tiene. Podemos empezar hablando un poco que esta empresa está ubicada en Olavarría, que queda en el interior de la provincia de Buenos Aires, a más o menos 300 km de Buenos Aires. Perdón.
+
+Sarah Jennifer Senderosky:
+y que fue fundada en noviembre del 2006 esto quiere decir que dentro de poco va a cumplir 20 años también lo que podemos decir es que su ubicación eh ayuda mucho a lo que esta empresa se dedica A qué se dedica a la construcción ahora mi compañero Cristian les va a contar un poquito más sobre trancredi
+
+Sarah Jennifer Senderosky:
+Su visión, su visión, etcétera.
+
+[27:04] Christian Gabriel Jackson:
+Gracias, Sarah. Bueno, les voy a hablar un poco sobre aspectos relacionados a los ideales, a la filosofía de la organización para poder conocerla mejor.
+
+Christian Gabriel Jackson:
+La misión de Tancredi consiste en desarrollar los productos de hormigón.
+
+Christian Gabriel Jackson:
+Con los más altos estándares en seguridad y calidad, gracias a las nuevas tecnologías y capacitación.
+
+Christian Gabriel Jackson:
+La visión consiste en ser los mejores dentro de la industria de la construcción.
+
+Christian Gabriel Jackson:
+Podemos ver que Tankredi le da importancia a la satisfacción del cliente, sin dejar de lado la responsabilidad de cumplir con los estándares de calidad y seguridad que en esta industria son muy importantes.
+
+Christian Gabriel Jackson:
+Bueno, acá vemos la estructura de la organización, vemos que es una estructura lineal.
+
+Christian Gabriel Jackson:
+en donde el socio gerente, el propietario es José Tancredi y es quien tiene autoridad en estas distintas áreas funcionales. Administración que se encarga de la facturación de ventas, gestión de cobranzas, controlar a los proveedores, compras que se encargan de las compras de suministros en general y de los materiales necesarios para la producción.
+
+Christian Gabriel Jackson:
+Obras civiles donde se preparan para la organización para las licitaciones públicas, se hacen los presupuestos, se siguen las el seguimiento de obras.
+
+Christian Gabriel Jackson:
+Y después vemos que está el área de producción y por separado el área de hormigón elaborado.
+
+Christian Gabriel Jackson:
+esto es debido a la naturaleza del hormigón elaborado que pasa por un proceso distinto a los bloques de hormigón o a las viguetas ya que el hormigón elaborado pasa por un proceso de mezcla y se debe de gestionar rápido gracias a los camiones de mezcla
+
+Christian Gabriel Jackson:
+Porque sino el hormigón queda sin poder utilizarse.
+
+Christian Gabriel Jackson:
+Y después está el área de mantenimiento en donde se le da mantenimiento a las máquinas y a las maquinarias.
+
+Christian Gabriel Jackson:
+Vemos que es una estructura lineal y que presenta una centralización estratégica en José Tancredi que en el día a día está presente en todas las áreas. Esto puede generar cuellos de botella, ya que José no delega mucha autoridad en
+
+Christian Gabriel Jackson:
+Más personas.
+
+Christian Gabriel Jackson:
+Sí, ahora le doy la palabra a Fermin, que no puede estar acá, pero nos dejó un video explicando lo que viene.
+
+[29:43] Agustin Manuel Orlando Palermo:
+Me confirma si se escucha el video por favor.
+
+[29:56] Christian Gabriel Jackson:
+no se escucha.
+
+[29:57] Julian Nahuel Añaños:
+Te escucha.
+
+[29:59] Agustin Manuel Orlando Palermo:
+¿Se escucha o no se escucha el video?
+
+[30:01] Julian Nahuel Añaños:
+No.
+
+[30:02] Christian Gabriel Jackson:
+No.
+
+[30:02] Maria Belen Pena:
+No.
+
+[30:02] Agustin Manuel Orlando Palermo:
+Right.
+
+[30:06] Benjamin Marchetta:
+I some so you know.
+
+[30:09] Luis Alejandro Campos:
+Fijate que tenés en la parte de compartir, hay un setting que es como para compartir el audio de la ventana en Teams.
+
+[30:15] Agustin Manuel Orlando Palermo:
+Acá está.
+
+Agustin Manuel Orlando Palermo:
+Hola, mi nombre es Fermin, yo soy el producto owner de Engrana. Bueno, lo principal que identificamos nosotros como un equipo fue que la empresa Tancredi no vendía un solo producto, sino que vendía una línea de negocio.
+
+[30:30] Christian Gabriel Jackson:
+Ahora sí.
+
+[30:47] Agustin Manuel Orlando Palermo:
+que formaba por cuatro productos una de ellas era el hormigón elaborado que es el producto que mayor volumen de facturación tiene tiene cerca de un 50% la ventaja que tiene es que este se fabrica
+
+Agustin Manuel Orlando Palermo:
+se vende, se cargan los camiones mixer y se entrega y se cobra rápidamente. Lo que le permite a la empresa de José tener un flujo de caja ágil y también tener una gran fidelización de sus clientes.
+
+Agustin Manuel Orlando Palermo:
+En segundo lugar tenemos las viguetas pretensadas que estas representan a cerca del 30% de las ventas. José dice que es el producto más emblemático que tienen ellos pero también es el producto que más expuesto está a la competencia.
+
+Agustin Manuel Orlando Palermo:
+Está muy puesto en lo que es términos de calidad y de terminación.
+
+Agustin Manuel Orlando Palermo:
+Bing.
+
+Agustin Manuel Orlando Palermo:
+Bueno, por otra parte tenemos a las losas huecas pretensadas que acá nos quisimos poner un porcentaje porque no teníamos el número estricto pero nada, en general las losas huecas pretensadas es la versión todo en uno del sistema de piso tradicional en vez de vender por separado
+
+Agustin Manuel Orlando Palermo:
+La vigueta y los bloques, esto se vende como un todo y le permite a la empresa Tancredi competir en lo que son obras que requieren alta velocidad de colocación.
+
+Agustin Manuel Orlando Palermo:
+Y por otra parte, tenemos las obras civiles, que acá tampoco pusimos un porcentaje, pero José nos nombró que era cerca de un 20%. El tema es que.
+
+Agustin Manuel Orlando Palermo:
+Estas obras civiles tienen muchos altos y bajos, por lo que un mes en un día se puede se puede facturar lo que no se factura quizá en 3 meses siguientes, porque la porque la construcción está parada, pero nada, como se como dice acá, es el menor volumen que tiene, pero la que mayor valor agregado te da porque no estás.
+
+Agustin Manuel Orlando Palermo:
+Vendiendo un producto, sino que estás vendiendo el proyecto de una obra en sí.
+
+[33:17] Benjamin Marchetta:
+Bueno, en cuanto al concepto competitivo, Tancredi se encuentra en un mercado muy variable e inestable, que está muy condicionado por los vaivenes económicos de la Argentina y también por la inflación y por la falta de financiación.
+
+Benjamin Marchetta:
+En cuanto a los principales competidores, podemos nombrar a empresas como Tensolite, Shab, Norwich, Hormicon y Archi Módulos, que estas son todas pymes que están distribuidas regionalmente, lo que muestra que es un mercado muy fragmentado y que tiene una alta dependencia.
+
+Benjamin Marchetta:
+En lo que es la ubicación geográfica y de la cercanía de la empresa o de sus plantas a las obras, no ahí sí puedes pasarla. Ahí está en cuanto a los principales modelos.
+
+Benjamin Marchetta:
+Tenemos el business to business por proyecto, que consiste en la fabricación a medida para horas específicas como pueden ser horas viales o puentes. Tenemos también el business to business por catálogo o mejor conocido como corralón, que es el modelo de nuestro cliente.
+
+Benjamin Marchetta:
+Que consiste en la producción estandarizada y en masa de todo lo que son bloques, vigas, tuberías y adoquines.
+
+Benjamin Marchetta:
+También tenemos el que el modelo de llave en mano, que consiste en que la empresa diseña, transporta, fabrica y coloca toda la estructura en el lugar y la deja lista para el cliente. También como para mencionar algunas características que están siendo comunes en los modelos de Argentina.
+
+Benjamin Marchetta:
+Es la financiación con venta en pozo o con fideicomiso del costo, que básicamente es un grupo de inversores que pone fondos de manera mensual para financiar las obras y no estar dependiendo tanto de los créditos bancarios.
+
+Benjamin Marchetta:
+Y también tenemos la obra pública delegada o privada, que en la actualidad muchas empresas están buscando conseguir más trabajo en lo que es el sector privado, porque la parte de obras públicas está muy dependiente de los ciclos económicos y la economía volátil de Argentina. Ahí se puede pasar.
+
+Benjamin Marchetta:
+Y como ventajas para nombrar de tanque en el mercado, en la actualidad tenemos la ubicación, como dijo mi compañero, está en Olavarría, que es una zona que es muy beneficiosa porque tiene muy pocas fábricas y constructoras.
+
+Benjamin Marchetta:
+Tenemos la reducción de tiempos muertos. Esto es por la estandarización de los procesos muy repetitivos de los de las líneas de producto, la diversificación también por la cantidad de líneas de producto que tiene. Y en los bloques de ormigón lo más comunes, no lo he elaborado, no lo que tienen es que el proceso productivo.
+
+Benjamin Marchetta:
+del bloque es similar en todo el mercado, por lo que el producto de tanque es básicamente igual al de los competidores más grandes, por lo que ahí puede sacar una ventaja al ofrecerlo simplemente al menor precio o.
+
+Benjamin Marchetta:
+Al darle un mejor servicio al cliente.
+
+Benjamin Marchetta:
+Y en cuanto tendencias del de la competición, tenemos que siempre se está buscando constantemente estar más cerca de las obras. Y para eso tenemos medidas como las estaciones móviles, que son plantas temporales que se ponen bien cerca de las obras para así poder eliminar los costos de transporte.
+
+Benjamin Marchetta:
+Tenemos la integración y la mejora tecnológica con mejora de maquinarias, como puede ser la que nos mencionó nuestro contacto, que los competidores ahora están comprando máquinas para hacer vigas que vienen de España y que con eso pueden hacer vigas que están de una mucha mejor calidad.
+
+Benjamin Marchetta:
+También tenemos las certificaciones como pueden ser la de internacionales de calidad, como la ISA 9001 y como ya dije, para ir cerrando la inclinación hacia las obras privadas por la falta de obras públicas. Y ahí le dejo la palabra a mi amigo Agustin.
+
+[37:23] Agustin Manuel Orlando Palermo:
+Bueno, buenas noches. Yo les voy a hablar un poco de lo que es la clientela, los clientes y los proveedores con los que trabaja regularmente Tancredi. En cuanto a clientes, tiene una cartera de clientes relativamente variada, Tancredi, por ejemplo, los corralones que están en toda la zona que.
+
+Agustin Manuel Orlando Palermo:
+En todas las ciudades y pueblos que están alrededor de Olavarría, los 300 km que hablamos al principio. Estos corralones funcionan como una especie de minorista que les compran los productos a Tancredi y después los revenden en sus respectivas localidades y después lo que son constructoras locales y clientes particulares que directamente cuando necesitan algún tipo de.
+
+[37:47] Julian Nahuel Añaños:
+No.
+
+[38:04] Agustin Manuel Orlando Palermo:
+de material para una construcción, para una obra, les compran directamente a Tankredi y los clientes particulares consumen mucho lo que es el hormigón directamente del hormigón elaborado. Y por último, en lo que es el sector público, cuando la municipalidad, sobre todo de Olavarría, tiene alguna obra, alguna construcción de un edificio o lo que sea, ofrece estas licitaciones públicas y Tankredi suele participar.
+
+Agustin Manuel Orlando Palermo:
+para ver si puede tener un mercado un poco más amplio. Y después, por el lado de los proveedores, la principal compra que tiene Tankredi es la materia prima, justamente la que usa para elaborar todos los productos. Acá juega un rol bastante importante la ubicación, la locación geográfica que tienen, porque Olavarría es un centro minero bastante importante de...
+
+Agustin Manuel Orlando Palermo:
+De la provincia de Buenos Aires. Entonces, tener esta cercanía geográfica con todos los proveedores o con la mayoría de los proveedores hace que el costo logístico sea bastante menor o baje bastante. Entonces, por ejemplo, le compran la loma negra del cemento, loma negra, una cementera bastante grande, bastante importante, que está radicada ahí en Ogarravarría.
+
+Agustin Manuel Orlando Palermo:
+Tanto los áridos como el hierro también lo compran a canteras locales, a proveedores de hierro locales. Lo que sí tienen que traer desde Buenos Aires, las viguetas se fabrican con una especie de alambre especial en particular, que eso sí la fabrica una empresa de Buenos Aires y necesitan traerla.
+
+Agustin Manuel Orlando Palermo:
+Desde acá y ahora le devuelvo la palabra a Christian.
+
+[39:37] Christian Gabriel Jackson:
+Muchas gracias. Bueno, ahora les vamos a mostrar los objetivos SMART que identificamos gracias a la comunicación con nuestro cliente. Los objetivos SMART son aquellos que son específicos, medibles, alcanzables, realistas y acotados.
+
+[39:39] Julian Nahuel Añaños:
+Mhm.
+
+[39:55] Christian Gabriel Jackson:
+Bueno, entre los objetivos que identificamos están la expansión comercial en nuevas regiones, ya que nuestro cliente expresó que
+
+Christian Gabriel Jackson:
+Yeah.
+
+Christian Gabriel Jackson:
+Tenía deseo, tiene deseos de expandirse en regiones como Bahía Blanca, Mar del Plata.
+
+Christian Gabriel Jackson:
+Y ese objetivo como meta tiene el de incorporar al menos tres corralones nuevos en nuevas zonas. Otro de los objetivos es el de aumentar la capacidad productiva, ya que él nos comentó que hay nuevas máquinas y que en unos meses quizá está viendo si si las incorpora.
+
+Christian Gabriel Jackson:
+máquinas chinas Bueno este objetivo como meta tiene el de aumentar la capacidad productiva de los bloques de hormigón en un 30% Perdón aumentar la capacidad productiva diaria en un 30% de los bloques de hormigón
+
+Christian Gabriel Jackson:
+Otro objetivo es el de la estabilización del capital humano.
+
+Christian Gabriel Jackson:
+Ya que esto es un problema que debido a que la capacitación en este tipo de en esta industria es muy costosa y últimamente la organización sufrió de rotación de personal.
+
+Christian Gabriel Jackson:
+La meta de este objetivo es tener 14 operarios fijos en un plazo de 18 meses. Y por último, está el objetivo de sistematizar las compras, los canjes de materiales y el inventario.
+
+Christian Gabriel Jackson:
+Como meta sería registrar el ciento por ciento de las operaciones gracias a las tecnologías de la información.
+
+Christian Gabriel Jackson:
+Ahora le voy a pasar la palabra a Julian.
+
+[41:41] Julian Nahuel Añaños:
+Buenas noches. Bueno, como equipo de consultoría, nosotros hicimos un análisis de la situación del de transcredi, enfocándonos en los procesos, gestión de datos y las oportunidades de mejora para que pueda.
+
+Julian Nahuel Añaños:
+Acompañar el crecimiento de la empresa del relevamiento que realizamos, lo que detectamos fueron 5 problemáticas principales, una asociada a las ventas, que últimamente hubo un nivel en la caída de las ventas y necesita una necesidad de explorar nuevos mercados para.
+
+Julian Nahuel Añaños:
+Utilizar la capacidad instalada que tiene después lo que es en cuanto a la producción. Hoy por hoy están haciendo muy artesanal determinadas terminaciones, que lo cual hay competidores que tienen mejor visual determinación y eso les hace perder ventas. Entonces la idea es.
+
+Julian Nahuel Añaños:
+Poder mejorar con tecnología es los productos para volver a ganar mercado y ventas. Después el tema del personal, hay alta rotación de personal y se necesita mucha capacitación. Este es también un problema que tienen con la baja de.
+
+Julian Nahuel Añaños:
+De la caída de las ventas y el mercado como está hoy en día, entonces lo que quieren es ganar mayor mercado para poder mantener y tener estabilidad con los trabajadores que tienen. Después también en el tema de gestión, todas las decisiones importantes son tomadas por el socio gerente.
+
+Julian Nahuel Añaños:
+Lo que debería haber un poco de delegación de ciertas decisiones y después también contar con información real y a tiempo de en cuanto a lo que es las compras, los inventarios, los canjes sistematizar y el seguimiento de los productos defectuosos.
+Luis Alejandro Campos
+Julian Nahuel Añaños:
+Me podés pasar la bueno y las oportunidades de mejora de acá en la producción artesanal es tecnificar y mejoras tecnológicas con máquinas que están planificando traer de China y otras de España para poder hacer frente a la competencia después en el mercado.
+
+Julian Nahuel Añaños:
+En el mercado están planeando expandirse comercialmente a Mar del Plata y a Bahía Blanca, que son plazas que tienen gran cantidad de obras. Después, la para la alta rotación de personal, ellos quieren hacer la profesionalización y mantener un personal estable para que no haya tanta rotación.
+
+Julian Nahuel Añaños:
+Y en cuanto esto, lo que va a hacer la profesionalización, lo que va a generar es que pueda delegar el dueño determinada toma de decisiones en su estructura. Y por último, hoy por hoy, como tiene muchos procesos manuales para sacar la información de ventas, compras, seguimientos de.
+
+Julian Nahuel Añaños:
+Productos defectuosos es proponerle un sistema que.
+
+Julian Nahuel Añaños:
+Integrado que pueda generarle todas las los indicadores de gestión para ver las ventas online de una manera confiable y fiable. Si querés pasá y bueno, nosotros enfocándonos en los procesos, los datos y en la gestión de la información.
+
+Julian Nahuel Añaños:
+Vemos que Tancredit tiene una sólida experiencia y trayectoria en el rubro. Lo que necesita es para crecer es poder sistematizar y profesionalizar su estructura para poder atender a las demandas y ser más competitiva en el mercado.
+
+Julian Nahuel Añaños:
+Esto ya con esto cerramos lo que es la presentación.
+
+Julian Nahuel Añaños:
+No sé si quieren preguntas.
+
+[45:35] Agustin Manuel Orlando Palermo:
+Cualquier pregunta, comentario.
+
+[45:35] Luis Alejandro Campos:
+Buenísimo.
+
+Luis Alejandro Campos:
+Buenísimo equipo, gracias por la presentación. Como el equipo anterior se pasaron 19 minutos y medio más o menos tardaron.
+
+Luis Alejandro Campos:
+Dani Belus andas por ahí como para hacerlo de evolucionar chicos
+
+[45:51] Maria Belen Pena:
+Esto es hoy. Buenas noches, chicos, ¿cómo andan? ¿Todo bien?
+
+[45:54] Agustin Manuel Orlando Palermo:
+Hola, Bren, todo bien, hola, todo bien.
+
+[45:55] Julian Nahuel Añaños:
+Oh yeah.
+
+[45:55] Maria Belen Pena:
+Bueno, también es la primera vez que nos vemos, así que me presento, se los voy a estar acompañando durante el cuatri. La verdad que me pareció súper interesante el caso para poder analizar. Me parece que estuvo súper bien explicado todo el modelo de negocio. Para la próxima sí haría un poquito más de foco en lo que es la el análisis de requerimientos y objetivos en vez de.
+
+[45:56] Benjamin Marchetta:
+Yes.
+
+[46:17] Maria Belen Pena:
+Contar cómo es la operatoria del negocio, pero la verdad que en general el feedback es súper positivo, me gustó mucho.
+
+[46:24] Agustin Manuel Orlando Palermo:
+Gracias.
+
+[46:24] Julian Nahuel Añaños:
+Gracias.
+
+[46:24] Maria Belen Pena:
+Felicitaciones.
+
+[46:25] Benjamin Marchetta:
+Just.
+
+[46:25] Agustin Manuel Orlando Palermo:
+Gracias.
+
+[46:26] Christian Gabriel Jackson:
+Gracias.
+
+[46:32] Agustin Manuel Orlando Palermo:
+No sé si escucha Luis.
+
+[46:33] Benjamin Marchetta:
+Es sin tocar toda de vuelta.
+
+[46:34] Maria Belen Pena:
+Ay, no se escucha.
+
+[46:36] Luis Alejandro Campos:
+Que después le vamos a dar el feedback detallado después de las anotaciones del resto de los equipos, del equipo de coaches. Vale, buenísimo. Bueno, venimos un poco retrasados. Vamos con el equipo 3.
+
+[46:37] Agustin Manuel Orlando Palermo:
+Hello.
+
+[46:43] Benjamin Marchetta:
+Vale.
+
+[46:44] Agustin Manuel Orlando Palermo:
+Gracias.
+
+[46:45] Julian Nahuel Añaños:
+Yes.
+
+[46:52] Esteban Alejandro De Nardo:
+Perfecto, dale, ahí ya comparto y arrancamos.
+
+[46:56] Luis Alejandro Campos:
+Buenísimo.
+
+[47:08] Esteban Alejandro De Nardo:
+Bien, ahí se ve bien, todos lo ven bien.
+
+[47:13] Tiago Nakasone:
+sí.
+
+[47:15] Esteban Alejandro De Nardo:
+Oh.
+
+[47:18] Juan José Torres:
+Perfecto.
+
+[47:18] Esteban Alejandro De Nardo:
+Bueno, want to quieran.
+
+[47:22] Juan José Torres:
+¿Eso me escucha bien?
+
+[47:23] Esteban Alejandro De Nardo:
+Sí, ahí se escucha.
+
+[47:25] Juan José Torres:
+Perfecto, buenísimo. Bueno, ¿qué tal? Buenas noches a todos. Bueno, nosotros vamos a parte de lo que es Nextep. Somos una consultora de tecnología enfocada en ayudar a organizaciones que necesitan repensar lo que es su arquitectura empresarial y evaluar qué soluciones tecnológicas conviene incorporar, incluyendo lo que es o intendencia, que es la inteligencia artificial.
+
+Juan José Torres:
+generativa, siempre partiendo bueno de un diagnóstico profundo del negocio antes que recomendar cualquier cambio. En esta ocasión bueno nos encontramos frente a Iber, que es uno de los proyectos en los cuales hemos avanzado como equipo y tuvimos la oportunidad de poder trabajar
+
+Juan José Torres:
+Estas últimas 2 semanas, junto a Sebastián Pensado, que es el gerente comercial de Iber, nuestra organización cliente, empezamos relevando lo que es la organización. Tuvimos instancia de conversación con Sebastián para entender cómo es que funciona el negocio hoy en día. ¿Cuáles son sus objetivos estratégicos?
+
+Juan José Torres:
+y que la distingue bueno dentro de su mercado con esa información pudimos armar un primer caso de negocio que fue El Punto de partida de todo lo que vamos a mostrar hoy y bueno para seguir comentando un poco más de lo que es ciber y Y cómo es que fuimos
+
+[48:33] Esteban Alejandro De Nardo:
+No.
+
+[48:46] Juan José Torres:
+Y.
+
+Juan José Torres:
+Avanzando a partir de lo que son los objetivos y las propuestas, le paso la palabra a mi compañera Macarena Ignacio, que bueno, le va a contar quién es ciber y hacia dónde apunta como organización.
+
+[49:00] Macarena Abril Ignacio:
+Buenas noches. Bueno, la idea es básicamente comentar un poco qué es Iber. Es una empresa que está en Uruguay, dato no menor. Ellos básicamente se el core del negocio, digamos, es la venta de vinos tanto nacionales como importados. Tienen también espirituosas, ya sea, no sé, whisky.
+
+Macarena Abril Ignacio:
+Y jeans, etcétera, como de productores bastante importantes también de distintas partes del mundo y tienen una sección de accesorios que puede ser cristalería también importada, otros accesorios de la industria del vino, digamos, y de las bebidas.
+
+Macarena Abril Ignacio:
+Y una parte gourmet que, de nuevo, también tiene una pata fuerte en la importación, que pueden ser aceites de oliva, tés importados como distintos productos que hacen a la gastronomía. Y ellos están. Bueno, este año cumplen 30 años.
+
+Macarena Abril Ignacio:
+En Uruguay arrancaron con una tienda y hoy tienen más de 20 en todo el país, como distribuidas en distintas regiones y cada tienda tiene como un concepto distinto. Si bien el la oferta de productos, digamos, es bastante similar, dependiendo de la ubicación y el tamaño de esa tienda.
+
+Macarena Abril Ignacio:
+Hay veces que tienen como espacios con donde se pueden hacer degustaciones y presentaciones a clientes y otros que quizás es simplemente como una isla en un shopping con una cartera de productos bastante más limitada.
+
+Macarena Abril Ignacio:
+Pero bueno, otra de la pata muy fuerte que tienen es la importación de todos los productos que manejan, no solo los vinos, sino también las espirituosas y los productos gourmet. Entonces pueden abastecer a todas estas tiendas internamente, digamos.
+
+Macarena Abril Ignacio:
+Y no solo venden a los clientes de las tiendas, sino que también tienen un ecommerce bastante desarrollado.
+
+Macarena Abril Ignacio:
+Ellos hacen tienen como membresías exclusivas para ciertos clientes que pueden acceder a promociones mensuales y una caja de vinos como seleccionada por el equipo de Somelis de allá y distintas actividades que van haciendo.
+
+[51:31] Esteban Alejandro De Nardo:
+Michael.
+
+[51:38] Macarena Abril Ignacio:
+Y también distribuyen a distintos canales oreca, que es básicamente restauración y hotelería con algunas vinotecas, así que es como bastante amplio, digamos, el alcance de todo lo que hacen allá.
+
+Macarena Abril Ignacio:
+Y bueno, le paso la palabra a Tiago.
+
+[51:59] Tiago Nakasone:
+Bien, buenas noches a todos. Hay un poco para seguir con lo que son los objetivos estratégicos. Nosotros planteamos cuatro enfocados principalmente en lo que es la digitalización y optimización de del proceso logístico de la empresa. En cuanto al primer objetivo, la idea es.
+
+Tiago Nakasone:
+Digitalizar las transferencias de la mercadería entre los distintos depósitos y locales. Nuestra meta ahí es llegar para el Q cuatro de 2026 al 99% de las transferencias de mercaderías registradas. En segundo lugar, planteamos.
+
+Tiago Nakasone:
+La posibilidad de automatizar la selección del proveedor logístico más conveniente. Hoy en día esta tarea se realiza caso por caso y de manera manual, así que también para Q cuatro 2026. Nuestro objetivo es llegar a más del 90% de los envíos.
+
+Tiago Nakasone:
+Con la selección del proveedor automatizado.
+
+Tiago Nakasone:
+En cuanto al tercer objetivo, este ya más orientado a lo que es los datos, la idea es registrar en el ERP los hitos de cada envío, desde su preparación hasta su entrega, y la idea es que para Q cuatro 2026 también queden registrados el 99%.
+
+Tiago Nakasone:
+De los envíos de vuelta desde su preparación hasta la entrega.
+
+Tiago Nakasone:
+Y por último, ya esté haciendo foco en lo que es el primer Q de 2027. La idea es reducir en un 20% el costo promedio de distribución por pedido. Así que bueno, un poco esos son los objetivos que planteamos y ahora le cedo la palabra a Esteban que va
+
+Tiago Nakasone:
+A detallar más lo que son las problemáticas y oportunidades de la empresa.
+
+[53:52] Esteban Alejandro De Nardo:
+Si hay algo más para aportar a lo que estaba diciendo Tiago es que, como podrán ver, los objetivos tienen una orientación, digamos, a digitalizar, digamos, la información, no solamente el hecho de digitalizar por digitalizar, sino que esto surge a partir de que nos reunimos con el cliente.
+
+Esteban Alejandro De Nardo:
+Entendimos, digamos, los problemas que tienen ahora. Entonces buscábamos, digamos, ganar un poco de visibilidad al proceso, sobre todo de lo que es logística, para que ellos puedan mejorar en la gestión y, a partir de ahí, optimizar procesos. Entonces, como les decía, esos objetivos planteados de visibilidad tienen que ver con las problemáticas actuales que ellos tienen.
+
+Esteban Alejandro De Nardo:
+Que ellos nos mencionaron que gran parte de su proceso, digamos, son manuales y se basan en papel. Como toda pyme, digamos, nos encontramos con esta situación, además de que, por ejemplo, al ser una pyme no es que es tan formalizada, digamos, como diciendo el encargado de logística es una persona puntual que tiene que dar su autorización y demás.
+
+Esteban Alejandro De Nardo:
+Puede ser que vaya rotando entre el dueño de la empresa, el gerente, digamos. Entonces ellos lo que buscan es tener un sistema más, quizás integrado al ERP que hoy están utilizando para poder ganar un poquito más de trazabilidad en lo que es el estado y recorrido de los envíos, el control de stock.
+
+Esteban Alejandro De Nardo:
+Así que nada, bueno, era a partir, digamos, de esta de estos problemas que encontramos hoy en la empresa. Por ejemplo, ahí podemos leer dificultad para planificar y asignar los recursos para el transporte, falta de información consolidada sobre costos y desempeños. Y también esto lleva al problema. que.
+
+Esteban Alejandro De Nardo:
+Es difícil, digamos, generar reportes y sacar conclusiones a partir de esa información. Entonces, bueno, volviendo un poquito a lo anterior, en primera instancia, una primera etapa sería como poder ganar esa visibilidad y a partir de eso vamos a avanzar en una segunda etapa donde vamos a mejorar.
+
+Esteban Alejandro De Nardo:
+Vamos a optimizar mejor el proceso de logística, es decir, bueno, a partir de la problemática actual vimos una oportunidad y planteamos la posibilidad de mejora a través de una solución tecnológica. Ese sería un poco la idea de dónde estamos parados hoy y dónde vamos a estar parados mañana.
+
+Esteban Alejandro De Nardo:
+Y bueno, pasamos a la.
+
+Esteban Alejandro De Nardo:
+Asientes de la vida.
+
+[56:21] Santiago Nicolás Martinez:
+Bien, bueno, y para los siguientes pasos lo que planteamos es ya con esta con esta información preliminar que tenemos sobre la organización, planteamos identificar y relevar más sobre los procesos actuales de la organización para lograr estructurarlos en un mapa de procesos.
+
+Santiago Nicolás Martinez:
+Que reflejen lo que comprendemos de ellos en este momento a final de Sprint uno. Además de eso, podemos estamos pensando en relevar las características de las otras dimensiones de la organización, de las otras dimensiones de la arquitectura empresarial que incluiría.
+
+Santiago Nicolás Martinez:
+Los pilares de datos, aplicaciones y tecnología, lo cual implica relevar todo tipo de repositorio de datos que proporcione información a la a los procesos, todo tipo de aplicaciones en los cuales se apalanquen se se apalanquen acciones importantes para ellos.
+
+Santiago Nicolás Martinez:
+Y la estructura de software y hardware que posee la compañía.
+
+Santiago Nicolás Martinez:
+A partir de estos puntos buscamos definir una arquitectura empresarial destino, es decir, a dónde queremos llegar describiendo un horizonte temporal y qué cambios o qué capacidades queremos ver en ese tiempo para alcanzar ese estado. Una vez planteado esto, planteamos también.
+
+Santiago Nicolás Martinez:
+Desafiar lo los objetivos estratégicos ya planteados en el sprint uno para entender desde una nueva perspectiva, desde el objetivo, desde el objetivo que tenemos, cómo nos ayudan a cómo nos ayudan a llegar a ese objetivo para tal vez modificarlos o plantear.
+
+Santiago Nicolás Martinez:
+Nuevos o remover algunos, eso no hasta ahí, hasta ahí la presentación.
+
+[58:21] Luis Alejandro Campos:
+Buenísimo chicos, muchas gracias, los felicito, buena primera presentación, Dani.
+
+[58:28] Daniela Harari:
+Buenas, ¿cómo están chicos? Un gusto conocerlos. Después vamos a tener seguramente en otro espacio, otro momento también para escucharlos más. Gracias ahí por la presentación. Creo que estuvo buena por ser la primera. Está bueno que hayan comentado como las problemáticas más relevantes de del cliente, como que.
+
+Daniela Harari:
+Creo que en ese sentido estuvo bueno que tuvieron como ese poder de resumen de lo más relevante a contar y pasaron también por todos los objetivos estratégicos. Sí, me pareció un poco que los objetivos vi que estaban como muy a corto plazo, como que creo que el más lejano era dentro de 6 meses.
+
+Daniela Harari:
+La mayoría eran dentro de estos 3 meses, recuerden que parte de que sean Smart es que sean alcanzables también y me parece que probablemente tengan objetivos como más ambiciosos de la empresa. Está bueno quizás ahí darles una vuelta con ellos para estar seguros si están teniendo todo en cuenta y no solo como lo más corto plazo, sino como más en donde la empresa se imagina estar en
+
+Daniela Harari:
+Se podría hacer en un año en dos, como está bueno y ondar un poquito más profundo ahí y también aparte de que sean estratégicos, me pareció quizás ver alguno como que era muy puntual, como poder medir algo en el ERP o algo así. Creo que es más importante, ok, para qué lo querés hacer, como ir un poco más profundo.
+
+Daniela Harari:
+Pero bueno, es parte de las tareas que van a seguir teniendo en los próximos encuentros con el cliente. Después, la parte de próximos pasos, me parece que está bueno que lo den. Quizás fue como mucha información de todo lo que va a seguir pasando, como adelantarse demasiado. Quizás hubiese usado el tiempo para.
+
+Daniela Harari 1 hora:
+Para explorar un poquito más acerca de la empresa o de las problemáticas que estaban comentando, pero nada, o sea, sí está bueno siempre las presentaciones, siempre recomendamos que terminen con próximos pasos, así que en ese sentido me pareció que estuvo bueno que lo hayan pensado. Nada, creo que creo que eso a nivel visual.
+
+[1:00:18] Luis Alejandro Campos:
+Yeah.
+
+[1:00:29] Daniela Harari:
+Por momentos, bueno, como está justo mucho texto, recuerden que la idea es que sea como un acompañamiento a lo que ustedes cuenten, pero que sea de fácil lectura, que rápidamente se pueda entender de lo que están comentando y que solamente la pantalla esté como lo más relevante. Entonces eso nada para también para las próximas slides que vengan, está bueno irlo teniendo en cuenta.
+
+Daniela Harari 1 hora:
+Y por último, la parte de la presentación de consultora, de consultora, ustedes creo que fue como muy rápida y fue como todo en la primera portada. Recomiendo que puedan presentarse un poco más, qué hace cada uno de ustedes, cuál es el rol que tienen, como quizás dedicarle incluso un slide entera a
+
+Daniela Harari 1 hora:
+A la prestación de consultora en vez de quedarse en la portada, creo que hubiese sido también mejor.
+
+Daniela Harari 1 hora:
+Creo que son, no más.
+
+[1:01:18] Luis Alejandro Campos:
+Buenísimo Dani, gracias. Buenos equipo, felicitaciones, gracias por la presentación.
+
+Luis Alejandro Campos 1 hora:
+Aprovecho y les hago a todos un poco de feedback así más general, que me parece que aplica y les va a servir a todos los equipos. En primer lugar, pónganse en modo consultora. Acuérdense que ustedes al final del cuatrimestre le van a presentar esta
+
+Luis Alejandro Campos 1 hora:
+Presentación o le van a pasar la grabación o va a estar acá en la sesión con nosotros el cliente, con lo cual en ese sentido pónganse el sombrero del consultor.
+
+Luis Alejandro Campos 1 hora:
+Como bien le decía a las chicas, ojo con el lenguaje, guarda que ustedes no son parte del cliente, no estamos, no buscamos, ¿relevaron qué? En general, me parece que hay que reforzar un poco el concepto de estrategia. Los objetivos vi mucho dando vuelta que tal vez eran más requerimientos.
+
+Luis Alejandro Campos 1 hora:
+más objetivos tácticos operativos que objetivos estratégicos. Acuérdense que los objetivos estratégicos van bien alineados a el crecimiento del negocio, a cómo cumplir la visión que tiene la organización. No tanto al operativo tal vez o al inmediato. Revisen un poco eso.
+
+Luis Alejandro Campos 1 hora:
+Y.
+
+Luis Alejandro Campos 1 hora:
+Después en general, intentan evitar algunos antipatrones de diseño de la IA, entiendo que es la primera representación, también quisieron jugar la mayoría, lo seguro, pero piensen que hay antipatrones de diseño que la IA siempre mete, demasiado texto, texto muy chico.
+
+Luis Alejandro Campos 1 hora:
+Algunos problemas de contraste, vienen algunas slides que no se veían bien, exceso de cards, demasiado espacio en blanco en la distribución de las cards dentro de la presentación. Esas son algunas cuestiones que tiende a hacer las presentaciones generadas por inteligencia artificial. Y está bueno por ahí que ustedes las tuneen por ahí un poquito más y que le impriman.
+
+Luis Alejandro Campos 1 hora:
+un poco más de su identidad como consultora que la vayan desarrollando. Acuérdense siempre también que importa más lo que ustedes cuentan, el relato, la narrativa que el soporte visual. Me parece que en general por una presentación estuvieron muy bien, entiendo que faltó también
+
+Luis Alejandro Campos 1 hora:
+Un poco de ensayo, pero vamos, vamos todos por el buen camino.
+
+Luis Alejandro Campos 1 hora:
+Bueno, ¿alguna consulta, alguna duda?
+
+Luis Alejandro Campos 1 hora:
+No sé chicas si ustedes quieren agregar algo.
+
+[1:03:52] Ingrid Karen Pecorelli:
+no.
+
+[1:03:53] Daniela Harari:
+No, vamos.
+
+[1:03:55] Maria Belen Pena:
+No, tampoco.
+
+[1:03:57] Luis Alejandro Campos:
+Buenísimo, voy frenando la grabada. Si, me linda encima.
+
+[1:03:58] Melina Gabriela Arevalo:
+Yo tengo una consulta respecto a la devolución que nos hicieron y las correcciones que podríamos, o sea, las cosas que podíamos mejorar, lo podemos trabajar en la presentación y en el primer trabajo para la para presentar de nuevo, digamos.
+
+[1:04:03] Luis Alejandro Campos:
+Y.
+
+Luis Alejandro Campos 1 hora:
+Sí.
+
+Luis Alejandro Campos 1 hora:
+A ver, ustedes como están haciendo un trabajo de naturaleza incremental e iterativa, o sea, cuando hagan la próxima presentación van a presentar los mismos temas, o sea, tienen que hacer la presentación completa, no es que van a presentar únicamente lo que trabajaron desde esta presentación, claro. Lo que sí,
+
+[1:04:20] Melina Gabriela Arevalo:
+Mhm.
+
+Melina Gabriela Arevalo 1 hora:
+El punto 2, el punto uno.
+
+[1:04:34] Luis Alejandro Campos:
+Va a pasar que la presentación del cliente seguramente la van a tener que achicar. La próxima presentación van a hablar mucho más de lo que tiene que ver con arquitectura empresarial, que es un poco más el fuerte de lo que van a trabajar ustedes. Pero la presentación de la consultora, aunque sea un slide tiene que estar, la presentación del cliente lo tienen que caracterizar. Con lo cual sí, un poco la idea es que tomen el feedback.
+
+Luis Alejandro Campos 1 hora:
+Vayan corrigiendo a la idea de llegar a la presentación final, al ensayo en realidad y a la presentación final de la mejor manera posible.
+
+[1:04:53] Melina Gabriela Arevalo:
+Mejor.
+
+Melina Gabriela Arevalo 1 hora:
+Bueno, gracias.
+
+Luis Alejandro Campos:
+Luis Alejandro Campos detuvo la transcripción
