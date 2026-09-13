@@ -1,0 +1,9 @@
+# Evitar que Git toque binarios (conversion de saltos de linea, etc.)
+*.docx binary
+*.pptx binary
+*.xlsx binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
