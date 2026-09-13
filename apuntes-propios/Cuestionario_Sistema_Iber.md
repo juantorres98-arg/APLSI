@@ -16,12 +16,13 @@ Este cuestionario tiene como objetivo relevar información sobre el sistema que 
 2. Actualmente, el estado de un pedido online (en preparación / despachado / entregado) se actualiza de forma manual. ¿Es posible conectar el sistema con la empresa de envíos para que esa actualización sea automática?
 3. ¿La base de datos de Iber (Uruguay) es la misma que la de Culpable (Argentina), o son dos sistemas independientes entre sí?
 4. ¿Con qué frecuencia se realizan copias de seguridad de la información? Ante una falla grave, ¿qué volumen de información se podría llegar a perder y cuánto tiempo tomaría restablecer el sistema?
-5. ¿El sistema (Odoo) está en una versión actualizada, o corresponde a una versión anterior? ¿Está prevista alguna actualización?
+5. ¿El sistema (Odoo) está en una versión actualizada, o corresponde a una versión anterior? Si es una versión anterior, ¿actualizarla sería un ajuste menor o un proyecto grande? ¿Está prevista alguna actualización?
 
 ## 2. Preguntas secundarias (a tratar si el tiempo lo permite)
 
 6. Ante un incidente o falla, ¿cómo funciona el soporte? ¿A quién se contacta y en qué plazo suelen responder?
 7. Las mejoras o cambios al sistema, ¿los solicita Iber puntualmente, o Montevideo COMM también las propone?
+8. Si Iber quisiera avanzar con una propuesta de mejora concreta (por ejemplo, sobre la logística), ¿cómo sería el proceso desde el lado de Montevideo COMM: cómo la evaluarían y, a grandes rasgos, en qué plazos podrían encararla?
 
 ## 3. Información ya relevada (para revisar y confirmar o corregir)
 
