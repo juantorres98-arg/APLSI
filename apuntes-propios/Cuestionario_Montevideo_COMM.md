@@ -19,6 +19,7 @@
   - Motor de base de datos (Odoo usa PostgreSQL por defecto, pero no es observable desde afuera).
   - Pasarela de pagos (el checkout completo requiere carrito/sesión activa; no se expuso el proveedor en las páginas públicas revisadas).
   - Hosting exacto: el header `Via: 1.1 sitio103078.p10.mvdsimple.uy` sugiere un proveedor de hosting/VPS uruguayo (no un cloud público tipo AWS/GCP/Azure), pero no es concluyente — confirmar en la entrevista en vez de asumirlo.
+- **¿Iber y "Culpable" (Argentina) comparten la misma base de Odoo?** Se analizó también `culpable.com.ar` (mismo tipo de análisis externo). También es Odoo, pero responde `Werkzeug/3.0.1 Python/3.12.0` y expone Odoo 18 (`websocket_worker_version: "18.0-5"`), muy distinto de la versión vieja de `iber.uy` (`Werkzeug/0.11.15 Python/3.6.12`). Ambos sitios están alojados por el mismo proveedor (`mvdsimple.uy`), pero como sitios distintos (`sitio103078.p10...` vs `sitio153455.p18...`). Esto sugiere que **son dos instancias separadas**, no una base compartida — pero no es 100% concluyente, así que la pregunta de la sección 1 sobre esto sigue en pie para confirmar directamente.
 
 ---
 
@@ -35,7 +36,7 @@
 - ¿Qué motor de base de datos usa el ERP (Odoo)? ¿Postgres (el nativo de Odoo), u otro?
 - ¿La base de datos está alojada en la nube o on-premise (servidor propio de IBER)? Si es nube, ¿qué proveedor (AWS, GCP, Azure, hosting local)?
 - ¿Es una única base de datos o hay varias (por ejemplo, una para el ERP, otra para e-commerce, otra para el "Excel automatizado" que mencionó el cliente)?
-- **Pregunta puntual de nuestro relevamiento con el cliente:** ¿la base de Odoo de IBER (Uruguay) está compartida/integrada con la de "Culpable" (la empresa hermana en Argentina), o son instancias separadas del mismo software?
+- **Pregunta puntual de nuestro relevamiento con el cliente:** ¿la base de Odoo de IBER (Uruguay) está compartida/integrada con la de "Culpable" (la empresa hermana en Argentina), o son instancias separadas del mismo software? — El análisis externo de ambos sitios (ver hallazgos arriba) sugiere que son instancias separadas; usar la pregunta para confirmarlo, no para partir de cero.
 - Entidades/módulos principales que administra el sistema (productos, stock, órdenes de compra, clientes, envíos, etc.) — para completar la columna "Entidades principales".
 - Seguridad y accesos: ¿cómo se gestionan los permisos por rol/usuario? ¿Hay logs de auditoría?
 - Medidas de seguridad: cifrado, backups (frecuencia, dónde se guardan), plan de recuperación ante desastres.
