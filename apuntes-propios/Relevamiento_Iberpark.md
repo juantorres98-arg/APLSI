@@ -84,6 +84,7 @@ Dirección
 - **Módulo de pronóstico de compras:** en base a stock actual e histórico de ventas, determina diariamente qué falta por proveedor y por local, generando una orden de compra sugerida que luego confirma el área de compras según calendario de entrega.
 - **Excel de apoyo:** vistas y reportes automatizados sobre ventas del último período, usado como complemento para la reposición.
 - **E-commerce:** integrado con generación automática de etiqueta de envío y número de envío al confirmar un pedido.
+- **Pasarela de pagos (evidencia externa, 2026-09-13):** se probó el checkout real de `iber.uy` y se confirmó que el cobro se procesa a través de **PlaceToPay** (proveedor de pagos regional), que agrupa varios medios (tarjetas Visa/Mastercard/Amex vía Scotiabank, y billeteras/homebanking de otros bancos). Al elegir "eBROU" como método, PlaceToPay redirige directamente a la plataforma real del BROU (`ebanking.brou.com.uy`) para autorizar el pago — es decir, la autorización final la hace el banco, no un desarrollo propio de Montevideo COMM.
 - **Proveedor externo del sistema:** Montevideo COMM (desarrollo y mantenimiento del ERP/sistema).
 - **Comunicación por correo:** existe una casilla mencionada como "Rova Iber" (audio 013) para recepción de pedidos/comprobantes — **pendiente confirmar** nombre y uso exacto (no verificado aún contra el repo).
 
